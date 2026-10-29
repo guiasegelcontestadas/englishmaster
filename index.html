@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="es" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EnglishMaster — Aprende Inglés Gratis con Lecciones y Juegos</title>
+  <meta name="description" content="Plataforma interactiva gratuita para aprender inglés desde cero: gramática explicada, vocabulario visual y ejercicios de pronunciación.">
+  <meta name="robots" content="noindex, nofollow">
+  <!--meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"-->
+  
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+    
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background-color: #f8fafc;
+      color: #0f172a;
+    }
+    
+    .font-mono-code {
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .lesson-card {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      transition: all 0.2s ease-in-out;
+    }
+
+    .lesson-card:hover {
+      border-color: #cbd5e1;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05);
+      transform: translateY(-2px);
+    }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900 font-sans min-h-screen flex flex-col justify-between selection:bg-blue-100 selection:text-blue-900">
+
+  <!-- ==================== HEADER CLARO Y LIMPIO ==================== -->
+  <header class="border-b border-slate-200 bg-white/90 backdrop-blur-xl sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between gap-4">
+      
+      <!-- Logo del sitio de Inglés -->
+      <a href="./index.html" class="flex items-center space-x-3 group shrink-0">
+        <div class="w-10 h-10 rounded-xl bg-blue-600 flex items-center justify-center text-white shadow-md shadow-blue-500/20 group-hover:bg-blue-700 transition-colors">
+          <i data-lucide="languages" class="w-5 h-5 text-white"></i>
+        </div>
+        <div>
+          <span class="text-base font-extrabold tracking-tight text-slate-900 flex items-center gap-1.5">
+            ENGLISH<span class="text-blue-600">MASTER</span>
+            <span class="text-[9px] font-mono-code bg-blue-50 text-blue-700 border border-blue-200 px-1.5 py-0.5 rounded-md">FREE</span>
+          </span>
+          <span class="block text-[10px] text-slate-400 font-mono-code">ACADEMIA DE INGLÉS ONLINE</span>
+        </div>
+      </a>
+
+      <!-- Navegación -->
+      <nav class="hidden md:flex items-center space-x-1 text-xs font-bold text-slate-600">
+        <a href="#gramatica" class="px-3 py-1.5 rounded-lg hover:text-slate-900 hover:bg-slate-100 transition-colors">Gramática</a>
+        <a href="#juegos" class="px-3 py-1.5 rounded-lg hover:text-slate-900 hover:bg-slate-100 transition-colors">Juegos & Audio</a>
+        <a href="#vocabulario" class="px-3 py-1.5 rounded-lg hover:text-slate-900 hover:bg-slate-100 transition-colors">Vocabulario</a>
+        <a href="#patrocinado" class="px-3 py-1.5 rounded-lg text-amber-600 hover:bg-amber-50 transition-colors flex items-center gap-1.5 border border-amber-200">
+          <i data-lucide="sparkles" class="w-3.5 h-3.5"></i> Frecuencias de Estudio
+        </a>
+      </nav>
+
+      <!-- Badge de Estado -->
+      <div class="hidden sm:flex items-center space-x-2 bg-slate-100 border border-slate-200 px-3 py-1.5 rounded-full text-[11px] text-slate-600 font-mono-code">
+        <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
+        <span>Acceso 100% Libre</span>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- ==================== CONTENIDO PRINCIPAL ==================== -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 py-10 sm:py-16 flex-grow w-full space-y-16">
+
+    <!-- HERO SECTION ENFOCADO EN INGLÉS -->
+    <section class="text-center max-w-3xl mx-auto space-y-6 pt-4">
+      <div class="inline-flex items-center space-x-2 bg-blue-50 border border-blue-100 px-3.5 py-1.5 rounded-full text-xs font-semibold text-blue-700">
+        <i data-lucide="award" class="w-3.5 h-3.5"></i>
+        <span>Aprende Inglés de Forma Práctica e Interactiva</span>
+      </div>
+
+      <h1 class="text-4xl sm:text-6xl font-extrabold tracking-tight text-slate-900 leading-[1.15]">
+        Domina el Inglés Real <br class="hidden sm:inline">
+        <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+          Sin Complicaciones Gramaticales
+        </span>
+      </h1>
+
+      <p class="text-sm sm:text-base text-slate-600 leading-relaxed max-w-xl mx-auto font-normal">
+        Explicaciones claras paso a paso, ejercicios con pronunciación nativa y minijuegos dinámicos para acelerar tu aprendizaje desde cero.
+      </p>
+
+      <!-- Buscador de lecciones -->
+      <div class="relative max-w-lg mx-auto pt-2">
+        <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none text-slate-400">
+          <i data-lucide="search" class="w-4 h-4"></i>
+        </div>
+        <input type="text" id="searchInput" onkeyup="filterHub()" placeholder="¿Qué quieres aprender hoy? (ej. Presente Simple, Verbo To Be)..." 
+               class="w-full pl-10 pr-4 py-3 bg-white border border-slate-200 rounded-xl text-slate-900 placeholder-slate-400 text-xs focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100 shadow-sm transition-all font-mono-code">
+      </div>
+    </section>
+
+    <!-- BANNER ANUNCIO PATROCINADO (QUANTUM AUDIO - TEXTO CORREGIDO Y 100% LEGIBLE) -->
+    <section id="patrocinado" class="relative rounded-3xl p-6 sm:p-8 overflow-hidden bg-[#11162b] text-white shadow-xl border border-slate-800">
+      
+      <!-- Encabezado del Anuncio -->
+      <div class="flex justify-between items-center border-b border-slate-700/80 pb-3 mb-6">
+        <div class="flex items-center gap-2">
+          <span class="text-[10px] font-mono-code uppercase tracking-widest text-blue-200 bg-blue-900/60 px-2.5 py-1 rounded border border-blue-700/50 font-bold">
+            PATROCINADO
+          </span>
+          <span class="text-xs text-slate-300">QuantumAudio Studio</span>
+        </div>
+        <span class="text-xs text-amber-400 font-mono-code flex items-center gap-1 font-bold">
+          <i data-lucide="headphones" class="w-3.5 h-3.5"></i> Focus & Study Audio
+        </span>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center relative z-10">
+        
+        <!-- Texto con colores corregidos obligatorios (Sin sombras oscuras ni estilos rotos) -->
+        <div class="lg:col-span-8 space-y-3">
+          <h2 class="text-2xl sm:text-3xl font-extrabold text-white leading-tight">
+            ¿Te cuesta memorizar reglas gramaticales en inglés?
+          </h2>
+          <p class="text-sm text-slate-200 leading-relaxed font-normal">
+            Sintoniza tu cerebro con la <strong class="text-amber-300 font-bold">Frecuencia 369 Hz de QuantumAudio®</strong>. Estimula las ondas cerebrales Alfa y Theta para acelerar la retención de vocabulario y mantener un enfoque láser durante tus sesiones de estudio.
+          </p>
+          <div class="flex flex-wrap items-center gap-4 pt-2 text-xs text-slate-300 font-mono-code">
+            <span class="flex items-center gap-1.5"><i data-lucide="check-circle-2" class="w-4 h-4 text-emerald-400"></i> Audio Lossless HD</span>
+            <span class="flex items-center gap-1.5"><i data-lucide="check-circle-2" class="w-4 h-4 text-emerald-400"></i> Garantía 7 Días</span>
+            <span class="flex items-center gap-1.5"><i data-lucide="check-circle-2" class="w-4 h-4 text-emerald-400"></i> 70% OFF Estudiantes</span>
+          </div>
+        </div>
+
+        <!-- Tarjeta del Precio / CTA -->
+        <div class="lg:col-span-4 bg-slate-900/90 p-5 rounded-2xl border border-slate-700 text-center space-y-3 backdrop-blur-md">
+          <span class="text-[10px] text-slate-400 uppercase tracking-widest font-mono-code block">Oferta Estudiantes</span>
+          <div>
+            <span class="text-xs text-slate-400 line-through">$99.90 USD</span>
+            <div class="text-3xl font-extrabold text-white font-mono-code">$29<span class="text-xs text-amber-400 font-normal">.97 USD</span></div>
+          </div>
+          <a href="https://quantumaudiostudio.com/" target="_blank" rel="noopener" class="block w-full bg-amber-400 hover:bg-amber-500 text-slate-950 font-black py-3 px-4 rounded-xl text-xs transition-all shadow-lg text-center tracking-wide uppercase">
+            PROBAR FRECUENCIA →
+          </a>
+          <p class="text-[10px] text-slate-400 font-mono-code">Pago seguro procesado en sitio oficial.</p>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- SECCIÓN 1: LECCIONES DE GRAMÁTICA -->
+    <section id="gramatica" class="space-y-6">
+      <div class="flex items-center justify-between border-b border-slate-200 pb-3">
+        <div class="flex items-center space-x-2">
+          <i data-lucide="book-open" class="w-4 h-4 text-blue-600"></i>
+          <h2 class="text-sm font-bold text-slate-900 uppercase tracking-wider font-mono-code">Lecciones de Gramática Básica & Intermedia</h2>
+        </div>
+        <span class="text-[11px] text-slate-400 font-mono-code">Niveles A1 - B2</span>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+        
+        <!-- Lección 1 -->
+        <a href="./blog/presente-simple.html" class="hub-card lesson-card p-5 rounded-2xl group flex flex-col justify-between">
+          <div class="space-y-3">
+            <div class="flex justify-between items-start">
+              <span class="text-[10px] font-mono-code bg-blue-50 text-blue-700 px-2 py-0.5 rounded border border-blue-100 font-semibold">Nivel A1</span>
+              <span class="text-[11px] text-slate-400 font-mono-code">8 min lectura</span>
+            </div>
+            <div>
+              <h3 class="text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors">Presente Simple (Present Simple)</h3>
+              <p class="text-xs text-slate-500 mt-1.5 leading-relaxed font-normal">Aprende la regla de la tercera persona (-s/-es), la estructura afirmativa, negativa y preguntas con Do/Does.</p>
+            </div>
+          </div>
+          <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-400 font-mono-code">
+            <span>Ver Lección</span>
+            <i data-lucide="arrow-right" class="w-3.5 h-3.5 text-slate-400 group-hover:text-blue-600 group-hover:translate-x-1 transition-all"></i>
+          </div>
+        </a>
+
+        <!-- Lección 2 -->
+        <a href="#" class="hub-card lesson-card p-5 rounded-2xl group flex flex-col justify-between">
+          <div class="space-y-3">
+            <div class="flex justify-between items-start">
+              <span class="text-[10px] font-mono-code bg-blue-50 text-blue-700 px-2 py-0.5 rounded border border-blue-100 font-semibold">Nivel A1</span>
+              <span class="text-[11px] text-slate-400 font-mono-code">6 min lectura</span>
+            </div>
+            <div>
+              <h3 class="text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors">Pasado Simple y Verbos Irregulares</h3>
+              <p class="text-xs text-slate-500 mt-1.5 leading-relaxed font-normal">Cómo usar la terminación -ed en verbos regulares y lista práctica de los verbos irregulares más comunes.</p>
+            </div>
+          </div>
+          <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-400 font-mono-code">
+            <span>Ver Lección</span>
+            <i data-lucide="arrow-right" class="w-3.5 h-3.5 text-slate-400 group-hover:text-blue-600 group-hover:translate-x-1 transition-all"></i>
+          </div>
+        </a>
+
+        <!-- Lección 3 -->
+        <a href="#" class="hub-card lesson-card p-5 rounded-2xl group flex flex-col justify-between">
+          <div class="space-y-3">
+            <div class="flex justify-between items-start">
+              <span class="text-[10px] font-mono-code bg-indigo-50 text-indigo-700 px-2 py-0.5 rounded border border-indigo-100 font-semibold">Nivel A2</span>
+              <span class="text-[11px] text-slate-400 font-mono-code">10 min lectura</span>
+            </div>
+            <div>
+              <h3 class="text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors">Presente Continuo vs. Presente Simple</h3>
+              <p class="text-xs text-slate-500 mt-1.5 leading-relaxed font-normal">Descubre cuándo usar el gerundio (-ing) para acciones en el momento vs. rutinas permanentes.</p>
+            </div>
+          </div>
+          <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-400 font-mono-code">
+            <span>Ver Lección</span>
+            <i data-lucide="arrow-right" class="w-3.5 h-3.5 text-slate-400 group-hover:text-blue-600 group-hover:translate-x-1 transition-all"></i>
+          </div>
+        </a>
+
+      </div>
+    </section>
+
+    <!-- SECCIÓN 2: JUEGOS INTERACTIVOS CON AUDIO -->
+    <section id="juegos" class="space-y-6">
+      <div class="flex items-center justify-between border-b border-slate-200 pb-3">
+        <div class="flex items-center space-x-2">
+          <i data-lucide="gamepad-2" class="w-4 h-4 text-emerald-600"></i>
+          <h2 class="text-sm font-bold text-slate-900 uppercase tracking-wider font-mono-code">Práctica Interactiva & Pronunciación</h2>
+        </div>
+        <span class="text-[11px] text-slate-400 font-mono-code">Speech Synthesis Engine</span>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        
+        <!-- Juego 1 -->
+        <a href="./juegos/quiz-animales.html" class="hub-card lesson-card p-5 rounded-2xl group">
+          <div class="bg-slate-50 p-3 rounded-xl border border-slate-200 flex justify-between items-center mb-3">
+            <span class="text-2xl">🔊🐶</span>
+            <span class="text-[10px] font-mono-code text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100 font-bold">Audio Nativo</span>
+          </div>
+          <h3 class="text-sm font-bold text-slate-900 group-hover:text-emerald-600 transition-colors">Animals Quiz + Audio</h3>
+          <p class="text-xs text-slate-500 mt-1">Escucha la pronunciación exacta de cada animal en inglés y pon a prueba tu oído.</p>
+        </a>
+
+        <!-- Juego 2 -->
+        <a href="#" class="hub-card lesson-card p-5 rounded-2xl group">
+          <div class="bg-slate-50 p-3 rounded-xl border border-slate-200 flex justify-between items-center mb-3">
+            <span class="text-2xl">🧠💬</span>
+            <span class="text-[10px] font-mono-code text-blue-700 bg-blue-50 px-2 py-0.5 rounded border border-blue-100 font-bold">Vocabulario</span>
+          </div>
+          <h3 class="text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors">50 Verbos Más Usados en Inglés</h3>
+          <p class="text-xs text-slate-500 mt-1">Juego de tarjetas con audio para memorizar los verbos indispensables en tiempo récord.</p>
+        </a>
+
+        <!-- Juego 3 -->
+        <a href="#" class="hub-card lesson-card p-5 rounded-2xl group">
+          <div class="bg-slate-50 p-3 rounded-xl border border-slate-200 flex justify-between items-center mb-3">
+            <span class="text-2xl">🎯⚡</span>
+            <span class="text-[10px] font-mono-code text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded border border-indigo-100 font-bold">Reto Rápido</span>
+          </div>
+          <h3 class="text-sm font-bold text-slate-900 group-hover:text-indigo-600 transition-colors">Desafío de Phrasal Verbs</h3>
+          <p class="text-xs text-slate-500 mt-1">Completa las oraciones en menos de 10 segundos y domina los verbos compuestos.</p>
+        </a>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="border-t border-slate-200 bg-white py-8 text-xs text-slate-500 font-mono-code">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row justify-between items-center gap-4">
+      <div class="flex items-center space-x-2">
+        <div class="w-2 h-2 rounded-full bg-emerald-500"></div>
+        <p>© 2026 EnglishMaster. Portal de aprendizaje independiente.</p>
+      </div>
+
+      <div class="flex items-center space-x-6 text-[11px]">
+        <a href="./privacidad.html" class="hover:text-slate-900 transition-colors">Privacidad</a>
+        <a href="./terminos.html" class="hover:text-slate-900 transition-colors">Términos</a>
+        <a href="./contacto.html" class="hover:text-slate-900 transition-colors">Contacto</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    lucide.createIcons();
+
+    function filterHub() {
+      const query = document.getElementById('searchInput').value.toLowerCase().trim();
+      const cards = document.querySelectorAll('.hub-card');
+
+      cards.forEach(card => {
+        const text = card.innerText.toLowerCase();
+        if (text.includes(query)) {
+          card.style.display = '';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    }
+  </script>
+</body>
+</html>
