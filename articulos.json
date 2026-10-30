@@ -14,5 +14,13 @@
     "imagen": "../../assets/pasado-simple-en-ingles-reglas-y-ejemplos.webp",
     "alt": "Infografía educativa sobre las reglas y ejemplos del pasado simple en inglés.",
     "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Articulo aprobado",
+    "slug": "articulo-aprobado",
+    "descripcion": "Aprende todo sobre articulo aprobado con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/articulo-aprobado.webp",
+    "alt": "Imagen aprobada de prueba",
+    "categoria": "gramatica"
   }
 ]
