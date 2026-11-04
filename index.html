@@ -1,311 +1,418 @@
 <!DOCTYPE html>
-<html lang="es" class="scroll-smooth">
+<html lang="es" class="scroll-smooth overflow-x-hidden">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>EnglishMaster — Aprende Inglés Gratis con Lecciones y Juegos</title>
-  <meta name="description" content="Plataforma interactiva gratuita para aprender inglés desde cero: gramática explicada, vocabulario visual y ejercicios de pronunciación.">
-  <meta name="robots" content="noindex, nofollow">
-  <!--meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"-->
-  
-  <!-- Tailwind CSS -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <!-- Lucide Icons -->
-  <script src="https://unpkg.com/lucide@latest"></script>
-
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Englishmaster | Aprende Inglés Gratis - Gramática, Vocabulario y Phrasal Verbs</title>
     
-    body {
-      font-family: 'Plus Jakarta Sans', sans-serif;
-      background-color: #f8fafc;
-      color: #0f172a;
-    }
+    <!-- Meta SEO Básico -->
+    <meta name="description" content="Domina el idioma inglés con Englishmaster. Lecciones gratuitas de gramática, phrasal verbs, vocabulario práctico y expresiones comunes con ejemplos reales.">
+    <meta name="keywords" content="aprender ingles, gramatica inglesa, phrasal verbs, vocabulario en ingles, cursos de ingles gratis">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://englishmaster.quantumaudiostudio.com/">
     
-    .font-mono-code {
-      font-family: 'JetBrains Mono', monospace;
-    }
+    <!-- Favicon -->
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="assets/favicon.svg">
 
-    .lesson-card {
-      background: #ffffff;
-      border: 1px solid #e2e8f0;
-      transition: all 0.2s ease-in-out;
-    }
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://englishmaster.quantumaudiostudio.com/">
+    <meta property="og:title" content="Englishmaster | Aprende Inglés Gratis">
+    <meta property="og:description" content="Recursos, guías y lecciones interactivas para hablar inglés con fluidez y precisión.">
+    <meta property="og:image" content="https://englishmaster.quantumaudiostudio.com/assets/gramatica-a1-principiante.webp">
 
-    .lesson-card:hover {
-      border-color: #cbd5e1;
-      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05);
-      transform: translateY(-2px);
-    }
-  </style>
-</head>
-<body class="bg-slate-50 text-slate-900 font-sans min-h-screen flex flex-col justify-between selection:bg-blue-100 selection:text-blue-900">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Englishmaster | Aprende Inglés Gratis">
+    <meta name="twitter:description" content="Cursos y recursos prácticos de inglés para todos los niveles.">
+    <meta name="twitter:image" content="https://englishmaster.quantumaudiostudio.com/assets/gramatica-a1-principiante.webp">
 
-  <!-- ==================== HEADER CLARO Y LIMPIO ==================== -->
-  <header class="border-b border-slate-200 bg-white/90 backdrop-blur-xl sticky top-0 z-50">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between gap-4">
-      
-      <!-- Logo del sitio de Inglés -->
-      <a href="./index.html" class="flex items-center space-x-3 group shrink-0">
-        <div class="w-10 h-10 rounded-xl bg-blue-600 flex items-center justify-center text-white shadow-md shadow-blue-500/20 group-hover:bg-blue-700 transition-colors">
-          <i data-lucide="languages" class="w-5 h-5 text-white"></i>
-        </div>
-        <div>
-          <span class="text-base font-extrabold tracking-tight text-slate-900 flex items-center gap-1.5">
-            ENGLISH<span class="text-blue-600">MASTER</span>
-            <span class="text-[9px] font-mono-code bg-blue-50 text-blue-700 border border-blue-200 px-1.5 py-0.5 rounded-md">FREE</span>
-          </span>
-          <span class="block text-[10px] text-slate-400 font-mono-code">ACADEMIA DE INGLÉS ONLINE</span>
-        </div>
-      </a>
-
-      <!-- Navegación -->
-      <nav class="hidden md:flex items-center space-x-1 text-xs font-bold text-slate-600">
-        <a href="#gramatica" class="px-3 py-1.5 rounded-lg hover:text-slate-900 hover:bg-slate-100 transition-colors">Gramática</a>
-        <a href="#juegos" class="px-3 py-1.5 rounded-lg hover:text-slate-900 hover:bg-slate-100 transition-colors">Juegos & Audio</a>
-        <a href="#vocabulario" class="px-3 py-1.5 rounded-lg hover:text-slate-900 hover:bg-slate-100 transition-colors">Vocabulario</a>
-        <a href="#patrocinado" class="px-3 py-1.5 rounded-lg text-amber-600 hover:bg-amber-50 transition-colors flex items-center gap-1.5 border border-amber-200">
-          <i data-lucide="sparkles" class="w-3.5 h-3.5"></i> Frecuencias de Estudio
-        </a>
-      </nav>
-
-      <!-- Badge de Estado -->
-      <div class="hidden sm:flex items-center space-x-2 bg-slate-100 border border-slate-200 px-3 py-1.5 rounded-full text-[11px] text-slate-600 font-mono-code">
-        <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
-        <span>Acceso 100% Libre</span>
-      </div>
-
-    </div>
-  </header>
-
-  <!-- ==================== CONTENIDO PRINCIPAL ==================== -->
-  <main class="max-w-7xl mx-auto px-4 sm:px-6 py-10 sm:py-16 flex-grow w-full space-y-16">
-
-    <!-- HERO SECTION ENFOCADO EN INGLÉS -->
-    <section class="text-center max-w-3xl mx-auto space-y-6 pt-4">
-      <div class="inline-flex items-center space-x-2 bg-blue-50 border border-blue-100 px-3.5 py-1.5 rounded-full text-xs font-semibold text-blue-700">
-        <i data-lucide="award" class="w-3.5 h-3.5"></i>
-        <span>Aprende Inglés de Forma Práctica e Interactiva</span>
-      </div>
-
-      <h1 class="text-4xl sm:text-6xl font-extrabold tracking-tight text-slate-900 leading-[1.15]">
-        Domina el Inglés Real <br class="hidden sm:inline">
-        <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-          Sin Complicaciones Gramaticales
-        </span>
-      </h1>
-
-      <p class="text-sm sm:text-base text-slate-600 leading-relaxed max-w-xl mx-auto font-normal">
-        Explicaciones claras paso a paso, ejercicios con pronunciación nativa y minijuegos dinámicos para acelerar tu aprendizaje desde cero.
-      </p>
-
-      <!-- Buscador de lecciones -->
-      <div class="relative max-w-lg mx-auto pt-2">
-        <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none text-slate-400">
-          <i data-lucide="search" class="w-4 h-4"></i>
-        </div>
-        <input type="text" id="searchInput" onkeyup="filterHub()" placeholder="¿Qué quieres aprender hoy? (ej. Presente Simple, Verbo To Be)..." 
-               class="w-full pl-10 pr-4 py-3 bg-white border border-slate-200 rounded-xl text-slate-900 placeholder-slate-400 text-xs focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100 shadow-sm transition-all font-mono-code">
-      </div>
-    </section>
-
-    <!-- BANNER ANUNCIO PATROCINADO (QUANTUM AUDIO - TEXTO CORREGIDO Y 100% LEGIBLE) -->
-    <section id="patrocinado" class="relative rounded-3xl p-6 sm:p-8 overflow-hidden bg-[#11162b] text-white shadow-xl border border-slate-800">
-      
-      <!-- Encabezado del Anuncio -->
-      <div class="flex justify-between items-center border-b border-slate-700/80 pb-3 mb-6">
-        <div class="flex items-center gap-2">
-          <span class="text-[10px] font-mono-code uppercase tracking-widest text-blue-200 bg-blue-900/60 px-2.5 py-1 rounded border border-blue-700/50 font-bold">
-            PATROCINADO
-          </span>
-          <span class="text-xs text-slate-300">QuantumAudio Studio</span>
-        </div>
-        <span class="text-xs text-amber-400 font-mono-code flex items-center gap-1 font-bold">
-          <i data-lucide="headphones" class="w-3.5 h-3.5"></i> Focus & Study Audio
-        </span>
-      </div>
-
-      <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center relative z-10">
-        
-        <!-- Texto con colores corregidos obligatorios (Sin sombras oscuras ni estilos rotos) -->
-        <div class="lg:col-span-8 space-y-3">
-          <h2 class="text-2xl sm:text-3xl font-extrabold text-white leading-tight">
-            ¿Te cuesta memorizar reglas gramaticales en inglés?
-          </h2>
-          <p class="text-sm text-slate-200 leading-relaxed font-normal">
-            Sintoniza tu cerebro con la <strong class="text-amber-300 font-bold">Frecuencia 369 Hz de QuantumAudio®</strong>. Estimula las ondas cerebrales Alfa y Theta para acelerar la retención de vocabulario y mantener un enfoque láser durante tus sesiones de estudio.
-          </p>
-          <div class="flex flex-wrap items-center gap-4 pt-2 text-xs text-slate-300 font-mono-code">
-            <span class="flex items-center gap-1.5"><i data-lucide="check-circle-2" class="w-4 h-4 text-emerald-400"></i> Audio Lossless HD</span>
-            <span class="flex items-center gap-1.5"><i data-lucide="check-circle-2" class="w-4 h-4 text-emerald-400"></i> Garantía 7 Días</span>
-            <span class="flex items-center gap-1.5"><i data-lucide="check-circle-2" class="w-4 h-4 text-emerald-400"></i> 70% OFF Estudiantes</span>
-          </div>
-        </div>
-
-        <!-- Tarjeta del Precio / CTA -->
-        <div class="lg:col-span-4 bg-slate-900/90 p-5 rounded-2xl border border-slate-700 text-center space-y-3 backdrop-blur-md">
-          <span class="text-[10px] text-slate-400 uppercase tracking-widest font-mono-code block">Oferta Estudiantes</span>
-          <div>
-            <span class="text-xs text-slate-400 line-through">$99.90 USD</span>
-            <div class="text-3xl font-extrabold text-white font-mono-code">$29<span class="text-xs text-amber-400 font-normal">.97 USD</span></div>
-          </div>
-          <a href="https://quantumaudiostudio.com/" target="_blank" rel="noopener" class="block w-full bg-amber-400 hover:bg-amber-500 text-slate-950 font-black py-3 px-4 rounded-xl text-xs transition-all shadow-lg text-center tracking-wide uppercase">
-            PROBAR FRECUENCIA →
-          </a>
-          <p class="text-[10px] text-slate-400 font-mono-code">Pago seguro procesado en sitio oficial.</p>
-        </div>
-
-      </div>
-    </section>
-
-    <!-- SECCIÓN 1: LECCIONES DE GRAMÁTICA -->
-    <section id="gramatica" class="space-y-6">
-      <div class="flex items-center justify-between border-b border-slate-200 pb-3">
-        <div class="flex items-center space-x-2">
-          <i data-lucide="book-open" class="w-4 h-4 text-blue-600"></i>
-          <h2 class="text-sm font-bold text-slate-900 uppercase tracking-wider font-mono-code">Lecciones de Gramática Básica & Intermedia</h2>
-        </div>
-        <span class="text-[11px] text-slate-400 font-mono-code">Niveles A1 - B2</span>
-      </div>
-
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-        
-        <!-- Lección 1 -->
-        <a href="./blog/presente-simple.html" class="hub-card lesson-card p-5 rounded-2xl group flex flex-col justify-between">
-          <div class="space-y-3">
-            <div class="flex justify-between items-start">
-              <span class="text-[10px] font-mono-code bg-blue-50 text-blue-700 px-2 py-0.5 rounded border border-blue-100 font-semibold">Nivel A1</span>
-              <span class="text-[11px] text-slate-400 font-mono-code">8 min lectura</span>
-            </div>
-            <div>
-              <h3 class="text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors">Presente Simple (Present Simple)</h3>
-              <p class="text-xs text-slate-500 mt-1.5 leading-relaxed font-normal">Aprende la regla de la tercera persona (-s/-es), la estructura afirmativa, negativa y preguntas con Do/Does.</p>
-            </div>
-          </div>
-          <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-400 font-mono-code">
-            <span>Ver Lección</span>
-            <i data-lucide="arrow-right" class="w-3.5 h-3.5 text-slate-400 group-hover:text-blue-600 group-hover:translate-x-1 transition-all"></i>
-          </div>
-        </a>
-
-        <!-- Lección 2 -->
-        <a href="#" class="hub-card lesson-card p-5 rounded-2xl group flex flex-col justify-between">
-          <div class="space-y-3">
-            <div class="flex justify-between items-start">
-              <span class="text-[10px] font-mono-code bg-blue-50 text-blue-700 px-2 py-0.5 rounded border border-blue-100 font-semibold">Nivel A1</span>
-              <span class="text-[11px] text-slate-400 font-mono-code">6 min lectura</span>
-            </div>
-            <div>
-              <h3 class="text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors">Pasado Simple y Verbos Irregulares</h3>
-              <p class="text-xs text-slate-500 mt-1.5 leading-relaxed font-normal">Cómo usar la terminación -ed en verbos regulares y lista práctica de los verbos irregulares más comunes.</p>
-            </div>
-          </div>
-          <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-400 font-mono-code">
-            <span>Ver Lección</span>
-            <i data-lucide="arrow-right" class="w-3.5 h-3.5 text-slate-400 group-hover:text-blue-600 group-hover:translate-x-1 transition-all"></i>
-          </div>
-        </a>
-
-        <!-- Lección 3 -->
-        <a href="#" class="hub-card lesson-card p-5 rounded-2xl group flex flex-col justify-between">
-          <div class="space-y-3">
-            <div class="flex justify-between items-start">
-              <span class="text-[10px] font-mono-code bg-indigo-50 text-indigo-700 px-2 py-0.5 rounded border border-indigo-100 font-semibold">Nivel A2</span>
-              <span class="text-[11px] text-slate-400 font-mono-code">10 min lectura</span>
-            </div>
-            <div>
-              <h3 class="text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors">Presente Continuo vs. Presente Simple</h3>
-              <p class="text-xs text-slate-500 mt-1.5 leading-relaxed font-normal">Descubre cuándo usar el gerundio (-ing) para acciones en el momento vs. rutinas permanentes.</p>
-            </div>
-          </div>
-          <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-400 font-mono-code">
-            <span>Ver Lección</span>
-            <i data-lucide="arrow-right" class="w-3.5 h-3.5 text-slate-400 group-hover:text-blue-600 group-hover:translate-x-1 transition-all"></i>
-          </div>
-        </a>
-
-      </div>
-    </section>
-
-    <!-- SECCIÓN 2: JUEGOS INTERACTIVOS CON AUDIO -->
-    <section id="juegos" class="space-y-6">
-      <div class="flex items-center justify-between border-b border-slate-200 pb-3">
-        <div class="flex items-center space-x-2">
-          <i data-lucide="gamepad-2" class="w-4 h-4 text-emerald-600"></i>
-          <h2 class="text-sm font-bold text-slate-900 uppercase tracking-wider font-mono-code">Práctica Interactiva & Pronunciación</h2>
-        </div>
-        <span class="text-[11px] text-slate-400 font-mono-code">Speech Synthesis Engine</span>
-      </div>
-
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        
-        <!-- Juego 1 -->
-        <a href="./juegos/quiz-animales.html" class="hub-card lesson-card p-5 rounded-2xl group">
-          <div class="bg-slate-50 p-3 rounded-xl border border-slate-200 flex justify-between items-center mb-3">
-            <span class="text-2xl">🔊🐶</span>
-            <span class="text-[10px] font-mono-code text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100 font-bold">Audio Nativo</span>
-          </div>
-          <h3 class="text-sm font-bold text-slate-900 group-hover:text-emerald-600 transition-colors">Animals Quiz + Audio</h3>
-          <p class="text-xs text-slate-500 mt-1">Escucha la pronunciación exacta de cada animal en inglés y pon a prueba tu oído.</p>
-        </a>
-
-        <!-- Juego 2 -->
-        <a href="#" class="hub-card lesson-card p-5 rounded-2xl group">
-          <div class="bg-slate-50 p-3 rounded-xl border border-slate-200 flex justify-between items-center mb-3">
-            <span class="text-2xl">🧠💬</span>
-            <span class="text-[10px] font-mono-code text-blue-700 bg-blue-50 px-2 py-0.5 rounded border border-blue-100 font-bold">Vocabulario</span>
-          </div>
-          <h3 class="text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors">50 Verbos Más Usados en Inglés</h3>
-          <p class="text-xs text-slate-500 mt-1">Juego de tarjetas con audio para memorizar los verbos indispensables en tiempo récord.</p>
-        </a>
-
-        <!-- Juego 3 -->
-        <a href="#" class="hub-card lesson-card p-5 rounded-2xl group">
-          <div class="bg-slate-50 p-3 rounded-xl border border-slate-200 flex justify-between items-center mb-3">
-            <span class="text-2xl">🎯⚡</span>
-            <span class="text-[10px] font-mono-code text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded border border-indigo-100 font-bold">Reto Rápido</span>
-          </div>
-          <h3 class="text-sm font-bold text-slate-900 group-hover:text-indigo-600 transition-colors">Desafío de Phrasal Verbs</h3>
-          <p class="text-xs text-slate-500 mt-1">Completa las oraciones en menos de 10 segundos y domina los verbos compuestos.</p>
-        </a>
-
-      </div>
-    </section>
-
-  </main>
-
-  <!-- FOOTER -->
-  <footer class="border-t border-slate-200 bg-white py-8 text-xs text-slate-500 font-mono-code">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row justify-between items-center gap-4">
-      <div class="flex items-center space-x-2">
-        <div class="w-2 h-2 rounded-full bg-emerald-500"></div>
-        <p>© 2026 EnglishMaster. Portal de aprendizaje independiente.</p>
-      </div>
-
-      <div class="flex items-center space-x-6 text-[11px]">
-        <a href="./privacidad.html" class="hover:text-slate-900 transition-colors">Privacidad</a>
-        <a href="./terminos.html" class="hover:text-slate-900 transition-colors">Términos</a>
-        <a href="./contacto.html" class="hover:text-slate-900 transition-colors">Contacto</a>
-      </div>
-    </div>
-  </footer>
-
-  <script>
-    lucide.createIcons();
-
-    function filterHub() {
-      const query = document.getElementById('searchInput').value.toLowerCase().trim();
-      const cards = document.querySelectorAll('.hub-card');
-
-      cards.forEach(card => {
-        const text = card.innerText.toLowerCase();
-        if (text.includes(query)) {
-          card.style.display = '';
-        } else {
-          card.style.display = 'none';
+    <!-- Preconnect & Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        brand: {
+                            50: '#eff6ff',
+                            100: '#dbeafe',
+                            500: '#3b82f6',
+                            600: '#2563eb',
+                            700: '#1d4ed8',
+                            900: '#1e3a8a',
+                        },
+                        chicDark: '#0f172a',
+                        chicGray: '#f8fafc',
+                        chicBorder: '#e2e8f0'
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        heading: ['Poppins', 'sans-serif'],
+                    }
+                }
+            }
         }
-      });
+    </script>
+
+    <!-- Schema Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://englishmaster.quantumaudiostudio.com/#website",
+          "url": "https://englishmaster.quantumaudiostudio.com/",
+          "name": "Englishmaster",
+          "description": "Plataforma educativa para el aprendizaje de inglés",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://englishmaster.quantumaudiostudio.com/buscar/?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ]
     }
-  </script>
+    </script>
+
+    <style>
+        .line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        .chic-shadow { box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.05); }
+        .chic-shadow-hover { transition: all 0.3s ease; }
+        .chic-shadow-hover:hover { transform: translateY(-3px); box-shadow: 0 15px 35px -5px rgba(37, 99, 235, 0.12); }
+        
+        @keyframes marquee {
+            0% { transform: translateX(100%); }
+            100% { transform: translateX(-100%); }
+        }
+        .animate-marquee { display: inline-block; animation: marquee 12s linear infinite; }
+        a:hover .animate-marquee { animation-play-state: paused; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans antialiased flex flex-col min-h-screen overflow-x-hidden">
+
+    <!-- 1. TICKER ANUNCIOS QUANTUM AUDIO STUDIO -->
+    <a href="https://quantumaudiostudio.com/" target="_blank" rel="sponsored noopener" class="block bg-gradient-to-r from-purple-950 via-slate-900 to-indigo-950 text-slate-200 py-2 px-3 sm:px-4 border-b border-purple-900/50 hover:bg-slate-900 transition overflow-hidden">
+        <div class="max-w-7xl mx-auto flex items-center justify-between gap-3">
+            <span class="bg-purple-600 text-white font-bold px-2 py-0.5 rounded text-[10px] uppercase tracking-wider animate-pulse shrink-0 z-10">
+                Ondas Neuroacústicas
+            </span>
+            <div class="relative overflow-hidden w-full flex items-center">
+                <div class="animate-marquee whitespace-nowrap inline-block text-slate-300 text-[11px] sm:text-xs">
+                    Aumenta tu retención de inglés un 40% sin esfuerzo con <strong>Quantum Audio Studio</strong>.
+                </div>
+            </div>
+            <div class="shrink-0 z-10">
+                <span class="text-purple-300 hover:text-white font-semibold text-xs transition inline-flex items-center gap-1 whitespace-nowrap">
+                    Probar Audio &rarr;
+                </span>
+            </div>
+        </div>
+    </a>
+
+    <!-- Header Principal -->
+    <header class="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-chicBorder shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20">
+                <div class="flex-shrink-0 flex items-center">
+                    <a href="/" class="flex items-center gap-2 group">
+                        <div class="w-10 h-10 bg-brand-600 group-hover:bg-brand-700 text-white rounded-xl flex items-center justify-center font-heading font-extrabold text-xl shadow-md transition">
+                            EM
+                        </div>
+                        <span class="font-heading font-extrabold text-2xl tracking-tight text-slate-900">
+                            English<span class="text-brand-600">master</span>
+                        </span>
+                    </a>
+                </div>
+
+                <nav class="hidden lg:flex items-center gap-8 font-medium text-slate-700 text-sm">
+                    <a href="/" class="text-brand-600 font-semibold hover:text-brand-700 transition">Inicio</a>
+                    <a href="gramatica/" class="hover:text-brand-600 transition">Gramática</a>
+                    <a href="phrasal-verbs/" class="hover:text-brand-600 transition">Phrasal Verbs</a>
+                    <a href="vocabulario/" class="hover:text-brand-600 transition">Vocabulario</a>
+                </nav>
+
+                <div class="hidden md:flex items-center">
+                    <form action="buscar/" method="GET" class="relative">
+                        <input type="text" name="q" placeholder="Buscar lección..." aria-label="Buscar lección" class="w-48 lg:w-64 bg-slate-100 text-slate-900 text-xs rounded-full py-2.5 pl-4 pr-10 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:bg-white transition">
+                        <button type="submit" aria-label="Buscar" class="absolute right-2 top-1/2 -translate-y-1/2 w-7 h-7 bg-brand-600 text-white rounded-full flex items-center justify-center hover:bg-brand-700 transition">
+                            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                        </button>
+                    </form>
+                </div>
+
+                <div class="flex lg:hidden items-center">
+                    <button id="mobileMenuBtn" aria-label="Abrir menú" class="p-2 text-slate-600 hover:text-slate-900 focus:outline-none">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div id="mobileMenu" class="hidden lg:hidden bg-white border-b border-chicBorder px-4 pt-2 pb-6 space-y-3">
+            <a href="/" class="block font-semibold text-brand-600 py-1">Inicio</a>
+            <a href="gramatica/" class="block font-medium text-slate-700 hover:text-brand-600 py-1">Gramática</a>
+            <a href="phrasal-verbs/" class="block font-medium text-slate-700 hover:text-brand-600 py-1">Phrasal Verbs</a>
+            <a href="vocabulario/" class="block font-medium text-slate-700 hover:text-brand-600 py-1">Vocabulario</a>
+        </div>
+    </header>
+
+    <!-- Contenido Principal -->
+    <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-10">
+
+        <!-- SECCIÓN DESTACADOS / HERO GRID -->
+        <section aria-label="Artículos destacados" class="grid grid-cols-1 md:grid-cols-12 gap-6" id="hero-grid">
+            
+    <article class="md:col-span-7 lg:col-span-8 group relative rounded-2xl overflow-hidden bg-chicDark text-white min-h-[380px] lg:min-h-[460px] flex flex-col justify-end p-6 sm:p-8 chic-shadow">
+        <img src="assets/pasado-simple-en-ingles-reglas-y-ejemplos.webp" alt="Joven estudiante sonriente lee un libro de inglés en un parque." loading="lazy" class="absolute inset-0 w-full h-full object-cover opacity-50 group-hover:scale-105 transition duration-700 ease-out">
+        <div class="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/40 to-transparent"></div>
+        <div class="relative z-10 space-y-3">
+            <span class="inline-block bg-brand-600 text-white text-xs font-bold uppercase tracking-wider px-3 py-1 rounded-full">A2 Elemental</span>
+            <h1 class="font-heading font-extrabold text-2xl sm:text-3xl lg:text-4xl text-white group-hover:text-brand-100 transition leading-tight">
+                <a href="gramatica/a2-elemental/pasado-simple-en-ingles-reglas-y-ejemplos/">Pasado simple en ingles reglas y ejemplos</a>
+            </h1>
+            <p class="text-slate-300 text-sm sm:text-base line-clamp-2 max-w-2xl font-normal">Aprende todo sobre pasado simple en ingles reglas y ejemplos con ejemplos prácticos y explicaciones claras en EnglishMaster.</p>
+        </div>
+    </article>
+    <div class="md:col-span-5 lg:col-span-4 flex flex-col gap-6">
+            <article class="flex-1 group relative rounded-2xl overflow-hidden bg-chicDark text-white min-h-[180px] flex flex-col justify-end p-5 chic-shadow">
+                <img src="assets/como-usar-el-verbo-to-be-en-ingles.webp" alt="Mujer sonriente tomando clases online de inglés desde casa." loading="lazy" class="absolute inset-0 w-full h-full object-cover opacity-45 group-hover:scale-105 transition duration-700 ease-out">
+                <div class="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/30 to-transparent"></div>
+                <div class="relative z-10 space-y-2">
+                    <span class="inline-block bg-emerald-600 text-white text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full">A1 Principiante</span>
+                    <h2 class="font-heading font-bold text-lg text-white group-hover:text-brand-200 transition leading-snug">
+                        <a href="gramatica/a1-principiante/como-usar-el-verbo-to-be-en-ingles/">Como usar el verbo to be en ingles</a>
+                    </h2>
+                </div>
+            </article>
+            </div>
+        </section>
+
+        <!-- LAYOUT DE 2 COLUMNAS (Feed Principal + Sidebar) -->
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+
+            <!-- COLUMNA IZQUIERDA: FEED DE ÚLTIMOS ARTÍCULOS -->
+            <section aria-labelledby="latest-posts-heading" class="lg:col-span-8 space-y-8">
+                <div class="flex justify-between items-end border-b border-chicBorder pb-3">
+                    <h2 id="latest-posts-heading" class="font-heading font-extrabold text-xl sm:text-2xl text-slate-900 flex items-center gap-2">
+                        <span class="w-3 h-6 bg-brand-600 rounded-sm inline-block"></span>
+                        Últimas Lecciones & Publicaciones
+                    </h2>
+                </div>
+
+                <!-- CONTENEDOR DE TARJETAS DINÁMICAS -->
+                <div class="space-y-6" id="articles-feed">
+                    
+        <article class="bg-white border border-chicBorder rounded-2xl p-4 sm:p-5 flex flex-col sm:flex-row gap-5 chic-shadow chic-shadow-hover">
+            <a href="gramatica/a2-elemental/pasado-simple-en-ingles-reglas-y-ejemplos/" class="sm:w-2/5 flex-shrink-0 relative overflow-hidden rounded-xl h-48 sm:h-auto">
+                <img src="assets/pasado-simple-en-ingles-reglas-y-ejemplos.webp" alt="Joven estudiante sonriente lee un libro de inglés en un parque." loading="lazy" class="w-full h-full object-cover hover:scale-105 transition duration-500">
+                <span class="absolute top-3 left-3 bg-brand-600 text-white text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-md">A2 Elemental</span>
+            </a>
+            <div class="sm:w-3/5 flex flex-col justify-between space-y-3">
+                <div class="space-y-2">
+                    <h3 class="font-heading font-bold text-xl text-slate-900 hover:text-brand-600 transition leading-snug">
+                        <a href="gramatica/a2-elemental/pasado-simple-en-ingles-reglas-y-ejemplos/">Pasado simple en ingles reglas y ejemplos</a>
+                    </h3>
+                    <p class="text-slate-600 text-xs sm:text-sm line-clamp-2">Aprende todo sobre pasado simple en ingles reglas y ejemplos con ejemplos prácticos y explicaciones claras en EnglishMaster.</p>
+                </div>
+                <div class="flex justify-between items-center pt-2">
+                    <span class="text-xs text-slate-400 font-medium">Lectura: 5 min</span>
+                    <a href="gramatica/a2-elemental/pasado-simple-en-ingles-reglas-y-ejemplos/" class="text-xs font-bold text-brand-600 hover:text-brand-800 flex items-center gap-1">
+                        Leer lección &rarr;
+                    </a>
+                </div>
+            </div>
+        </article>
+        
+        <article class="bg-white border border-chicBorder rounded-2xl p-4 sm:p-5 flex flex-col sm:flex-row gap-5 chic-shadow chic-shadow-hover">
+            <a href="gramatica/a1-principiante/como-usar-el-verbo-to-be-en-ingles/" class="sm:w-2/5 flex-shrink-0 relative overflow-hidden rounded-xl h-48 sm:h-auto">
+                <img src="assets/como-usar-el-verbo-to-be-en-ingles.webp" alt="Mujer sonriente tomando clases online de inglés desde casa." loading="lazy" class="w-full h-full object-cover hover:scale-105 transition duration-500">
+                <span class="absolute top-3 left-3 bg-brand-600 text-white text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-md">A1 Principiante</span>
+            </a>
+            <div class="sm:w-3/5 flex flex-col justify-between space-y-3">
+                <div class="space-y-2">
+                    <h3 class="font-heading font-bold text-xl text-slate-900 hover:text-brand-600 transition leading-snug">
+                        <a href="gramatica/a1-principiante/como-usar-el-verbo-to-be-en-ingles/">Como usar el verbo to be en ingles</a>
+                    </h3>
+                    <p class="text-slate-600 text-xs sm:text-sm line-clamp-2">Aprende todo sobre como usar el verbo to be en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.</p>
+                </div>
+                <div class="flex justify-between items-center pt-2">
+                    <span class="text-xs text-slate-400 font-medium">Lectura: 5 min</span>
+                    <a href="gramatica/a1-principiante/como-usar-el-verbo-to-be-en-ingles/" class="text-xs font-bold text-brand-600 hover:text-brand-800 flex items-center gap-1">
+                        Leer lección &rarr;
+                    </a>
+                </div>
+            </div>
+        </article>
+        
+                </div>
+            </section>
+
+            <!-- COLUMNA DERECHA: SIDEBAR -->
+            <aside class="lg:col-span-4 space-y-8 sticky top-24">
+                
+                <!-- WIDGET BANNER QUANTUM AUDIO STUDIO EN SIDEBAR -->
+                <div class="bg-gradient-to-b from-slate-900 via-purple-950 to-slate-900 border border-purple-500/30 rounded-2xl p-5 sm:p-6 text-white text-center chic-shadow space-y-4">
+                    <div class="w-16 h-16 bg-purple-600/20 border border-purple-500/40 rounded-full flex items-center justify-center mx-auto text-3xl shadow-inner">
+                        🔊
+                    </div>
+                    <span class="inline-block bg-purple-500/20 text-purple-300 border border-purple-500/30 text-[10px] font-bold uppercase tracking-widest px-3 py-1 rounded-full">
+                        QuantumAudio
+                    </span>
+                    <h3 class="font-heading font-extrabold text-lg leading-snug">
+                        Aumenta tu capacidad de aprendizaje al doble y domina el idioma inglés en la mitad de tiempo
+                    </h3>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        Lleva tu cerebro al estado óptimo de aprendizaje en solo 15 minutos al día.
+                    </p>
+                    <ul class="text-left text-xs text-slate-300 space-y-2 pt-2 border-t border-purple-900">
+                        <li class="flex items-center gap-2">
+                            <span class="text-purple-400">✓</span> Mayor concentración al estudiar 
+                        </li>
+                        <li class="flex items-center gap-2">
+                            <span class="text-purple-400">✓</span> Mayor agilidad mental
+                        </li>
+                        <li class="flex items-center gap-2">
+                            <span class="text-purple-400">✓</span> Estimulación de ondas Beta y Alpha
+                        </li>
+                    </ul>
+                    <a href="https://quantumaudiostudio.com/" target="_blank" rel="sponsored noopener" class="block w-full bg-purple-600 hover:bg-purple-500 text-white font-bold text-xs py-3 rounded-xl transition shadow-lg uppercase tracking-wider">
+                        VER MAS &rarr;
+                    </a>
+                </div>
+
+                 <!-- Widget Suscripción Newsletter -->
+                <div class="bg-gradient-to-br from-brand-900 to-slate-900 rounded-2xl p-5 sm:p-6 text-white chic-shadow space-y-3 relative overflow-hidden" id="newsletter-widget">
+                    <span class="inline-block bg-brand-500/30 text-brand-200 border border-brand-500/40 text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full">Boletín Gratuito</span>
+                    <h3 class="font-heading font-extrabold text-lg text-white">Recibe 1 Lección Diaria en tu Email</h3>
+                    <p class="text-slate-300 text-xs">Únete a nuestra comunidad de estudiantes para recibir lecciones prácticas directamente en tu bandeja de entrada.</p>
+                    
+                    <form id="newsletter-form" onsubmit="enviarNewsletter(event)" class="space-y-3 pt-1">
+                        
+                        <!-- Campo trampa antispam (Honeypot): invisible para humanos, trampa para bots -->
+                        <div style="display:none !important;" aria-hidden="true">
+                            <input type="text" id="website_trap" name="website_trap" value="" tabindex="-1" autocomplete="off">
+                        </div>
+
+                        <input type="email" id="newsletter-email" name="email" required placeholder="Tu correo electrónico..." class="w-full bg-slate-800 border border-slate-700 text-white placeholder-slate-400 text-xs rounded-xl px-4 py-3 focus:outline-none focus:ring-2 focus:ring-brand-500">
+                        
+                        <!-- Texto legal y términos -->
+                        <p class="text-[10px] text-slate-400 leading-tight">
+                            Al suscribirte, aceptas nuestra <a href="privacidad/" class="underline hover:text-white">Política de Privacidad</a> y los <a href="terminos/" class="underline hover:text-white">Términos de Uso</a>.
+                        </p>
+
+                        <button type="submit" id="newsletter-btn" class="w-full bg-brand-600 hover:bg-brand-500 text-white font-bold text-xs py-3 rounded-xl transition uppercase tracking-wider">
+                            Suscribirme Gratis
+                        </button>
+                    </form>
+                </div>
+
+            </aside>
+
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-chicDark text-slate-400 text-xs border-t border-slate-800 mt-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <div class="grid grid-cols-1 md:grid-cols-12 gap-8">
+                <div class="md:col-span-5 space-y-4">
+                    <div class="flex items-center gap-2">
+                        <div class="w-8 h-8 bg-brand-600 text-white rounded-lg flex items-center justify-center font-heading font-extrabold text-base">
+                            EM
+                        </div>
+                        <span class="font-heading font-extrabold text-xl text-white tracking-tight">
+                            English<span class="text-brand-500">master</span>
+                        </span>
+                    </div>
+                    <p class="text-slate-400 text-xs max-w-sm leading-relaxed">
+                        Englishmaster es tu portal educativo dedicado a simplificar el aprendizaje del idioma inglés mediante lecciones estructuradas.
+                    </p>
+                </div>
+
+                <div class="md:col-span-3 space-y-3">
+                </div>
+
+                <div class="md:col-span-4 space-y-3">
+                    <h4 class="font-heading font-bold text-white text-sm uppercase tracking-wider">Legal & Contacto</h4>
+                    <ul class="space-y-2">
+                        <li><a href="privacidad/" class="hover:text-white transition">Política de Privacidad</a></li>
+                        <li><a href="terminos/" class="hover:text-white transition">Términos y Condiciones</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="border-t border-slate-800 mt-10 pt-6 text-center text-[11px] text-slate-500">
+                &copy; 2026 Englishmaster. Todos los derechos reservados.
+            </div>
+        </div>
+    </footer>
+
+    <!-- JS de Suscripción y Menú Móvil -->
+    <script>
+        document.getElementById('mobileMenuBtn').addEventListener('click', function() {
+            var menu = document.getElementById('mobileMenu');
+            menu.classList.toggle('hidden');
+        });
+
+        // ==========================================
+        // FUNCIÓN DE ENVÍO DE NEWSLETTER (AJAX / FETCH)
+        // ==========================================
+        function enviarNewsletter(event) {
+        if (event) event.preventDefault(); // Bloquea la recarga de la página
+        
+        // 🛡️ Validación Anti-Bot (Honeypot)
+        const trampaVal = document.getElementById('website_trap').value;
+        if (trampaVal !== "") {
+            console.warn("Actividad de bot detectada y bloqueada.");
+            return false; // Si el campo trampa tiene texto, fingimos éxito pero no enviamos nada
+        }
+
+        const emailInput = document.getElementById('newsletter-email');
+        const btn = document.getElementById('newsletter-btn');
+        const widget = document.getElementById('newsletter-widget');
+        
+        if (!emailInput || !emailInput.value) return false;
+
+        btn.disabled = true;
+        btn.innerText = "Enviando...";
+
+        // Envía los datos en formato JSON a tu Apps Script de forma silenciosa
+        fetch("https://script.google.com/macros/s/AKfycbyEn1snlQYh5-_tC3N02tMGoVdltIylgDL0bX1VybQr9mFiby9pJPUuf8LhyBP82oGCTg/exec", {
+            method: "POST",
+            mode: "no-cors",
+            headers: {
+                "Content-Type": "text/plain"
+            },
+            body: JSON.stringify({
+                nombre: "Suscriptor Web",
+                email: emailInput.value
+            })
+        })
+        .then(() => {
+            // Transforma el recuadro con el mensaje de éxito sin mover la pantalla
+            widget.innerHTML = `
+                <span class="inline-block bg-emerald-500/30 text-emerald-200 border border-emerald-500/40 text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full">¡Suscripción Exitosa!</span>
+                <h3 class="font-heading font-extrabold text-lg text-white">¡Gracias por unirte!</h3>
+                <p class="text-slate-300 text-xs">Tu correo ha sido guardado correctamente. Pronto recibirás novedades y lecciones exclusivas.</p>
+            `;
+        })
+        .catch(() => {
+            btn.disabled = false;
+            btn.innerText = "Suscribirme Gratis";
+            alert("Ocurrió un error al enviar. Inténtalo de nuevo.");
+        });
+        
+        return false;
+    }
+    </script>
 </body>
 </html>

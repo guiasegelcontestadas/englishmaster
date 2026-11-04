@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Lecciones | EnglishMaster</title>
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://englishmaster.quantumaudiostudio.com/buscar/">
+    <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans min-h-screen flex flex-col">
+    <header class="bg-white border-b border-slate-200 py-4 px-6 flex justify-between items-center shadow-sm">
+        <a href="../" class="font-bold text-xl text-slate-900">English<span class="text-blue-600">master</span></a>
+        <a href="../" class="text-xs text-blue-600 font-semibold hover:underline">&larr; Volver al inicio</a>
+    </header>
+    <main class="flex-grow max-w-4xl w-full mx-auto px-4 py-8 space-y-6">
+        <h1 class="text-2xl font-extrabold text-slate-900">Buscador de Lecciones</h1>
+        
+        <!-- Input de búsqueda -->
+        <div class="relative">
+            <input type="text" id="searchInput" placeholder="Escribe una palabra clave (ej. verbo to be, phrasal verbs...)" class="w-full bg-white border border-slate-300 text-slate-900 text-sm rounded-xl py-3 pl-4 pr-10 focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-sm">
+        </div>
+
+        <p id="resultCount" class="text-xs text-slate-500"></p>
+        
+        <!-- Contenedor de resultados -->
+        <div id="resultsContainer" class="space-y-4">
+            <p class="text-xs text-slate-400 text-center py-8">Empieza a escribir arriba para buscar entre todas las lecciones.</p>
+        </div>
+    </main>
+
+    <script>
+        let articles = [];
+
+        // Cargar el JSON de artículos al abrir la página
+        async function loadArticles() {
+            try {
+                const response = await fetch('../articulos.json');
+                articles = await response.json();
+            } catch (e) {
+                console.error("Error cargando el índice de artículos", e);
+            }
+        }
+
+        loadArticles();
+
+        const searchInput = document.getElementById('searchInput');
+        const resultsContainer = document.getElementById('resultsContainer');
+        const resultCount = document.getElementById('resultCount');
+
+        // Leer parámetro 'q' de la URL si el usuario viene del formulario del header
+        const urlParams = new URLSearchParams(window.location.search);
+        const queryParam = urlParams.get('q');
+        if (queryParam) {
+            searchInput.value = queryParam;
+            setTimeout(() => performSearch(queryParam), 300);
+        }
+
+        searchInput.addEventListener('input', (e) => {
+            performSearch(e.target.value);
+        });
+
+        function performSearch(query) {
+            const q = query.trim().toLowerCase();
+            if (!q) {
+                resultsContainer.innerHTML = '<p class="text-xs text-slate-400 text-center py-8">Empieza a escribir arriba para buscar entre todas las lecciones.</p>';
+                resultCount.textContent = '';
+                return;
+            }
+
+            const filtered = articles.filter(art => 
+                (art.titulo && art.titulo.toLowerCase().includes(q)) ||
+                (art.descripcion && art.descripcion.toLowerCase().includes(q)) ||
+                (art.slug && art.slug.toLowerCase().includes(q))
+            );
+
+            resultCount.textContent = `Se encontraron ${filtered.length} lecciones relacionadas.`;
+
+            if (filtered.length === 0) {
+                resultsContainer.innerHTML = `
+                    <div class="bg-white p-8 rounded-xl border border-slate-200 text-center space-y-2">
+                        <p class="text-sm font-semibold text-slate-700">No encontramos lecciones que coincidan con "${query}".</p>
+                        <p class="text-xs text-slate-400">Intenta buscar con otros términos o explora las categorías principales.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            resultsContainer.innerHTML = filtered.map(art => {
+                const cat = art.categoria || 'blog';
+                const slug = art.slug || '';
+                const titulo = art.titulo || '';
+                const desc = art.descripcion || '';
+                const url = `../${cat}/${slug}/;`.replace(';', '');
+                
+                return `
+                <div class="bg-white p-5 rounded-xl border border-slate-200 shadow-sm space-y-2 hover:border-blue-300 transition">
+                    <span class="text-[10px] uppercase font-bold text-blue-700 bg-blue-50 px-2.5 py-0.5 rounded-full">${cat}</span>
+                    <h2 class="text-lg font-bold text-slate-900"><a href="${url}" class="hover:text-blue-600 transition">${titulo}</a></h2>
+                    <p class="text-xs text-slate-600">${desc}</p>
+                </div>
+                `;
+            }).join('');
+        }
+    </script>
+</body>
+</html>

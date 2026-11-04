@@ -1,183 +1,226 @@
 <!DOCTYPE html>
-<html lang="es" class="scroll-smooth">
+<html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  <!-- SEO Meta Tags Primarias (Configurado con NOINDEX) -->
-  <title>Contacto | EnglishMaster</title>
-  <meta name="description" content="Ponte en contacto con el equipo de EnglishMaster para dudas, soporte o sugerencias.">
-  <meta name="robots" content="noindex, nofollow">
-  <link rel="canonical" href="https://englishmaster.quantumaudiostudio.com/contacto.html">
-
-  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="assets/favicon.svg">
-
-  <!-- Preconnect y Resource Hints para Velocidad Extrema -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preconnect" href="https://cdn.tailwindcss.com">
-
-  <!-- Tailwind CSS -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <!-- Lucide Icons -->
-  <script src="https://unpkg.com/lucide@latest" defer></script>
-
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto y Sugerencias | Englishmaster</title>
     
-    /* BLOQUEO ABSOLUTO DE SCROLL HORIZONTAL */
-    html, body {
-      max-width: 100% !important;
-      overflow-x: hidden !important;
-    }
+    <!-- Meta SEO -->
+    <meta name="description" content="¿Tienes dudas, sugerencias o quieres colaborar con Englishmaster? Ponte en contacto con nuestro equipo a través de nuestro formulario o correo oficial.">
+    <meta name="keywords" content="contacto englishmaster, dudas ingles, sugerencias cursos ingles, soporte englishmaster">
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="canonical" href="https://englishmaster.quantumaudiostudio.com/contacto/">
 
-    *, *:before, *:after {
-      box-sizing: border-box !important;
-    }
-
-    body {
-      font-family: 'Plus Jakarta Sans', sans-serif;
-      background-color: #f8fafc;
-      color: #0f172a;
-    }
+    <!-- Preconnect & Fonts (Google Fonts Inter / Poppins) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
     
-    .font-mono-code {
-      font-family: 'JetBrains Mono', monospace;
-    }
-  </style>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        brand: {
+                            50: '#eff6ff',
+                            100: '#dbeafe',
+                            500: '#3b82f6',
+                            600: '#2563eb',
+                            700: '#1d4ed8',
+                            900: '#1e3a8a',
+                        },
+                        chicDark: '#0f172a',
+                        chicGray: '#f8fafc',
+                        chicBorder: '#e2e8f0'
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        heading: ['Poppins', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        .chic-shadow {
+            box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.05);
+        }
+    </style>
 </head>
-<body class="bg-slate-50 text-slate-900 font-sans min-h-screen flex flex-col justify-between selection:bg-blue-100 selection:text-blue-900">
+<body class="bg-slate-50 text-slate-800 font-sans antialiased flex flex-col min-h-screen">
 
-  <!-- HEADER MINIMALISTA (SIN MENÚS NI HAMBURGUESA) -->
-  <header class="border-b border-slate-200 bg-white/90 backdrop-blur-xl sticky top-0 z-50">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between gap-4">
-      <a href="/" class="flex items-center space-x-3 group shrink-0">
-        <div class="w-10 h-10 rounded-xl bg-blue-600 flex items-center justify-center text-white shadow-md shadow-blue-500/20 group-hover:bg-blue-700 transition-colors">
-          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5 text-white">
-            <path d="m5 8 6 6"></path>
-            <path d="m4 14 6-6 2-3"></path>
-            <path d="M2 5h12"></path>
-            <path d="M7 2h1"></path>
-            <path d="m22 22-5-10-5 10"></path>
-            <path d="M14 18h6"></path>
-          </svg>
+    <!-- Barra Superior / Anuncio de Noticias (Móvil amigable) -->
+    <div class="bg-chicDark text-slate-300 text-xs py-2.5 px-4 border-b border-slate-800">
+        <div class="max-w-7xl mx-auto flex justify-between items-center gap-2">
+            <div class="flex items-center gap-2 overflow-hidden">
+                <span class="bg-brand-600 text-white font-bold px-2 py-0.5 rounded text-[10px] uppercase tracking-wider shrink-0">Soporte</span>
+                <span class="truncate text-[11px] sm:text-xs">Respondemos habitualmente en menos de 24 horas.</span>
+            </div>
+            <div class="shrink-0 text-slate-400">
+                <a href="../" class="hover:text-white transition text-[11px] sm:text-xs font-medium">&larr; Volver</a>
+            </div>
         </div>
-        <div>
-          <span class="text-base font-extrabold tracking-tight text-slate-900 flex items-center gap-1.5">
-            ENGLISH<span class="text-blue-600">MASTER</span>
-            <span class="text-[9px] font-mono-code bg-blue-50 text-blue-700 border border-blue-200 px-1.5 py-0.5 rounded-md">FREE</span>
-          </span>
-          <span class="block text-[10px] text-slate-400 font-mono-code">ACADEMIA DE INGLÉS ONLINE</span>
-        </div>
-      </a>
-
-      <div class="flex items-center space-x-2 bg-slate-100 border border-slate-200 px-3 py-1.5 rounded-full text-[11px] text-slate-600 font-mono-code">
-        <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
-        <span>Soporte Directo</span>
-      </div>
     </div>
-  </header>
 
-  <!-- CONTENIDO PRINCIPAL -->
-  <main class="max-w-3xl mx-auto px-4 sm:px-6 py-10 sm:py-14 flex-grow w-full">
-    
-    <!-- Migas de pan (Breadcrumbs) -->
-    <nav class="flex items-center space-x-2 text-xs text-slate-400 font-mono-code mb-6">
-      <a href="/" class="hover:text-blue-600 transition-colors">Inicio</a>
-      <span>/</span>
-      <span class="text-slate-700 font-semibold">Contacto</span>
-    </nav>
+    <!-- Header Principal + Navegación -->
+    <header class="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-chicBorder shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16 sm:h-20">
+                
+                <!-- Logo -->
+                <div class="flex-shrink-0 flex items-center">
+                    <a href="../" class="flex items-center gap-2 group">
+                        <div class="w-8 h-8 sm:w-10 sm:h-10 bg-brand-600 group-hover:bg-brand-700 text-white rounded-xl flex items-center justify-center font-heading font-extrabold text-base sm:text-xl shadow-md transition">
+                            EM
+                        </div>
+                        <span class="font-heading font-extrabold text-xl sm:text-2xl tracking-tight text-slate-900">
+                            English<span class="text-brand-600">master</span>
+                        </span>
+                    </a>
+                </div>
 
-    <!-- Cabecera de la Página -->
-    <header class="space-y-4 mb-8">
-      <div class="flex items-center gap-2">
-        <span class="text-xs font-mono-code bg-blue-50 text-blue-700 border border-blue-200 px-2.5 py-1 rounded-md font-bold">
-          AYUDA & SOPORTE
-        </span>
-        <span class="text-xs text-slate-400 font-mono-code">• Tiempo de respuesta: 24-48 hrs</span>
-      </div>
-      
-      <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight">
-        Ponte en Contacto
-      </h1>
-      
-      <p class="text-base text-slate-600 leading-relaxed font-normal">
-        ¿Tienes alguna duda sobre los materiales, sugerencias para nuevos temas de gramática o reportas algún detalle técnico? Escríbenos y te responderemos con gusto.
-      </p>
+                <!-- Enlace de retorno -->
+                <nav class="flex items-center">
+                    <a href="../" class="text-xs sm:text-sm font-semibold text-brand-600 hover:text-brand-700 transition flex items-center gap-1 bg-brand-50 sm:bg-transparent px-3 py-1.5 sm:p-0 rounded-lg">
+                        &larr; <span class="hidden sm:inline">Regresar al sitio principal</span><span class="sm:hidden">Inicio</span>
+                    </a>
+                </nav>
+
+            </div>
+        </div>
     </header>
 
-    <hr class="border-slate-200 my-8">
-
-    <!-- Tarjeta de Formulario de Contacto -->
-    <section class="bg-white border border-slate-200 rounded-2xl p-6 sm:p-10 shadow-sm space-y-6">
-      
-      <form action="#" method="POST" class="space-y-5">
+    <!-- Contenido Principal: Contacto -->
+    <main class="flex-grow max-w-4xl w-full mx-auto px-3 sm:px-6 lg:px-8 py-6 sm:py-12 space-y-6 sm:space-y-8">
         
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          <!-- Nombre -->
-          <div class="space-y-1.5">
-            <label for="name" class="block text-xs font-bold text-slate-700 font-mono-code uppercase tracking-wider">Tu Nombre</label>
-            <input type="text" id="name" name="name" required placeholder="Ej. Carlos Mendoza" class="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm text-slate-800 focus:outline-none focus:border-blue-500 focus:bg-white transition-colors">
-          </div>
-
-          <!-- Correo Electrónico -->
-          <div class="space-y-1.5">
-            <label for="email" class="block text-xs font-bold text-slate-700 font-mono-code uppercase tracking-wider">Correo Electrónico</label>
-            <input type="email" id="email" name="email" required placeholder="tu@correo.com" class="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm text-slate-800 focus:outline-none focus:border-blue-500 focus:bg-white transition-colors">
-          </div>
+        <!-- Cabecera de la Página -->
+        <div class="bg-white border border-chicBorder rounded-2xl p-5 sm:p-10 chic-shadow space-y-3 sm:space-y-4">
+            <div>
+                <span class="inline-block bg-brand-50 text-brand-700 border border-brand-100 text-[10px] sm:text-xs font-bold uppercase tracking-wider px-2.5 py-1 rounded-full">
+                    Atención al Usuario
+                </span>
+            </div>
+            <h1 class="font-heading font-extrabold text-2xl sm:text-4xl text-slate-900 leading-tight">
+                Contacto y Sugerencias
+            </h1>
+            <p class="text-slate-600 text-xs sm:text-base leading-relaxed">
+                ¿Tienes alguna pregunta sobre nuestras lecciones, una sugerencia de tema o te gustaría reportar un error en el sitio? Estamos aquí para escucharte y ayudarte a mejorar tu experiencia de aprendizaje.
+            </p>
         </div>
 
-        <!-- Asunto -->
-        <div class="space-y-1.5">
-          <label for="subject" class="block text-xs font-bold text-slate-700 font-mono-code uppercase tracking-wider">Asunto</label>
-          <input type="text" id="subject" name="subject" required placeholder="Ej. Sugerencia sobre lección de verbos" class="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm text-slate-800 focus:outline-none focus:border-blue-500 focus:bg-white transition-colors">
+        <!-- Grid de Formulario e Información de Contacto -->
+        <div class="grid grid-cols-1 md:grid-cols-12 gap-6 sm:gap-8 items-start">
+            
+            <!-- Columna Formulario (8 cols en desktop) -->
+            <div class="md:col-span-7 bg-white border border-chicBorder rounded-2xl p-5 sm:p-8 chic-shadow space-y-6">
+                <h2 class="font-heading font-bold text-lg sm:text-xl text-slate-900 border-b border-chicBorder pb-3 flex items-center gap-2">
+                    <span class="w-2 h-4 sm:w-2.5 sm:h-5 bg-brand-600 rounded-sm shrink-0"></span>
+                    Envíanos un mensaje
+                </h2>
+
+                <form action="#" method="POST" class="space-y-4 text-xs sm:text-sm">
+                    <div>
+                        <label for="nombre" class="block font-semibold text-slate-700 mb-1.5">Nombre completo</label>
+                        <input type="text" id="nombre" name="nombre" required placeholder="Ej. Juan Pérez" class="w-full bg-slate-50 border border-chicBorder rounded-xl px-3.5 py-2.5 text-slate-800 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:bg-white transition">
+                    </div>
+
+                    <div>
+                        <label for="email" class="block font-semibold text-slate-700 mb-1.5">Correo electrónico</label>
+                        <input type="email" id="email" name="email" required placeholder="tu@correo.com" class="w-full bg-slate-50 border border-chicBorder rounded-xl px-3.5 py-2.5 text-slate-800 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:bg-white transition">
+                    </div>
+
+                    <div>
+                        <label for="asunto" class="block font-semibold text-slate-700 mb-1.5">Asunto</label>
+                        <select id="asunto" name="asunto" class="w-full bg-slate-50 border border-chicBorder rounded-xl px-3.5 py-2.5 text-slate-800 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:bg-white transition">
+                            <option value="duda">Duda o consulta sobre contenido</option>
+                            <option value="sugerencia">Sugerencia de nueva lección</option>
+                            <option value="reporte">Reportar problema técnico</option>
+                            <option value="otro">Otro motivo</option>
+                        </select>
+                    </div>
+
+                    <div>
+                        <label for="mensaje" class="block font-semibold text-slate-700 mb-1.5">Mensaje</label>
+                        <textarea id="mensaje" name="mensaje" rows="5" required placeholder="Escribe aquí tu mensaje detallado..." class="w-full bg-slate-50 border border-chicBorder rounded-xl px-3.5 py-2.5 text-slate-800 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:bg-white transition"></textarea>
+                    </div>
+
+                    <div class="pt-2">
+                        <button type="submit" class="w-full bg-brand-600 hover:bg-brand-700 text-white font-bold py-3 px-6 rounded-xl shadow-md transition duration-200 uppercase tracking-wider text-xs">
+                            Enviar Mensaje
+                        </button>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Columna Info Directa (5 cols en desktop) -->
+            <div class="md:col-span-5 space-y-6">
+                
+                <!-- Caja Canal Directo -->
+                <div class="bg-white border border-chicBorder rounded-2xl p-5 sm:p-8 chic-shadow space-y-4">
+                    <h3 class="font-heading font-bold text-base sm:text-lg text-slate-900 border-b border-chicBorder pb-3 flex items-center gap-2">
+                        <span class="w-2 h-4 sm:w-2.5 sm:h-5 bg-amber-500 rounded-sm shrink-0"></span>
+                        Contacto Directo
+                    </h3>
+
+                    <div class="space-y-4 text-xs sm:text-sm">
+                        <div class="flex items-start gap-3">
+                            <div class="w-8 h-8 rounded-lg bg-brand-50 text-brand-600 flex items-center justify-center shrink-0 font-bold">
+                                @
+                            </div>
+                            <div>
+                                <span class="block font-bold text-slate-900">Correo Electrónico</span>
+                                <a href="mailto:contacto@englishmaster.quantumaudiostudio.com" class="text-brand-600 hover:underline break-all">
+                                    contacto@englishmaster.quantumaudiostudio.com
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="flex items-start gap-3 border-t border-slate-100 pt-3">
+                            <div class="w-8 h-8 rounded-lg bg-emerald-50 text-emerald-600 flex items-center justify-center shrink-0 font-bold">
+                                ⏱
+                            </div>
+                            <div>
+                                <span class="block font-bold text-slate-900">Horario de Respuesta</span>
+                                <p class="text-slate-600">Lunes a Viernes de 9:00 a 18:00 hrs (UTC-5)</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Caja FAQ Rápida -->
+                <div class="bg-brand-900 text-white rounded-2xl p-5 sm:p-8 chic-shadow space-y-3 relative overflow-hidden">
+                    <div class="absolute -right-10 -bottom-10 w-32 h-32 bg-brand-600/20 rounded-full blur-2xl"></div>
+                    <span class="inline-block bg-brand-500/30 text-brand-200 border border-brand-500/40 text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full">Pregunta frecuente</span>
+                    <h4 class="font-heading font-bold text-sm sm:text-base text-white">¿Buscas una lección específica?</h4>
+                    <p class="text-slate-300 text-xs leading-relaxed">
+                        Si tienes dudas sobre algún tiempo verbal o expresión, puedes utilizar el buscador en la portada principal para encontrar guías detalladas al instante.
+                    </p>
+                </div>
+
+            </div>
+
         </div>
 
-        <!-- Mensaje -->
-        <div class="space-y-1.5">
-          <label for="message" class="block text-xs font-bold text-slate-700 font-mono-code uppercase tracking-wider">Mensaje</label>
-          <textarea id="message" name="message" rows="5" required placeholder="Escribe tu mensaje o consulta detallada aquí..." class="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm text-slate-800 focus:outline-none focus:border-blue-500 focus:bg-white transition-colors resize-y"></textarea>
+    </main>
+
+    <!-- Pie de Página (Footer Responsivo) -->
+    <footer class="bg-chicDark text-slate-400 text-xs border-t border-slate-800 mt-10 sm:mt-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-10">
+            <div class="flex flex-col sm:flex-row justify-between items-center gap-4 text-center sm:text-left">
+                <div class="flex items-center gap-2">
+                    <div class="w-7 h-7 bg-brand-600 text-white rounded-lg flex items-center justify-center font-heading font-bold text-sm">
+                        EM
+                    </div>
+                    <span class="font-heading font-extrabold text-base text-white">English<span class="text-brand-500">master</span></span>
+                </div>
+                <p class="text-[11px] sm:text-xs">&copy; 2026 Englishmaster. Todos los derechos reservados.</p>
+                <a href="../" class="text-brand-400 hover:underline text-[11px] sm:text-xs">&larr; Volver al inicio</a>
+            </div>
         </div>
-
-        <!-- Botón de Enviar -->
-        <button type="submit" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-xl text-xs font-mono-code uppercase tracking-wider transition-colors shadow-md shadow-blue-500/20 flex items-center justify-center gap-2">
-          <i data-lucide="send" class="w-4 h-4"></i> Enviar Mensaje
-        </button>
-
-      </form>
-
-    </section>
-
-    <!-- Botón de regreso -->
-    <div class="mt-8 text-center">
-      <a href="/" class="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white font-bold py-2.5 px-6 rounded-xl text-xs font-mono-code transition-colors shadow-sm">
-        ← Volver al Inicio
-      </a>
-    </div>
-
-  </main>
-
-  <!-- FOOTER -->
-  <footer class="border-t border-slate-200 bg-white py-8 text-xs text-slate-500 font-mono-code">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row justify-between items-center gap-4">
-      <div class="flex items-center space-x-2">
-        <div class="w-2 h-2 rounded-full bg-emerald-500"></div>
-        <p>© 2026 EnglishMaster. Portal de aprendizaje independiente.</p>
-      </div>
-      <div class="flex items-center space-x-6 text-[11px]">
-        <a href="privacidad.html" class="hover:text-slate-900 transition-colors">Privacidad</a>
-        <a href="terminos.html" class="hover:text-slate-900 transition-colors">Términos</a>
-      </div>
-    </div>
-  </footer>
-
-  <!-- SCRIPT ICONOS -->
-  <script>
-    window.addEventListener('DOMContentLoaded', () => {
-      if (typeof lucide !== 'undefined') lucide.createIcons();
-    });
-  </script>
+    </footer>
 
 </body>
 </html>
