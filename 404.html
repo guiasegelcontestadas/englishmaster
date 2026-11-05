@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página no encontrada (404) | Englishmaster</title>
+    <meta name="robots" content="noindex, follow">
+    <link rel="canonical" href="https://englishmaster.quantumaudiostudio.com/404.html">
+    <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="./assets/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        brand: {
+                            50: '#eff6ff',
+                            100: '#dbeafe',
+                            500: '#3b82f6',
+                            600: '#2563eb',
+                            700: '#1d4ed8',
+                            900: '#1e3a8a',
+                        },
+                        chicDark: '#0f172a',
+                        chicGray: '#f8fafc',
+                        chicBorder: '#e2e8f0'
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        serif: ['Merriweather', 'serif'],
+                        heading: ['Poppins', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans antialiased flex flex-col min-h-screen">
+
+    <!-- Header Principal -->
+    <header class="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-chicBorder shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20">
+                <!-- Logo -->
+                <div class="flex-shrink-0 flex items-center">
+                    <a href="./" class="flex items-center gap-2 group">
+                        <div class="w-10 h-10 bg-brand-600 group-hover:bg-brand-700 text-white rounded-xl flex items-center justify-center font-heading font-extrabold text-xl shadow-md transition">
+                            EM
+                        </div>
+                        <span class="font-heading font-extrabold text-2xl tracking-tight text-slate-900">
+                            English<span class="text-brand-600">master</span>
+                        </span>
+                    </a>
+                </div>
+
+                <!-- Contenedor derecho -->
+                <div class="flex items-center gap-6">
+                    <!-- Menú Navegación -->
+                    <nav class="hidden lg:flex items-center font-medium text-slate-700 text-sm">
+                        <a href="./" class="hover:text-brand-600 transition">Inicio</a>
+                    </nav>
+
+                    <!-- Botón Menú Móvil -->
+                    <div class="flex lg:hidden items-center">
+                        <button id="mobileMenuBtn" aria-label="Abrir menú" class="p-2 text-slate-600 hover:text-slate-900 focus:outline-none">
+                            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+                        </button>
+                    </div>
+                </div> 
+            </div>
+        </div>
+
+        <!-- Menú Desplegable Móvil -->
+        <div id="mobileMenu" class="hidden lg:hidden bg-white border-b border-chicBorder px-4 pt-2 pb-6 space-y-3">
+            <a href="./" class="block font-medium text-slate-700 hover:text-brand-600 py-1">Inicio</a>
+        </div>
+    </header>
+
+    <!-- Contenido Principal 404 -->
+    <main class="flex-grow max-w-3xl w-full mx-auto px-4 py-16 sm:py-24 text-center space-y-6 flex flex-col items-center justify-center">
+        <div class="w-20 h-20 bg-brand-50 text-brand-600 rounded-3xl flex items-center justify-center font-heading font-extrabold text-3xl shadow-sm border border-brand-100">
+            404
+        </div>
+        
+        <div class="space-y-2">
+            <h1 class="font-heading font-extrabold text-3xl sm:text-4xl text-slate-900">Lección no encontrada</h1>
+            <p class="text-slate-600 text-sm sm:text-base max-w-md mx-auto">
+                La página que buscas pudo haber sido movida, eliminada o la dirección escrita es incorrecta.
+            </p>
+        </div>
+
+        <!-- Caja de acciones -->
+        <div class="flex flex-col sm:flex-row items-center gap-3 pt-4 w-full max-w-xs">
+            <a href="./" class="w-full bg-brand-600 hover:bg-brand-700 text-white font-bold text-xs uppercase tracking-wider py-3.5 px-6 rounded-xl transition shadow-md text-center">
+                Ir al Inicio
+            </a>
+            <a href="./buscar/" class="w-full bg-white hover:bg-slate-100 text-slate-700 border border-slate-300 font-bold text-xs uppercase tracking-wider py-3.5 px-6 rounded-xl transition text-center">
+                Buscar lección
+            </a>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-chicDark text-slate-400 text-xs border-t border-slate-800 mt-auto">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <div class="grid grid-cols-1 md:grid-cols-12 gap-8">
+                <div class="md:col-span-6 space-y-3">
+                    <div class="flex items-center gap-2">
+                        <div class="w-7 h-7 bg-brand-600 text-white rounded-lg flex items-center justify-center font-heading font-bold text-sm">
+                            EM
+                        </div>
+                        <span class="font-heading font-extrabold text-lg text-white">English<span class="text-brand-500">master</span></span>
+                    </div>
+                    <p class="text-slate-400 text-xs max-w-sm">
+                        Plataforma educativa dedicada a la enseñanza práctica del idioma inglés con lecciones estructuradas y explicaciones claras.
+                    </p>
+                </div>
+                <div class="md:col-span-3 space-y-2"></div>
+                <div class="md:col-span-3 space-y-2">
+                    <h4 class="font-heading font-bold text-white text-xs uppercase tracking-wider">Legal</h4>
+                    <ul class="space-y-1.5">
+                        <li><a href="./privacidad/" class="hover:text-white transition">Privacidad</a></li>
+                        <li><a href="./terminos/" class="hover:text-white transition">Términos de uso</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="border-t border-slate-800 mt-8 pt-6 text-center text-[11px] text-slate-500">
+                &copy; 2026 Englishmaster. Todos los derechos reservados.
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        document.getElementById('mobileMenuBtn').addEventListener('click', function() {
+            var menu = document.getElementById('mobileMenu');
+            menu.classList.toggle('hidden');
+        });
+    </script>
+</body>
+</html>
