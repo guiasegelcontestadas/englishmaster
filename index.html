@@ -121,6 +121,7 @@
     <header class="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-chicBorder shadow-sm">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between items-center h-20">
+                <!-- Logo -->
                 <div class="flex-shrink-0 flex items-center">
                     <a href="/" class="flex items-center gap-2 group">
                         <div class="w-10 h-10 bg-brand-600 group-hover:bg-brand-700 text-white rounded-xl flex items-center justify-center font-heading font-extrabold text-xl shadow-md transition">
@@ -132,38 +133,39 @@
                     </a>
                 </div>
 
-                <nav class="hidden lg:flex items-center gap-8 font-medium text-slate-700 text-sm">
-                    <a href="/" class="text-brand-600 font-semibold hover:text-brand-700 transition">Inicio</a>
-                    <a href="gramatica/" class="hover:text-brand-600 transition">Gramática</a>
-                    <a href="phrasal-verbs/" class="hover:text-brand-600 transition">Phrasal Verbs</a>
-                    <a href="vocabulario/" class="hover:text-brand-600 transition">Vocabulario</a>
-                </nav>
+                <!-- Contenedor derecho (Navegación, Buscador y Botón móvil) -->
+                <div class="flex items-center gap-6">
+                    <!-- Menú Navegación -->
+                    <nav class="hidden lg:flex items-center font-medium text-slate-700 text-sm">
+                        <a href="/" class="hover:text-brand-600 transition">Inicio</a>
+                    </nav>
+                    
+                    <!-- Buscador Escritorio -->
+                    <div class="hidden md:flex items-center">
+                        <form action="buscar/" method="GET" class="relative">
+                            <input type="text" name="q" placeholder="Buscar lección..." aria-label="Buscar lección" class="w-48 lg:w-64 bg-slate-100 text-slate-900 text-xs rounded-full py-2.5 pl-4 pr-10 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:bg-white transition">
+                            <button type="submit" aria-label="Buscar" class="absolute right-2 top-1/2 -translate-y-1/2 w-7 h-7 bg-brand-600 text-white rounded-full flex items-center justify-center hover:bg-brand-700 transition">
+                                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                            </button>
+                        </form>
+                    </div>
 
-                <div class="hidden md:flex items-center">
-                    <form action="buscar/" method="GET" class="relative">
-                        <input type="text" name="q" placeholder="Buscar lección..." aria-label="Buscar lección" class="w-48 lg:w-64 bg-slate-100 text-slate-900 text-xs rounded-full py-2.5 pl-4 pr-10 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:bg-white transition">
-                        <button type="submit" aria-label="Buscar" class="absolute right-2 top-1/2 -translate-y-1/2 w-7 h-7 bg-brand-600 text-white rounded-full flex items-center justify-center hover:bg-brand-700 transition">
-                            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                    <!-- Botón Menú Móvil -->
+                    <div class="flex lg:hidden items-center">
+                        <button id="mobileMenuBtn" aria-label="Abrir menú" class="p-2 text-slate-600 hover:text-slate-900 focus:outline-none">
+                            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
                         </button>
-                    </form>
-                </div>
-
-                <div class="flex lg:hidden items-center">
-                    <button id="mobileMenuBtn" aria-label="Abrir menú" class="p-2 text-slate-600 hover:text-slate-900 focus:outline-none">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
-                    </button>
-                </div>
+                    </div>
+                </div> <!-- Cierra correctamente el div class="flex items-center gap-6" -->
             </div>
         </div>
 
+        <!-- Menú Desplegable Móvil -->
         <div id="mobileMenu" class="hidden lg:hidden bg-white border-b border-chicBorder px-4 pt-2 pb-6 space-y-3">
-            <a href="/" class="block font-semibold text-brand-600 py-1">Inicio</a>
-            <a href="gramatica/" class="block font-medium text-slate-700 hover:text-brand-600 py-1">Gramática</a>
-            <a href="phrasal-verbs/" class="block font-medium text-slate-700 hover:text-brand-600 py-1">Phrasal Verbs</a>
-            <a href="vocabulario/" class="block font-medium text-slate-700 hover:text-brand-600 py-1">Vocabulario</a>
+            <a href="/" class="block font-medium text-slate-700 hover:text-brand-600 py-1">Inicio</a>
         </div>
     </header>
-
+    
     <!-- Contenido Principal -->
     <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-10">
 
