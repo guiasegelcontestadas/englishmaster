@@ -7,8 +7,40 @@
     <meta name="robots" content="noindex, follow">
     <link rel="canonical" href="https://englishmaster.quantumaudiostudio.com/buscar/">
     <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="../assets/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        brand: {
+                            50: '#eff6ff',
+                            100: '#dbeafe',
+                            500: '#3b82f6',
+                            600: '#2563eb',
+                            700: '#1d4ed8',
+                            900: '#1e3a8a',
+                        },
+                        chicDark: '#0f172a',
+                        chicGray: '#f8fafc',
+                        chicBorder: '#e2e8f0'
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        serif: ['Merriweather', 'serif'],
+                        heading: ['Poppins', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
 </head>
+<body class="bg-slate-50 text-slate-800 font-sans antialiased flex flex-col min-h-screen">
+
     <!-- Header Principal -->
     <header class="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-chicBorder shadow-sm">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -25,13 +57,12 @@
                     </a>
                 </div>
 
-                <!-- Contenedor derecho (Navegación, Buscador y Botón móvil) -->
+                <!-- Contenedor derecho (Navegación y Botón móvil) -->
                 <div class="flex items-center gap-6">
                     <!-- Menú Navegación -->
                     <nav class="hidden lg:flex items-center font-medium text-slate-700 text-sm">
                         <a href="../" class="hover:text-brand-600 transition">Inicio</a>
                     </nav>
-                    
 
                     <!-- Botón Menú Móvil -->
                     <div class="flex lg:hidden items-center">
