@@ -6,5 +6,37 @@
     "imagen": "../../assets/como-usar-el-verbo-to-be-en-ingles.webp",
     "alt": "Estudiante concentrada en una biblioteca ideal para practicar como usar el verbo to be en ingles.",
     "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Pasado simple en ingles reglas y ejemplos",
+    "slug": "pasado-simple-en-ingles-reglas-y-ejemplos",
+    "descripcion": "Aprende todo sobre pasado simple en ingles reglas y ejemplos con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/pasado-simple-en-ingles-reglas-y-ejemplos.webp",
+    "alt": "Estudiante sonriente aprende pasado simple en ingles reglas y ejemplos con su portátil en cafetería.",
+    "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Cuando usar a y an en ingles",
+    "slug": "cuando-usar-a-y-an-en-ingles",
+    "descripcion": "Aprende todo sobre cuando usar a y an en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/cuando-usar-a-y-an-en-ingles.webp",
+    "alt": "Una estudiante toma notas mientras aprende en su ordenador cuando usar a y an en ingles.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Preposiciones in on at en ingles explicacion",
+    "slug": "preposiciones-in-on-at-en-ingles-explicacion",
+    "descripcion": "Aprende todo sobre preposiciones in on at en ingles explicacion con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/preposiciones-in-on-at-en-ingles-explicacion.webp",
+    "alt": "Estudiante pelirroja lee libro con preposiciones in on at en ingles explicacion en un parque.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Los 10 verbos mas usados en ingles con significado",
+    "slug": "los-10-verbos-mas-usados-en-ingles-con-significado",
+    "descripcion": "Aprende todo sobre los 10 verbos mas usados en ingles con significado con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/los-10-verbos-mas-usados-en-ingles-con-significado.webp",
+    "alt": "Cuaderno abierto sobre una mesa mostrando los 10 verbos mas usados en ingles con significado.",
+    "categoria": "gramatica/a1-principiante"
   }
 ]
