@@ -78,5 +78,45 @@
     "imagen": "../../assets/verbos-regulares-e-irregulares-en-pasado-simple-en-ingles.webp",
     "alt": "Estudiante concentrada aprende verbos regulares e irregulares en pasado simple en ingles sentada en el parque.",
     "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Adjetivos demostrativos en ingles this that these those",
+    "slug": "adjetivos-demostrativos-en-ingles-this-that-these-those",
+    "descripcion": "Aprende todo sobre adjetivos demostrativos en ingles this that these those con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/adjetivos-demostrativos-en-ingles-this-that-these-those.webp",
+    "alt": "Estudiante sentada en un banco del campus aprendiendo adjetivos demostrativos en ingles this that these those.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Pronombres posesivos en ingles mine yours his",
+    "slug": "pronombres-posesivos-en-ingles-mine-yours-his",
+    "descripcion": "Aprende todo sobre pronombres posesivos en ingles mine yours his con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/pronombres-posesivos-en-ingles-mine-yours-his.webp",
+    "alt": "Mujer sonriendo en videoclase de pronombres posesivos en ingles mine yours his usando laptop.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Como hacer preguntas en ingles wh questions",
+    "slug": "como-hacer-preguntas-en-ingles-wh-questions",
+    "descripcion": "Aprende todo sobre como hacer preguntas en ingles wh questions con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-hacer-preguntas-en-ingles-wh-questions.webp",
+    "alt": "Aprende como hacer preguntas en ingles wh questions con dos jóvenes estudiando frente a una laptop.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Los meses y dias de la semana en ingles",
+    "slug": "los-meses-y-dias-de-la-semana-en-ingles",
+    "descripcion": "Aprende todo sobre los meses y dias de la semana en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/los-meses-y-dias-de-la-semana-en-ingles.webp",
+    "alt": "Estudiante toma notas sobre los meses y dias de la semana en ingles en la biblioteca.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Adjetivos comparativos y superlativos en ingles",
+    "slug": "adjetivos-comparativos-y-superlativos-en-ingles",
+    "descripcion": "Aprende todo sobre adjetivos comparativos y superlativos en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/adjetivos-comparativos-y-superlativos-en-ingles.webp",
+    "alt": "Mujer estudiando en un balcón soleado mientras aprende adjetivos comparativos y superlativos en ingles.",
+    "categoria": "gramatica/a2-elemental"
   }
 ]
