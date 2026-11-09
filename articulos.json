@@ -38,5 +38,45 @@
     "imagen": "../../assets/los-10-verbos-mas-usados-en-ingles-con-significado.webp",
     "alt": "Cuaderno abierto sobre una mesa mostrando los 10 verbos mas usados en ingles con significado.",
     "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Pronombres personales en ingles sujeto y objeto",
+    "slug": "pronombres-personales-en-ingles-sujeto-y-objeto",
+    "descripcion": "Aprende todo sobre pronombres personales en ingles sujeto y objeto con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/pronombres-personales-en-ingles-sujeto-y-objeto.webp",
+    "alt": "Estudiante aprende pronombres personales en ingles sujeto y objeto con libro abierto en balcón soleado.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Reglas para plurales en ingles",
+    "slug": "reglas-para-plurales-en-ingles",
+    "descripcion": "Aprende todo sobre reglas para plurales en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/reglas-para-plurales-en-ingles.webp",
+    "alt": "Estudiante toma notas con apuntes sobre reglas para plurales en ingles en la biblioteca.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Como se usa el articulo the en ingles",
+    "slug": "como-se-usa-el-articulo-the-en-ingles",
+    "descripcion": "Aprende todo sobre como se usa el articulo the en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-se-usa-el-articulo-the-en-ingles.webp",
+    "alt": "Estudio en casa para aprender como se usa el articulo the en ingles.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Oraciones en presente simple afirmativas negativas y interrogativas",
+    "slug": "oraciones-en-presente-simple-afirmativas-negativas-y-interrogativas",
+    "descripcion": "Aprende todo sobre oraciones en presente simple afirmativas negativas y interrogativas con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/oraciones-en-presente-simple-afirmativas-negativas-y-interrogativas.webp",
+    "alt": "Dos jóvenes estudian gramática inglesa analizando oraciones en presente simple afirmativas negativas e interrogativas en un portátil.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Verbos regulares e irregulares en pasado simple en ingles",
+    "slug": "verbos-regulares-e-irregulares-en-pasado-simple-en-ingles",
+    "descripcion": "Aprende todo sobre verbos regulares e irregulares en pasado simple en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/verbos-regulares-e-irregulares-en-pasado-simple-en-ingles.webp",
+    "alt": "Estudiante concentrada aprende verbos regulares e irregulares en pasado simple en ingles sentada en el parque.",
+    "categoria": "gramatica/a1-principiante"
   }
 ]
