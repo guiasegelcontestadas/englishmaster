@@ -118,5 +118,101 @@
     "imagen": "../../assets/adjetivos-comparativos-y-superlativos-en-ingles.webp",
     "alt": "Mujer estudiando en un balcón soleado mientras aprende adjetivos comparativos y superlativos en ingles.",
     "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Adjetivos posesivos en ingles my your his her",
+    "slug": "adjetivos-posesivos-en-ingles-my-your-his-her",
+    "descripcion": "Aprende todo sobre adjetivos posesivos en ingles my your his her con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/adjetivos-posesivos-en-ingles-my-your-his-her.webp",
+    "alt": "Una mujer estudiando adjetivos posesivos en ingles my your his her con su portátil.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Como usar there is y there are en ingles",
+    "slug": "como-usar-there-is-y-there-are-en-ingles",
+    "descripcion": "Aprende todo sobre como usar there is y there are en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-there-is-y-there-are-en-ingles.webp",
+    "alt": "Estudiante concentrada en una biblioteca aprende como usar there is y there are en ingles.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Como hablar del futuro con going to en ingles",
+    "slug": "como-hablar-del-futuro-con-going-to-en-ingles",
+    "descripcion": "Aprende todo sobre como hablar del futuro con going to en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-hablar-del-futuro-con-going-to-en-ingles.webp",
+    "alt": "Estudiante aprende como hablar del futuro con going to en ingles en laptop.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Como usar el presente continuo en ingles",
+    "slug": "como-usar-el-presente-continuo-en-ingles",
+    "descripcion": "Aprende todo sobre como usar el presente continuo en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-el-presente-continuo-en-ingles.webp",
+    "alt": "Estudiante sonriente aprende como usar el presente continuo en ingles con una leccion online en laptop.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Los numeros en ingles del 1 al 100 con pronunciacion",
+    "slug": "los-numeros-en-ingles-del-1-al-100-con-pronunciacion",
+    "descripcion": "Aprende todo sobre los numeros en ingles del 1 al 100 con pronunciacion con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/los-numeros-en-ingles-del-1-al-100-con-pronunciacion.webp",
+    "alt": "Laptop sobre una mesa mostrando una app para aprender los numeros en ingles del 1 al 100 con pronunciacion.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Sustantivos contables y no contables en ingles",
+    "slug": "sustantivos-contables-y-no-contables-en-ingles",
+    "descripcion": "Aprende todo sobre sustantivos contables y no contables en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/sustantivos-contables-y-no-contables-en-ingles.webp",
+    "alt": "Dos personas estudian sustantivos contables y no contables en ingles usando una laptop.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Como expresar posesion con have got en ingles",
+    "slug": "como-expresar-posesion-con-have-got-en-ingles",
+    "descripcion": "Aprende todo sobre como expresar posesion con have got en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-expresar-posesion-con-have-got-en-ingles.webp",
+    "alt": "Una laptop en un escritorio muestra una leccion sobre como expresar posesion con have got en ingles.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Como decir la hora en ingles de forma facil",
+    "slug": "como-decir-la-hora-en-ingles-de-forma-facil",
+    "descripcion": "Aprende todo sobre como decir la hora en ingles de forma facil con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-decir-la-hora-en-ingles-de-forma-facil.webp",
+    "alt": "Una mujer sonriente aprende como decir la hora en ingles de forma facil con libros.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Como usar can y can t para habilidades en ingles",
+    "slug": "como-usar-can-y-can-t-para-habilidades-en-ingles",
+    "descripcion": "Aprende todo sobre como usar can y can t para habilidades en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-can-y-can-t-para-habilidades-en-ingles.webp",
+    "alt": "Estudiante tomando notas en una biblioteca mientras aprende como usar can y can t para habilidades en ingles.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Cuantificadores basicos some y any en ingles",
+    "slug": "cuantificadores-basicos-some-y-any-en-ingles",
+    "descripcion": "Aprende todo sobre cuantificadores basicos some y any en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/cuantificadores-basicos-some-y-any-en-ingles.webp",
+    "alt": "Mujer estudiando sobre cuantificadores basicos some y any en ingles en una terraza soleada.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Partes de la casa y muebles en ingles",
+    "slug": "partes-de-la-casa-y-muebles-en-ingles",
+    "descripcion": "Aprende todo sobre partes de la casa y muebles en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/partes-de-la-casa-y-muebles-en-ingles.webp",
+    "alt": "Laptop sobre escritorio de madera mostrando un curso interactivo de partes de la casa y muebles en ingles.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Los colores en ingles y como usarlos",
+    "slug": "los-colores-en-ingles-y-como-usarlos",
+    "descripcion": "Aprende todo sobre los colores en ingles y como usarlos con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/los-colores-en-ingles-y-como-usarlos.webp",
+    "alt": "Una pareja alegre aprende los colores en ingles y como usarlos con un portátil.",
+    "categoria": "vocabulario"
   }
 ]
