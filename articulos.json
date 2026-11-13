@@ -214,5 +214,85 @@
     "imagen": "../../assets/los-colores-en-ingles-y-como-usarlos.webp",
     "alt": "Una pareja alegre aprende los colores en ingles y como usarlos con un portátil.",
     "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Como usar will y would en ingles",
+    "slug": "como-usar-will-y-would-en-ingles",
+    "descripcion": "Aprende todo sobre como usar will y would en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-will-y-would-en-ingles.webp",
+    "alt": "Estudiante lee un libro sobre como usar Will y would en ingles sentado en una banca",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Estructura del presente perfecto en ingles",
+    "slug": "estructura-del-presente-perfecto-en-ingles",
+    "descripcion": "Aprende todo sobre estructura del presente perfecto en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/estructura-del-presente-perfecto-en-ingles.webp",
+    "alt": "Un portátil muestra la estructura del presente perfecto en ingles junto a una libreta y café.",
+    "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Diferencia entre presente perfecto y pasado simple",
+    "slug": "diferencia-entre-presente-perfecto-y-pasado-simple",
+    "descripcion": "Aprende todo sobre diferencia entre presente perfecto y pasado simple con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/diferencia-entre-presente-perfecto-y-pasado-simple.webp",
+    "alt": "Una estudiante toma notas sobre la diferencia entre presente perfecto y pasado simple frente a su portátil.",
+    "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Oraciones condicionales tipo 0 y 1 en ingles",
+    "slug": "oraciones-condicionales-tipo-0-y-1-en-ingles",
+    "descripcion": "Aprende todo sobre oraciones condicionales tipo 0 y 1 en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/oraciones-condicionales-tipo-0-y-1-en-ingles.webp",
+    "alt": "Estudiante leyendo un libro de gramática en el parque sobre oraciones condicionales tipo 0 y 1 en ingles.",
+    "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Phrasal verbs mas usados en ingles con significado",
+    "slug": "phrasal-verbs-mas-usados-en-ingles-con-significado",
+    "descripcion": "Aprende todo sobre phrasal verbs mas usados en ingles con significado con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-mas-usados-en-ingles-con-significado.webp",
+    "alt": "Una joven estudia phrasal verbs mas usados en ingles con significado en su balcón lleno de plantas.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Como usar los modales should must y have to",
+    "slug": "como-usar-los-modales-should-must-y-have-to",
+    "descripcion": "Aprende todo sobre como usar los modales should must y have to con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-modales-should-must-y-have-to.webp",
+    "alt": "Aprende como usar los modales SHOULD MUST y HAVE TO con apuntes en un escritorio.",
+    "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Vocabulario para viajar en ingles aeropuerto y hotel",
+    "slug": "vocabulario-para-viajar-en-ingles-aeropuerto-y-hotel",
+    "descripcion": "Aprende todo sobre vocabulario para viajar en ingles aeropuerto y hotel con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-viajar-en-ingles-aeropuerto-y-hotel.webp",
+    "alt": "Una mujer sonríe estudiando vocabulario para viajar en ingles: aeropuerto y hotel en un café.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Gerundios e infinitivos despues de verbos en ingles",
+    "slug": "gerundios-e-infinitivos-despues-de-verbos-en-ingles",
+    "descripcion": "Aprende todo sobre gerundios e infinitivos despues de verbos en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/gerundios-e-infinitivos-despues-de-verbos-en-ingles.webp",
+    "alt": "Estudiante aprende gerundios e infinitivos despues de verbos en ingles con su portátil.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Expresiones idiomaticas mas comunes en ingles",
+    "slug": "expresiones-idiomaticas-mas-comunes-en-ingles",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas mas comunes en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-mas-comunes-en-ingles.webp",
+    "alt": "Ordenador y libreta abierta muestran las expresiones idiomaticas mas comunes en ingles.",
+    "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Como usar la voz pasiva en ingles",
+    "slug": "como-usar-la-voz-pasiva-en-ingles",
+    "descripcion": "Aprende todo sobre como usar la voz pasiva en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-la-voz-pasiva-en-ingles.webp",
+    "alt": "Estudiante practica como usar la voz pasiva en ingles tomando apuntes.",
+    "categoria": "gramatica/b1-intermedio"
   }
 ]
