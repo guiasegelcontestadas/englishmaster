@@ -294,5 +294,85 @@
     "imagen": "../../assets/como-usar-la-voz-pasiva-en-ingles.webp",
     "alt": "Estudiante practica como usar la voz pasiva en ingles tomando apuntes.",
     "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Oraciones condicionales tipo 2 en ingles",
+    "slug": "oraciones-condicionales-tipo-2-en-ingles",
+    "descripcion": "Aprende todo sobre oraciones condicionales tipo 2 en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/oraciones-condicionales-tipo-2-en-ingles.webp",
+    "alt": "Si ella estudiara oraciones condicionales tipo 2 en ingles, aprobaría su examen fácilmente.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar used to en ingles",
+    "slug": "como-usar-used-to-en-ingles",
+    "descripcion": "Aprende todo sobre como usar used to en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-used-to-en-ingles.webp",
+    "alt": "Estudiante sonriente aprende como usar used to en ingles con una videollamada.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Estilo indirecto o reported speech en ingles",
+    "slug": "estilo-indirecto-o-reported-speech-en-ingles",
+    "descripcion": "Aprende todo sobre estilo indirecto o reported speech en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/estilo-indirecto-o-reported-speech-en-ingles.webp",
+    "alt": "Una pareja sonríe practicando estilo indirecto o reported speech en ingles con una laptop.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Pasado continuo en ingles estructura y usos",
+    "slug": "pasado-continuo-en-ingles-estructura-y-usos",
+    "descripcion": "Aprende todo sobre pasado continuo en ingles estructura y usos con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/pasado-continuo-en-ingles-estructura-y-usos.webp",
+    "alt": "Una estudiante en la biblioteca toma apuntes detallados sobre el pasado continuo en ingles estructura y usos.",
+    "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Relativos who which that en ingles",
+    "slug": "relativos-who-which-that-en-ingles",
+    "descripcion": "Aprende todo sobre relativos who which that en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/relativos-who-which-that-en-ingles.webp",
+    "alt": "Una joven estudiando en línea sobre relativos who which that en ingles con su portátil.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Cuantificadores avanzados much many a lot of too enough",
+    "slug": "cuantificadores-avanzados-much-many-a-lot-of-too-enough",
+    "descripcion": "Aprende todo sobre cuantificadores avanzados much many a lot of too enough con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/cuantificadores-avanzados-much-many-a-lot-of-too-enough.webp",
+    "alt": "Una pareja estudiando inglés con cuantificadores avanzados much many a lot of too enough en un café.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar los modales de deduccion must cant might en ingles",
+    "slug": "como-usar-los-modales-de-deduccion-must-cant-might-en-ingles",
+    "descripcion": "Aprende todo sobre como usar los modales de deduccion must cant might en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-modales-de-deduccion-must-cant-might-en-ingles.webp",
+    "alt": "Mujer estudiando en una cafetería como usar los modales de deduccion must cant might en ingles",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Vocabulario para entrevistas de trabajo en ingles",
+    "slug": "vocabulario-para-entrevistas-de-trabajo-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para entrevistas de trabajo en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-entrevistas-de-trabajo-en-ingles.webp",
+    "alt": "Escritorio iluminado con laptop mostrando vocabulario para entrevistas de trabajo en ingles junto a café.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Conectores de discurso en ingles para hablar con fluidez",
+    "slug": "conectores-de-discurso-en-ingles-para-hablar-con-fluidez",
+    "descripcion": "Aprende todo sobre conectores de discurso en ingles para hablar con fluidez con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/conectores-de-discurso-en-ingles-para-hablar-con-fluidez.webp",
+    "alt": "Una estudiante lee sobre conectores de discurso en ingles para hablar con fluidez en un parque.",
+    "categoria": "gramatica/b2-intermedio-alto"
+  },
+  {
+    "titulo": "Oraciones de tiempo con when as soon as until en ingles",
+    "slug": "oraciones-de-tiempo-con-when-as-soon-as-until-en-ingles",
+    "descripcion": "Aprende todo sobre oraciones de tiempo con when as soon as until en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/oraciones-de-tiempo-con-when-as-soon-as-until-en-ingles.webp",
+    "alt": "Estudiante sonriente practicando oraciones de tiempo con when as soon as until en ingles.",
+    "categoria": "gramatica/a2-elemental"
   }
 ]
