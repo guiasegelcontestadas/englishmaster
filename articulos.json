@@ -414,5 +414,45 @@
     "imagen": "../../assets/vocabulario-para-reuniones-de-trabajo-en-ingles.webp",
     "alt": "Portátil en un escritorio mostrando videoclamada con apuntes de vocabulario para reuniones de trabajo en ingles.",
     "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Como usar el pasado perfecto en ingles",
+    "slug": "como-usar-el-pasado-perfecto-en-ingles",
+    "descripcion": "Aprende todo sobre como usar el pasado perfecto en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-el-pasado-perfecto-en-ingles.webp",
+    "alt": "Estudiante aprende como usar el pasado perfecto en ingles con un libro y laptop.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Oraciones condicionales mixtas en ingles",
+    "slug": "oraciones-condicionales-mixtas-en-ingles",
+    "descripcion": "Aprende todo sobre oraciones condicionales mixtas en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/oraciones-condicionales-mixtas-en-ingles.webp",
+    "alt": "Dos jóvenes estudian gramática y analizan ejemplos de oraciones condicionales mixtas en ingles en su laptop.",
+    "categoria": "gramatica/b2-intermedio-alto"
+  },
+  {
+    "titulo": "Phrasal verbs avanzados con get y take",
+    "slug": "phrasal-verbs-avanzados-con-get-y-take",
+    "descripcion": "Aprende todo sobre phrasal verbs avanzados con get y take con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-avanzados-con-get-y-take.webp",
+    "alt": "Portátil abierto en un escritorio con lecciones de phrasal verbs avanzados con get y take.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Vocabulario para negociaciones y ventas en ingles",
+    "slug": "vocabulario-para-negociaciones-y-ventas-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para negociaciones y ventas en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-negociaciones-y-ventas-en-ingles.webp",
+    "alt": "Estudiante tomando notas mientras aprende vocabulario para negociaciones y ventas en ingles con su portatil.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Como usar wish y if only en ingles",
+    "slug": "como-usar-wish-y-if-only-en-ingles",
+    "descripcion": "Aprende todo sobre como usar wish y if only en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-wish-y-if-only-en-ingles.webp",
+    "alt": "Una mujer sonríe estudiando gramática sobre como usar wish y if only en ingles en su balcón.",
+    "categoria": "gramatica/b2-intermedio-alto"
   }
 ]
