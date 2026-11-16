@@ -374,5 +374,45 @@
     "imagen": "../../assets/oraciones-de-tiempo-con-when-as-soon-as-until-en-ingles.webp",
     "alt": "Estudiante sonriente practicando oraciones de tiempo con when as soon as until en ingles.",
     "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Oraciones condicionales tipo 3 en ingles",
+    "slug": "oraciones-condicionales-tipo-3-en-ingles",
+    "descripcion": "Aprende todo sobre oraciones condicionales tipo 3 en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/oraciones-condicionales-tipo-3-en-ingles.webp",
+    "alt": "Estudiante repasando oraciones condicionales tipo 3 en ingles dentro de una biblioteca clásica.",
+    "categoria": "gramatica/b2-intermedio-alto"
+  },
+  {
+    "titulo": "Como usar el futuro con will vs present continuous",
+    "slug": "como-usar-el-futuro-con-will-vs-present-continuous",
+    "descripcion": "Aprende todo sobre como usar el futuro con will vs present continuous con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-el-futuro-con-will-vs-present-continuous.webp",
+    "alt": "Una estudiante aprende como usar el futuro con will vs present continuous en la biblioteca.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Verbos seguidos de gerundio o infinitivo con cambio de significado",
+    "slug": "verbos-seguidos-de-gerundio-o-infinitivo-con-cambio-de-significado",
+    "descripcion": "Aprende todo sobre verbos seguidos de gerundio o infinitivo con cambio de significado con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/verbos-seguidos-de-gerundio-o-infinitivo-con-cambio-de-significado.webp",
+    "alt": "Dos jóvenes estudian gramática inglesa analizando verbos seguidos de gerundio o infinitivo con cambio de significado.",
+    "categoria": "gramatica/b2-intermedio-alto"
+  },
+  {
+    "titulo": "Conectores de contraste y concesion en ingles",
+    "slug": "conectores-de-contraste-y-concesion-en-ingles",
+    "descripcion": "Aprende todo sobre conectores de contraste y concesion en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/conectores-de-contraste-y-concesion-en-ingles.webp",
+    "alt": "Estudiante sonriente en clase online sobre conectores de contraste y concesion en ingles.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Vocabulario para reuniones de trabajo en ingles",
+    "slug": "vocabulario-para-reuniones-de-trabajo-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para reuniones de trabajo en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-reuniones-de-trabajo-en-ingles.webp",
+    "alt": "Portátil en un escritorio mostrando videoclamada con apuntes de vocabulario para reuniones de trabajo en ingles.",
+    "categoria": "ingles-de-negocios"
   }
 ]
