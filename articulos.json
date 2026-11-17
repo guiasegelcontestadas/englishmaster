@@ -534,5 +534,13 @@
     "imagen": "../../assets/como-usar-so-y-such-en-ingles.webp",
     "alt": "Un escritorio con portátil muestra una lección sobre como usar so y such en ingles.",
     "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Como usar inversiones gramaticales en ingles",
+    "slug": "como-usar-inversiones-gramaticales-en-ingles",
+    "descripcion": "Aprende todo sobre como usar inversiones gramaticales en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-inversiones-gramaticales-en-ingles.webp",
+    "alt": "Estudiante sonriente aprende como usar inversiones gramaticales en ingles leyendo un libro.",
+    "categoria": "gramatica/c1-avanzado"
   }
 ]
