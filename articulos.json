@@ -662,5 +662,13 @@
     "imagen": "../../assets/consejos-practicos-para-superar-el-bloqueo-mental-al-hablar-ingles.webp",
     "alt": "Laptop sobre escritorio con notas y taza, ideal para consejos practicos para superar el bloqueo mental al hablar ingles.",
     "categoria": "blog"
+  },
+  {
+    "titulo": "Index.html",
+    "slug": "index.html",
+    "descripcion": "Aprende todo sobre index.html con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/index.html.webp",
+    "alt": "",
+    "categoria": "gramatica/b1-intermedio/conectores-de-adicion-y-enfasis-en-ingles"
   }
 ]
