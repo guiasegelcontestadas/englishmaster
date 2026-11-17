@@ -542,5 +542,45 @@
     "imagen": "../../assets/como-usar-inversiones-gramaticales-en-ingles.webp",
     "alt": "Estudiante sonriente aprende como usar inversiones gramaticales en ingles leyendo un libro.",
     "categoria": "gramatica/c1-avanzado"
+  },
+  {
+    "titulo": "Como usar el pasado perfecto continuo en ingles",
+    "slug": "como-usar-el-pasado-perfecto-continuo-en-ingles",
+    "descripcion": "Aprende todo sobre como usar el pasado perfecto continuo en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-el-pasado-perfecto-continuo-en-ingles.webp",
+    "alt": "Estudiante aprendiendo como usar el pasado perfecto continuo en ingles en la biblioteca.",
+    "categoria": "gramatica/b2-intermedio-alto"
+  },
+  {
+    "titulo": "Phrasal verbs avanzados con give y bring en ingles",
+    "slug": "phrasal-verbs-avanzados-con-give-y-bring-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs avanzados con give y bring en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-avanzados-con-give-y-bring-en-ingles.webp",
+    "alt": "Estudiante sonriente practicando phrasal verbs avanzados con give y bring en ingles al aire libre.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Expresiones idiomaticas sobre negocios y dinero en ingles",
+    "slug": "expresiones-idiomaticas-sobre-negocios-y-dinero-en-ingles",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas sobre negocios y dinero en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-sobre-negocios-y-dinero-en-ingles.webp",
+    "alt": "Dos jóvenes sonríen mientras aprenden expresiones idiomáticas sobre negocios y dinero en inglés.",
+    "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Vocabulario avanzado para tecnologia y redes sociales en ingles",
+    "slug": "vocabulario-avanzado-para-tecnologia-y-redes-sociales-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario avanzado para tecnologia y redes sociales en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-avanzado-para-tecnologia-y-redes-sociales-en-ingles.webp",
+    "alt": "Estudiante con auriculares aprende vocabulario avanzado para tecnologia y redes sociales en ingles.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario y frases para atencion al cliente en ingles",
+    "slug": "vocabulario-y-frases-para-atencion-al-cliente-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario y frases para atencion al cliente en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-y-frases-para-atencion-al-cliente-en-ingles.webp",
+    "alt": "Estudiante sonriente en un parque repasando un libro de vocabulario y frases para atencion al cliente en ingles",
+    "categoria": "ingles-de-negocios"
   }
 ]
