@@ -582,5 +582,85 @@
     "imagen": "../../assets/vocabulario-y-frases-para-atencion-al-cliente-en-ingles.webp",
     "alt": "Estudiante sonriente en un parque repasando un libro de vocabulario y frases para atencion al cliente en ingles",
     "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Como usar ellipsis u omision de palabras en ingles",
+    "slug": "como-usar-ellipsis-u-omision-de-palabras-en-ingles",
+    "descripcion": "Aprende todo sobre como usar ellipsis u omision de palabras en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-ellipsis-u-omision-de-palabras-en-ingles.webp",
+    "alt": "Mujer tomando apuntes en su ordenador sobre como usar ellipsis u omision de palabras en ingles",
+    "categoria": "gramatica/b2-intermedio-alto"
+  },
+  {
+    "titulo": "Oraciones concessive clauses en ingles con althoough even though y despite",
+    "slug": "oraciones-concessive-clauses-en-ingles-con-althoough-even-though-y-despite",
+    "descripcion": "Aprende todo sobre oraciones concessive clauses en ingles con althoough even though y despite con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/oraciones-concessive-clauses-en-ingles-con-althoough-even-though-y-despite.webp",
+    "alt": "Estudiante sonriente practicando oraciones concessive clauses en ingles con althoough even though y despite en laptop.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Expresiones idiomaticas sobre el clima y tiempo en ingles",
+    "slug": "expresiones-idiomaticas-sobre-el-clima-y-tiempo-en-ingles",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas sobre el clima y tiempo en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-sobre-el-clima-y-tiempo-en-ingles.webp",
+    "alt": "Una mujer sonriente aprende expresiones idiomaticas sobre el clima y tiempo en ingles en un café.",
+    "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Phrasal verbs avanzados con look y come en ingles",
+    "slug": "phrasal-verbs-avanzados-con-look-y-come-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs avanzados con look y come en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-avanzados-con-look-y-come-en-ingles.webp",
+    "alt": "Estudiante aprende phrasal verbs avanzados con look y come en ingles mientras toma café.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Vocabulario avanzado sobre psicologia y emociones humanas en ingles",
+    "slug": "vocabulario-avanzado-sobre-psicologia-y-emociones-humanas-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario avanzado sobre psicologia y emociones humanas en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-avanzado-sobre-psicologia-y-emociones-humanas-en-ingles.webp",
+    "alt": "Portátil con un cuaderno abierto mostrando vocabulario avanzado sobre psicologia y emociones humanas en ingles.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Terminologia y frases para marketing digital en ingles",
+    "slug": "terminologia-y-frases-para-marketing-digital-en-ingles",
+    "descripcion": "Aprende todo sobre terminologia y frases para marketing digital en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/terminologia-y-frases-para-marketing-digital-en-ingles.webp",
+    "alt": "Dos profesionales usan terminologia y frases para marketing digital en ingles mientras colaboran.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Como usar question tags en ingles reglas y ejemplos",
+    "slug": "como-usar-question-tags-en-ingles-reglas-y-ejemplos",
+    "descripcion": "Aprende todo sobre como usar question tags en ingles reglas y ejemplos con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-question-tags-en-ingles-reglas-y-ejemplos.webp",
+    "alt": "Estudiante aprende como usar question tags en ingles reglas y ejemplos en un café.",
+    "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Como dominar la entonacion ascendente y descendente en ingles",
+    "slug": "como-dominar-la-entonacion-ascendente-y-descendente-en-ingles",
+    "descripcion": "Aprende todo sobre como dominar la entonacion ascendente y descendente en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-dominar-la-entonacion-ascendente-y-descendente-en-ingles.webp",
+    "alt": "Una estudiante sonriente aprende como dominar la entonacion ascendente y descendente en ingles en una cafeteria.",
+    "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Verbos estativos y dinamicos en ingles diferencias de uso",
+    "slug": "verbos-estativos-y-dinamicos-en-ingles-diferencias-de-uso",
+    "descripcion": "Aprende todo sobre verbos estativos y dinamicos en ingles diferencias de uso con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/verbos-estativos-y-dinamicos-en-ingles-diferencias-de-uso.webp",
+    "alt": "Estudiante tomando notas mientras aprende los verbos estativos y dinamicos en ingles diferencias de uso",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Consejos practicos para superar el bloqueo mental al hablar ingles",
+    "slug": "consejos-practicos-para-superar-el-bloqueo-mental-al-hablar-ingles",
+    "descripcion": "Aprende todo sobre consejos practicos para superar el bloqueo mental al hablar ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/consejos-practicos-para-superar-el-bloqueo-mental-al-hablar-ingles.webp",
+    "alt": "Laptop sobre escritorio con notas y taza, ideal para consejos practicos para superar el bloqueo mental al hablar ingles.",
+    "categoria": "blog"
   }
 ]
