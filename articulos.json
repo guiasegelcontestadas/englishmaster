@@ -454,5 +454,85 @@
     "imagen": "../../assets/como-usar-wish-y-if-only-en-ingles.webp",
     "alt": "Una mujer sonríe estudiando gramática sobre como usar wish y if only en ingles en su balcón.",
     "categoria": "gramatica/b2-intermedio-alto"
+  },
+  {
+    "titulo": "Como usar el futuro perfecto en ingles",
+    "slug": "como-usar-el-futuro-perfecto-en-ingles",
+    "descripcion": "Aprende todo sobre como usar el futuro perfecto en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-el-futuro-perfecto-en-ingles.webp",
+    "alt": "Joven sonriente estudiando en una cafetería aprende como usar el futuro perfecto en ingles",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar el presente perfecto continuo en ingles",
+    "slug": "como-usar-el-presente-perfecto-continuo-en-ingles",
+    "descripcion": "Aprende todo sobre como usar el presente perfecto continuo en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-el-presente-perfecto-continuo-en-ingles.webp",
+    "alt": "Estudiantes en una cafetería aprenden como usar el presente perfecto continuo en ingles.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Oraciones con i wish y as if en ingles",
+    "slug": "oraciones-con-i-wish-y-as-if-en-ingles",
+    "descripcion": "Aprende todo sobre oraciones con i wish y as if en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/oraciones-con-i-wish-y-as-if-en-ingles.webp",
+    "alt": "Estudiantes conversando en una cafetería mientras practican oraciones con i wish y as if en ingles.",
+    "categoria": "gramatica/b2-intermedio-alto"
+  },
+  {
+    "titulo": "Como usar los causativos have y get en ingles",
+    "slug": "como-usar-los-causativos-have-y-get-en-ingles",
+    "descripcion": "Aprende todo sobre como usar los causativos have y get en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-causativos-have-y-get-en-ingles.webp",
+    "alt": "Estudiante en la biblioteca aprende como usar los causativos have y get en ingles.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar el futuro continuo en ingles",
+    "slug": "como-usar-el-futuro-continuo-en-ingles",
+    "descripcion": "Aprende todo sobre como usar el futuro continuo en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-el-futuro-continuo-en-ingles.webp",
+    "alt": "Dos jóvenes estudian en una cafetería cómo usar el futuro continuo en ingles.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Phrasal verbs avanzados con put y turn",
+    "slug": "phrasal-verbs-avanzados-con-put-y-turn",
+    "descripcion": "Aprende todo sobre phrasal verbs avanzados con put y turn con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-avanzados-con-put-y-turn.webp",
+    "alt": "Estudio en casa sobre phrasal verbs avanzados con put y turn con portátil.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Expresiones idiomaticas sobre emociones en ingles",
+    "slug": "expresiones-idiomaticas-sobre-emociones-en-ingles",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas sobre emociones en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-sobre-emociones-en-ingles.webp",
+    "alt": "Joven estudiando expresiones idiomaticas sobre emociones en ingles frente a su laptop.",
+    "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Vocabulario avanzado para hablar del medio ambiente en ingles",
+    "slug": "vocabulario-avanzado-para-hablar-del-medio-ambiente-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario avanzado para hablar del medio ambiente en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-avanzado-para-hablar-del-medio-ambiente-en-ingles.webp",
+    "alt": "Estudio junto a la ventana con vocabulario avanzado para hablar del medio ambiente en ingles.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para presentaciones efectivas en ingles",
+    "slug": "vocabulario-para-presentaciones-efectivas-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para presentaciones efectivas en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-presentaciones-efectivas-en-ingles.webp",
+    "alt": "Apuntes de vocabulario para presentaciones efectivas en ingles sobre una mesa de trabajo.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Como usar so y such en ingles",
+    "slug": "como-usar-so-y-such-en-ingles",
+    "descripcion": "Aprende todo sobre como usar so y such en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-so-y-such-en-ingles.webp",
+    "alt": "Un escritorio con portátil muestra una lección sobre como usar so y such en ingles.",
+    "categoria": "gramatica/a2-elemental"
   }
 ]
