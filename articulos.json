@@ -686,5 +686,29 @@
     "imagen": "../../assets/como-usar-neither-so-y-too-en-ingles.webp",
     "alt": "Una estudiante toma apuntes sobre como usar neither so y too en ingles.",
     "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Expresiones idiomaticas sobre el trabajo y exito en ingles",
+    "slug": "expresiones-idiomaticas-sobre-el-trabajo-y-exito-en-ingles",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas sobre el trabajo y exito en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-sobre-el-trabajo-y-exito-en-ingles.webp",
+    "alt": "Joven estudiando con su portátil y tomando notas sobre expresiones idiomáticas sobre el trabajo y éxito en inglés.",
+    "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Como usar relative clauses defining y non defining en ingles",
+    "slug": "como-usar-relative-clauses-defining-y-non-defining-en-ingles",
+    "descripcion": "Aprende todo sobre como usar relative clauses defining y non defining en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-relative-clauses-defining-y-non-defining-en-ingles.webp",
+    "alt": "Aprende como usar relative clauses defining y non defining en ingles con este portátil en un escritorio ordenado.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar should have could have would have en ingles",
+    "slug": "como-usar-should-have-could-have-would-have-en-ingles",
+    "descripcion": "Aprende todo sobre como usar should have could have would have en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-should-have-could-have-would-have-en-ingles.webp",
+    "alt": "Estudiante aprendiendo como usar should have could have would have en ingles en un portátil.",
+    "categoria": "gramatica/b1-intermedio"
   }
 ]
