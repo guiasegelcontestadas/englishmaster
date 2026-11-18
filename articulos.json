@@ -758,5 +758,37 @@
     "imagen": "../../assets/vocabulario-para-hablar-de-educacion-y-universidades-en-ingles.webp",
     "alt": "Portátil con lecciones sobre vocabulario para hablar de educacion y universidades en ingles en un escritorio.",
     "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Como dominar la liaison o enlace de sonidos en ingles fluido",
+    "slug": "como-dominar-la-liaison-o-enlace-de-sonidos-en-ingles-fluido",
+    "descripcion": "Aprende todo sobre como dominar la liaison o enlace de sonidos en ingles fluido con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-dominar-la-liaison-o-enlace-de-sonidos-en-ingles-fluido.webp",
+    "alt": "Estudiante aprendiendo como dominar la liaison o enlace de sonidos en ingles fluido con auriculares.",
+    "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Como dominar la pronunciacion de la th sorda y sonora en ingles",
+    "slug": "como-dominar-la-pronunciacion-de-la-th-sorda-y-sonora-en-ingles",
+    "descripcion": "Aprende todo sobre como dominar la pronunciacion de la th sorda y sonora en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-dominar-la-pronunciacion-de-la-th-sorda-y-sonora-en-ingles.webp",
+    "alt": "Una estudiante aprende como dominar la pronunciacion de la th sorda y sonora en ingles con su laptop.",
+    "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Como dominar las formas debiles y fuertes en la pronunciacion en ingles",
+    "slug": "como-dominar-las-formas-debiles-y-fuertes-en-la-pronunciacion-en-ingles",
+    "descripcion": "Aprende todo sobre como dominar las formas debiles y fuertes en la pronunciacion en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-dominar-las-formas-debiles-y-fuertes-en-la-pronunciacion-en-ingles.webp",
+    "alt": "Estudiante sonriente en un banco aprende como dominar las formas debiles y fuertes en la pronunciacion en ingles.",
+    "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Como dominar los sonidos schwa y elision en ingles fluido",
+    "slug": "como-dominar-los-sonidos-schwa-y-elision-en-ingles-fluido",
+    "descripcion": "Aprende todo sobre como dominar los sonidos schwa y elision en ingles fluido con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-dominar-los-sonidos-schwa-y-elision-en-ingles-fluido.webp",
+    "alt": "Estudiante aprendiendo como dominar los sonidos schwa y elision en ingles fluido mediante videollamada.",
+    "categoria": "pronunciacion"
   }
 ]
