@@ -790,5 +790,37 @@
     "imagen": "../../assets/como-dominar-los-sonidos-schwa-y-elision-en-ingles-fluido.webp",
     "alt": "Estudiante aprendiendo como dominar los sonidos schwa y elision en ingles fluido mediante videollamada.",
     "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Phrasal verbs avanzados con blow y pull en ingles",
+    "slug": "phrasal-verbs-avanzados-con-blow-y-pull-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs avanzados con blow y pull en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-avanzados-con-blow-y-pull-en-ingles.webp",
+    "alt": "Estudiante sonriente practicando phrasal verbs avanzados con blow y pull en ingles en cafetería.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs avanzados con break y fall en ingles",
+    "slug": "phrasal-verbs-avanzados-con-break-y-fall-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs avanzados con break y fall en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-avanzados-con-break-y-fall-en-ingles.webp",
+    "alt": "Estudio en línea sobre phrasal verbs avanzados con break y fall en ingles.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs avanzados con break y keep en ingles",
+    "slug": "phrasal-verbs-avanzados-con-break-y-keep-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs avanzados con break y keep en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-avanzados-con-break-y-keep-en-ingles.webp",
+    "alt": "Dos jóvenes alegres estudiando phrasal verbs avanzados con break y keep en ingles en una cafetería.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs avanzados con catch y drop en ingles",
+    "slug": "phrasal-verbs-avanzados-con-catch-y-drop-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs avanzados con catch y drop en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-avanzados-con-catch-y-drop-en-ingles.webp",
+    "alt": "Estudiante repasando phrasal verbs avanzados con catch y drop en ingles dentro de una biblioteca.",
+    "categoria": "phrasal-verbs"
   }
 ]

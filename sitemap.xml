@@ -355,16 +355,16 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-sobre-emociones-en-ingles/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-avanzados-con-break-y-fall-en-ingles/</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/</loc>
+    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-sobre-emociones-en-ingles/</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b1-intermedio/como-usar-used-to-en-ingles/</loc>
@@ -377,6 +377,18 @@
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-avanzados-con-break-y-keep-en-ingles/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a1-principiante/cuantificadores-basicos-some-y-any-en-ingles/</loc>
@@ -469,16 +481,16 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-sobre-el-trabajo-y-exito-en-ingles/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-avanzados-con-blow-y-pull-en-ingles/</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a2-elemental/diferencia-entre-presente-perfecto-y-pasado-simple/</loc>
-    <lastmod>2026-11-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-sobre-el-trabajo-y-exito-en-ingles/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b2-intermedio-alto/como-usar-el-pasado-perfecto-continuo-en-ingles/</loc>
@@ -487,16 +499,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/ingles-de-negocios/terminologia-y-frases-para-marketing-digital-en-ingles/</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a2-elemental/diferencia-entre-presente-perfecto-y-pasado-simple/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b1-intermedio/como-usar-la-voz-pasiva-en-ingles/</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/ingles-de-negocios/terminologia-y-frases-para-marketing-digital-en-ingles/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/pronunciacion/como-dominar-la-entonacion-ascendente-y-descendente-en-ingles/</loc>
@@ -521,6 +539,12 @@
     <lastmod>2026-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-avanzados-con-catch-y-drop-en-ingles/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b1-intermedio/oraciones-concessive-clauses-en-ingles-con-althoough-even-though-y-despite/</loc>
@@ -644,7 +668,7 @@
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
