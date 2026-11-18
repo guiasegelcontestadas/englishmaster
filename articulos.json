@@ -854,5 +854,37 @@
     "imagen": "../../assets/vocabulario-avanzado-para-finanzas-y-contabilidad-en-ingles.webp",
     "alt": "Estudiante enfocada aprendiendo vocabulario avanzado para finanzas y contabilidad en inglés con laptop.",
     "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Vocabulario y frases para la gestion de proyectos en ingles",
+    "slug": "vocabulario-y-frases-para-la-gestion-de-proyectos-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario y frases para la gestion de proyectos en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-y-frases-para-la-gestion-de-proyectos-en-ingles.webp",
+    "alt": "Ordenador portátil mostrando vocabulario y frases para la gestion de proyectos en ingles en un escritorio.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Vocabulario y frases para liderar equipos de trabajo en ingles",
+    "slug": "vocabulario-y-frases-para-liderar-equipos-de-trabajo-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario y frases para liderar equipos de trabajo en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-y-frases-para-liderar-equipos-de-trabajo-en-ingles.webp",
+    "alt": "Estudiante sonriente en un banco universitario leyendo un libro sobre vocabulario y frases para liderar equipos de trabajo en ingles.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Expresiones idiomaticas sobre la comida y alimentacion en ingles",
+    "slug": "expresiones-idiomaticas-sobre-la-comida-y-alimentacion-en-ingles",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas sobre la comida y alimentacion en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-sobre-la-comida-y-alimentacion-en-ingles.webp",
+    "alt": "Un escritorio con portátil mostrando lecciones de expresiones idiomaticas sobre la comida y alimentacion en ingles.",
+    "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Expresiones idiomaticas sobre la salud y el cuerpo en ingles",
+    "slug": "expresiones-idiomaticas-sobre-la-salud-y-el-cuerpo-en-ingles",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas sobre la salud y el cuerpo en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-sobre-la-salud-y-el-cuerpo-en-ingles.webp",
+    "alt": "Una estudiante aprende expresiones idiomaticas sobre la salud y el cuerpo en ingles.",
+    "categoria": "idioms-y-expresiones"
   }
 ]
