@@ -710,5 +710,21 @@
     "imagen": "../../assets/como-usar-should-have-could-have-would-have-en-ingles.webp",
     "alt": "Estudiante aprendiendo como usar should have could have would have en ingles en un portátil.",
     "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar cleft sentences en ingles para enfocar la atencion",
+    "slug": "como-usar-cleft-sentences-en-ingles-para-enfocar-la-atencion",
+    "descripcion": "Aprende todo sobre como usar cleft sentences en ingles para enfocar la atencion con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-cleft-sentences-en-ingles-para-enfocar-la-atencion.webp",
+    "alt": "Una estudiante aprende como usar cleft sentences en ingles para enfocar la atencion en su terraza.",
+    "categoria": "gramatica/b2-intermedio-alto"
+  },
+  {
+    "titulo": "Como usar participle clauses en ingles",
+    "slug": "como-usar-participle-clauses-en-ingles",
+    "descripcion": "Aprende todo sobre como usar participle clauses en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-participle-clauses-en-ingles.webp",
+    "alt": "Estudiante aprendiendo como usar participle clauses en ingles tomando notas en la biblioteca.",
+    "categoria": "gramatica/b2-intermedio-alto"
   }
 ]
