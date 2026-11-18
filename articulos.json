@@ -822,5 +822,37 @@
     "imagen": "../../assets/phrasal-verbs-avanzados-con-catch-y-drop-en-ingles.webp",
     "alt": "Estudiante repasando phrasal verbs avanzados con catch y drop en ingles dentro de una biblioteca.",
     "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs avanzados con keep y hold en ingles",
+    "slug": "phrasal-verbs-avanzados-con-keep-y-hold-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs avanzados con keep y hold en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-avanzados-con-keep-y-hold-en-ingles.webp",
+    "alt": "Estudiante leyendo un libro sobre phrasal verbs avanzados con keep y hold en ingles",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs avanzados con run y set en ingles",
+    "slug": "phrasal-verbs-avanzados-con-run-y-set-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs avanzados con run y set en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-avanzados-con-run-y-set-en-ingles.webp",
+    "alt": "Una mujer sonriente toma notas mientras estudia phrasal verbs avanzados con run y set en ingles.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Terminologia y frases para recursos humanos y contratacion en ingles",
+    "slug": "terminologia-y-frases-para-recursos-humanos-y-contratacion-en-ingles",
+    "descripcion": "Aprende todo sobre terminologia y frases para recursos humanos y contratacion en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/terminologia-y-frases-para-recursos-humanos-y-contratacion-en-ingles.webp",
+    "alt": "Estudiante utilizando recursos digitales para aprender terminologia y frases para recursos humanos y contratacion en ingles.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Vocabulario avanzado para finanzas y contabilidad en ingles",
+    "slug": "vocabulario-avanzado-para-finanzas-y-contabilidad-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario avanzado para finanzas y contabilidad en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-avanzado-para-finanzas-y-contabilidad-en-ingles.webp",
+    "alt": "Estudiante enfocada aprendiendo vocabulario avanzado para finanzas y contabilidad en inglés con laptop.",
+    "categoria": "ingles-de-negocios"
   }
 ]
