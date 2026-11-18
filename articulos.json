@@ -982,5 +982,29 @@
     "imagen": "../../assets/como-crear-un-tandem-linguistico-exitoso-para-practicar-ingles.webp",
     "alt": "Descubre como crear un tandem linguistico exitoso para practicar ingles desde tu escritorio.",
     "categoria": "blog"
+  },
+  {
+    "titulo": "Como mantener la motivacion al estudiar ingles avanzado de forma autonoma",
+    "slug": "como-mantener-la-motivacion-al-estudiar-ingles-avanzado-de-forma-autonoma",
+    "descripcion": "Aprende todo sobre como mantener la motivacion al estudiar ingles avanzado de forma autonoma con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-mantener-la-motivacion-al-estudiar-ingles-avanzado-de-forma-autonoma.webp",
+    "alt": "Estudiante enfocada en biblioteca aprendiendo como mantener la motivacion al estudiar ingles avanzado de forma autonoma",
+    "categoria": "blog"
+  },
+  {
+    "titulo": "Como mantener una conversacion fluida en ingles sin trabarse",
+    "slug": "como-mantener-una-conversacion-fluida-en-ingles-sin-trabarse",
+    "descripcion": "Aprende todo sobre como mantener una conversacion fluida en ingles sin trabarse con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-mantener-una-conversacion-fluida-en-ingles-sin-trabarse.webp",
+    "alt": "Dos jóvenes sonrientes practican inglés con confianza descubriendo cómo mantener una conversacion fluida en ingles sin trabarse.",
+    "categoria": "blog"
+  },
+  {
+    "titulo": "Estrategias efectivas para leer libros en ingles sin frustrarse",
+    "slug": "estrategias-efectivas-para-leer-libros-en-ingles-sin-frustrarse",
+    "descripcion": "Aprende todo sobre estrategias efectivas para leer libros en ingles sin frustrarse con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/estrategias-efectivas-para-leer-libros-en-ingles-sin-frustrarse.webp",
+    "alt": "Joven sonriente aplicando estrategias efectivas para leer libros en ingles sin frustrarse en biblioteca.",
+    "categoria": "blog"
   }
 ]
