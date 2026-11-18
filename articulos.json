@@ -886,5 +886,45 @@
     "imagen": "../../assets/expresiones-idiomaticas-sobre-la-salud-y-el-cuerpo-en-ingles.webp",
     "alt": "Una estudiante aprende expresiones idiomaticas sobre la salud y el cuerpo en ingles.",
     "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Expresiones idiomaticas sobre viajes y aventura en ingles",
+    "slug": "expresiones-idiomaticas-sobre-viajes-y-aventura-en-ingles",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas sobre viajes y aventura en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-sobre-viajes-y-aventura-en-ingles.webp",
+    "alt": "Una estudiante practica expresiones idiomaticas sobre viajes y aventura en ingles junto a su laptop.",
+    "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Como usar cuantificadores avanzados any every no each en ingles",
+    "slug": "como-usar-cuantificadores-avanzados-any-every-no-each-en-ingles",
+    "descripcion": "Aprende todo sobre como usar cuantificadores avanzados any every no each en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-cuantificadores-avanzados-any-every-no-each-en-ingles.webp",
+    "alt": "Jóvenes alegres en una cafetería aprenden como usar cuantificadores avanzados any every no each en ingles.",
+    "categoria": "gramatica/b2-intermedio-alto"
+  },
+  {
+    "titulo": "Como usar as well as y in addition to en ingles",
+    "slug": "como-usar-as-well-as-y-in-addition-to-en-ingles",
+    "descripcion": "Aprende todo sobre como usar as well as y in addition to en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-as-well-as-y-in-addition-to-en-ingles.webp",
+    "alt": "Estudiante aprende como usar as well as y in addition to en ingles en cafetería.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar el estilo indirecto con preguntas y peticiones en ingles",
+    "slug": "como-usar-el-estilo-indirecto-con-preguntas-y-peticiones-en-ingles",
+    "descripcion": "Aprende todo sobre como usar el estilo indirecto con preguntas y peticiones en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-el-estilo-indirecto-con-preguntas-y-peticiones-en-ingles.webp",
+    "alt": "Estudiante de inglés aprende en la biblioteca como usar el estilo indirecto con preguntas y peticiones en ingles.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar las clausulas de proposito with to in order to so as to",
+    "slug": "como-usar-las-clausulas-de-proposito-with-to-in-order-to-so-as-to",
+    "descripcion": "Aprende todo sobre como usar las clausulas de proposito with to in order to so as to con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-las-clausulas-de-proposito-with-to-in-order-to-so-as-to.webp",
+    "alt": "Estudiante con auriculares aprende como usar las clausulas de proposito with to in order to so as to en laptop.",
+    "categoria": "gramatica/b1-intermedio"
   }
 ]
