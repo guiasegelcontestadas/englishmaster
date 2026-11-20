@@ -1166,5 +1166,37 @@
     "imagen": "../../assets/vocabulario-y-frases-para-la-gestion-de-la-cadena-de-suministro-en-ingles.webp",
     "alt": "Estudiante aprende vocabulario y frases para la gestion de la cadena de suministro en ingles.",
     "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Expresiones idiomaticas en ingles relacionadas con animales",
+    "slug": "expresiones-idiomaticas-en-ingles-relacionadas-con-animales",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas en ingles relacionadas con animales con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-en-ingles-relacionadas-con-animales.webp",
+    "alt": "Una laptop muestra expresiones idiomaticas en ingles relacionadas con animales sobre un escritorio de madera.",
+    "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Expresiones idiomaticas en ingles sobre colores y su significado",
+    "slug": "expresiones-idiomaticas-en-ingles-sobre-colores-y-su-significado",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas en ingles sobre colores y su significado con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-en-ingles-sobre-colores-y-su-significado.webp",
+    "alt": "Estudiante sonriente aprende expresiones idiomaticas en ingles sobre colores y su significado durante videollamada.",
+    "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Expresiones idiomaticas en ingles sobre deportes y juegos",
+    "slug": "expresiones-idiomaticas-en-ingles-sobre-deportes-y-juegos",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas en ingles sobre deportes y juegos con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-en-ingles-sobre-deportes-y-juegos.webp",
+    "alt": "Estudiante repasa expresiones idiomaticas en ingles sobre deportes y juegos en una biblioteca.",
+    "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Modismos en ingles muy usados en conversaciones cotidianas",
+    "slug": "modismos-en-ingles-muy-usados-en-conversaciones-cotidianas",
+    "descripcion": "Aprende todo sobre modismos en ingles muy usados en conversaciones cotidianas con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/modismos-en-ingles-muy-usados-en-conversaciones-cotidianas.webp",
+    "alt": "Estudiante tomando apuntes mientras aprende modismos en ingles muy usados en conversaciones cotidianas en un café.",
+    "categoria": "idioms-y-expresiones"
   }
 ]
