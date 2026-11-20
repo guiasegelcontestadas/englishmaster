@@ -1294,5 +1294,37 @@
     "imagen": "../../assets/uso-de-ever-never-already-y-yet-en-ingles.webp",
     "alt": "Dos jóvenes estudian gramática en un café sobre el uso de ever, never, already y yet en ingles.",
     "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Como usar los adverbios de tiempo y lugar en ingles",
+    "slug": "como-usar-los-adverbios-de-tiempo-y-lugar-en-ingles",
+    "descripcion": "Aprende todo sobre como usar los adverbios de tiempo y lugar en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-adverbios-de-tiempo-y-lugar-en-ingles.webp",
+    "alt": "Una joven en un café aprende como usar los adverbios de tiempo y lugar en ingles.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Diferencia entre make y do en ingles facil",
+    "slug": "diferencia-entre-make-y-do-en-ingles-facil",
+    "descripcion": "Aprende todo sobre diferencia entre make y do en ingles facil con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/diferencia-entre-make-y-do-en-ingles-facil.webp",
+    "alt": "Estudiante en un balcón soleado repasando la diferencia entre make y do en ingles facil.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Como superar el miedo a hablar ingles en publico",
+    "slug": "como-superar-el-miedo-a-hablar-ingles-en-publico",
+    "descripcion": "Aprende todo sobre como superar el miedo a hablar ingles en publico con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-superar-el-miedo-a-hablar-ingles-en-publico.webp",
+    "alt": "Mujer practicando en una terraza brillante para aprender como superar el miedo a hablar ingles en publico.",
+    "categoria": "blog"
+  },
+  {
+    "titulo": "Consejos practicos para ver peliculas en ingles sin subtitulos y entenderlas",
+    "slug": "consejos-practicos-para-ver-peliculas-en-ingles-sin-subtitulos-y-entenderlas",
+    "descripcion": "Aprende todo sobre consejos practicos para ver peliculas en ingles sin subtitulos y entenderlas con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/consejos-practicos-para-ver-peliculas-en-ingles-sin-subtitulos-y-entenderlas.webp",
+    "alt": "Estudiante leyendo un libro, ideal para aprender consejos practicos para ver peliculas en ingles sin subtitulos y entenderlas.",
+    "categoria": "blog"
   }
 ]
