@@ -1070,5 +1070,37 @@
     "imagen": "../../assets/vocabulario-sobre-el-clima-y-desastres-naturales-en-ingles.webp",
     "alt": "Mujer en una terraza soleada estudiando vocabulario sobre el clima y desastres naturales en ingles.",
     "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Como dominar la entonacion en oraciones exclamativas en ingles",
+    "slug": "como-dominar-la-entonacion-en-oraciones-exclamativas-en-ingles",
+    "descripcion": "Aprende todo sobre como dominar la entonacion en oraciones exclamativas en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-dominar-la-entonacion-en-oraciones-exclamativas-en-ingles.webp",
+    "alt": "Estudiante en un parque leyendo como dominar la entonacion en oraciones exclamativas en ingles",
+    "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Como pronunciar correctamente la terminacion ed en pasado simple",
+    "slug": "como-pronunciar-correctamente-la-terminacion-ed-en-pasado-simple",
+    "descripcion": "Aprende todo sobre como pronunciar correctamente la terminacion ed en pasado simple con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-pronunciar-correctamente-la-terminacion-ed-en-pasado-simple.webp",
+    "alt": "Estudiante aprendiendo como pronunciar correctamente la terminacion ed en pasado simple en un café.",
+    "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Como pronunciar la s final en plurales y tercera persona en ingles",
+    "slug": "como-pronunciar-la-s-final-en-plurales-y-tercera-persona-en-ingles",
+    "descripcion": "Aprende todo sobre como pronunciar la s final en plurales y tercera persona en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-pronunciar-la-s-final-en-plurales-y-tercera-persona-en-ingles.webp",
+    "alt": "Joven sonriente estudiando en una cafetería cómo pronunciar la s final en plurales y tercera persona en inglés.",
+    "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Phrasal verbs avanzados con cut y bring en ingles",
+    "slug": "phrasal-verbs-avanzados-con-cut-y-bring-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs avanzados con cut y bring en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-avanzados-con-cut-y-bring-en-ingles.webp",
+    "alt": "Estudiante sonriente practicando phrasal verbs avanzados con cut y bring en ingles con su portátil.",
+    "categoria": "phrasal-verbs"
   }
 ]
