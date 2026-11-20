@@ -1038,5 +1038,37 @@
     "imagen": "../../assets/vocabulario-para-describir-la-ropa-la-moda-y-accesorios-en-ingles.webp",
     "alt": "Escritorio ordenado con cuaderno para aprender vocabulario para describir la ropa, la moda y accesorios en ingles.",
     "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de arquitectura y construccion en ingles",
+    "slug": "vocabulario-para-hablar-de-arquitectura-y-construccion-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de arquitectura y construccion en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-arquitectura-y-construccion-en-ingles.webp",
+    "alt": "Estudiante repasando vocabulario para hablar de arquitectura y construccion en ingles en una biblioteca.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de crimenes y justicia en ingles",
+    "slug": "vocabulario-para-hablar-de-crimenes-y-justicia-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de crimenes y justicia en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-crimenes-y-justicia-en-ingles.webp",
+    "alt": "Estudiante en el parque leyendo un libro para ampliar su vocabulario para hablar de crimenes y justicia en ingles.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de gastronomia y cocina en ingles",
+    "slug": "vocabulario-para-hablar-de-gastronomia-y-cocina-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de gastronomia y cocina en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-gastronomia-y-cocina-en-ingles.webp",
+    "alt": "Estudiante aprendiendo vocabulario para hablar de gastronomia y cocina en ingles en una biblioteca.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario sobre el clima y desastres naturales en ingles",
+    "slug": "vocabulario-sobre-el-clima-y-desastres-naturales-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario sobre el clima y desastres naturales en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-sobre-el-clima-y-desastres-naturales-en-ingles.webp",
+    "alt": "Mujer en una terraza soleada estudiando vocabulario sobre el clima y desastres naturales en ingles.",
+    "categoria": "vocabulario"
   }
 ]
