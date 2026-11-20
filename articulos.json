@@ -1006,5 +1006,37 @@
     "imagen": "../../assets/estrategias-efectivas-para-leer-libros-en-ingles-sin-frustrarse.webp",
     "alt": "Joven sonriente aplicando estrategias efectivas para leer libros en ingles sin frustrarse en biblioteca.",
     "categoria": "blog"
+  },
+  {
+    "titulo": "Vocabulario avanzado para hablar de cine musica y entretenimiento",
+    "slug": "vocabulario-avanzado-para-hablar-de-cine-musica-y-entretenimiento",
+    "descripcion": "Aprende todo sobre vocabulario avanzado para hablar de cine musica y entretenimiento con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-avanzado-para-hablar-de-cine-musica-y-entretenimiento.webp",
+    "alt": "Espacio de estudio con apuntes sobre vocabulario avanzado para hablar de cine, musica y entretenimiento",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario avanzado para hablar de filosofia y pensamiento critico en ingles",
+    "slug": "vocabulario-avanzado-para-hablar-de-filosofia-y-pensamiento-critico-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario avanzado para hablar de filosofia y pensamiento critico en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-avanzado-para-hablar-de-filosofia-y-pensamiento-critico-en-ingles.webp",
+    "alt": "Estudio en casa con portátil, libreta y vocabulario avanzado para hablar de filosofia y pensamiento critico en ingles.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para describir la personalidad y el caracter en ingles",
+    "slug": "vocabulario-para-describir-la-personalidad-y-el-caracter-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para describir la personalidad y el caracter en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-describir-la-personalidad-y-el-caracter-en-ingles.webp",
+    "alt": "Una estudiante sonriente practica vocabulario para describir la personalidad y el caracter en ingles.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para describir la ropa la moda y accesorios en ingles",
+    "slug": "vocabulario-para-describir-la-ropa-la-moda-y-accesorios-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para describir la ropa la moda y accesorios en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-describir-la-ropa-la-moda-y-accesorios-en-ingles.webp",
+    "alt": "Escritorio ordenado con cuaderno para aprender vocabulario para describir la ropa, la moda y accesorios en ingles.",
+    "categoria": "vocabulario"
   }
 ]
