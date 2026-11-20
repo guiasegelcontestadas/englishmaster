@@ -1134,5 +1134,37 @@
     "imagen": "../../assets/phrasal-verbs-para-describir-relaciones-personales-en-ingles.webp",
     "alt": "Una estudiante aprende phrasal verbs para describir relaciones personales en ingles en una biblioteca.",
     "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Frases utiles para hacer presentaciones de negocios exitosas",
+    "slug": "frases-utiles-para-hacer-presentaciones-de-negocios-exitosas",
+    "descripcion": "Aprende todo sobre frases utiles para hacer presentaciones de negocios exitosas con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/frases-utiles-para-hacer-presentaciones-de-negocios-exitosas.webp",
+    "alt": "Una mujer sonriente toma notas mientras aprende frases utiles para hacer presentaciones de negocios exitosas.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Phrasal verbs esenciales para hablar por telefono en ingles",
+    "slug": "phrasal-verbs-esenciales-para-hablar-por-telefono-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs esenciales para hablar por telefono en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-esenciales-para-hablar-por-telefono-en-ingles.webp",
+    "alt": "Joven sonriente estudiando phrasal verbs esenciales para hablar por telefono en ingles con su portátil.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Vocabulario para hablar de banca inversiones y economia en ingles",
+    "slug": "vocabulario-para-hablar-de-banca-inversiones-y-economia-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de banca inversiones y economia en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-banca-inversiones-y-economia-en-ingles.webp",
+    "alt": "Mujer estudiando vocabulario para hablar de banca, inversiones y economia en ingles en un balcón.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Vocabulario y frases para la gestion de la cadena de suministro en ingles",
+    "slug": "vocabulario-y-frases-para-la-gestion-de-la-cadena-de-suministro-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario y frases para la gestion de la cadena de suministro en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-y-frases-para-la-gestion-de-la-cadena-de-suministro-en-ingles.webp",
+    "alt": "Estudiante aprende vocabulario y frases para la gestion de la cadena de suministro en ingles.",
+    "categoria": "ingles-de-negocios"
   }
 ]
