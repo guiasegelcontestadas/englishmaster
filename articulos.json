@@ -1230,5 +1230,37 @@
     "imagen": "../../assets/como-usar-reported-questions-en-ingles.webp",
     "alt": "Estudiante aprendiendo como usar reported questions en ingles mientras toma notas en su portátil.",
     "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar used to be used to y get used to",
+    "slug": "como-usar-used-to-be-used-to-y-get-used-to",
+    "descripcion": "Aprende todo sobre como usar used to be used to y get used to con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-used-to-be-used-to-y-get-used-to.webp",
+    "alt": "Estudiante aprendiendo como usar used to, be used to y get used to leyendo en un parque.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Verbos seguidos de preposicion mas comunes en ingles",
+    "slug": "verbos-seguidos-de-preposicion-mas-comunes-en-ingles",
+    "descripcion": "Aprende todo sobre verbos seguidos de preposicion mas comunes en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/verbos-seguidos-de-preposicion-mas-comunes-en-ingles.webp",
+    "alt": "Estudiante en un banco repasa verbos seguidos de preposicion mas comunes en ingles.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar by y until en ingles correctamente",
+    "slug": "como-usar-by-y-until-en-ingles-correctamente",
+    "descripcion": "Aprende todo sobre como usar by y until en ingles correctamente con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-by-y-until-en-ingles-correctamente.webp",
+    "alt": "Ilustración principal sobre como usar by y until en ingles correctamente",
+    "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Como usar los adverbios de grado too enough very y quite",
+    "slug": "como-usar-los-adverbios-de-grado-too-enough-very-y-quite",
+    "descripcion": "Aprende todo sobre como usar los adverbios de grado too enough very y quite con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-adverbios-de-grado-too-enough-very-y-quite.webp",
+    "alt": "Estudiante en la biblioteca aprendiendo como usar los adverbios de grado too, enough, very y quite.",
+    "categoria": "gramatica/a2-elemental"
   }
 ]
