@@ -1102,5 +1102,37 @@
     "imagen": "../../assets/phrasal-verbs-avanzados-con-cut-y-bring-en-ingles.webp",
     "alt": "Estudiante sonriente practicando phrasal verbs avanzados con cut y bring en ingles con su portátil.",
     "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs mas comunes con give y take",
+    "slug": "phrasal-verbs-mas-comunes-con-give-y-take",
+    "descripcion": "Aprende todo sobre phrasal verbs mas comunes con give y take con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-mas-comunes-con-give-y-take.webp",
+    "alt": "Estudiante en la biblioteca aprende los phrasal verbs mas comunes con give y take.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs mas usados relacionados con el dinero y compras",
+    "slug": "phrasal-verbs-mas-usados-relacionados-con-el-dinero-y-compras",
+    "descripcion": "Aprende todo sobre phrasal verbs mas usados relacionados con el dinero y compras con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-mas-usados-relacionados-con-el-dinero-y-compras.webp",
+    "alt": "Escritorio de estudio con portátil mostrando una lista con los phrasal verbs mas usados relacionados con el dinero y compras.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs mas utiles para viajar y registrarse en hoteles",
+    "slug": "phrasal-verbs-mas-utiles-para-viajar-y-registrarse-en-hoteles",
+    "descripcion": "Aprende todo sobre phrasal verbs mas utiles para viajar y registrarse en hoteles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-mas-utiles-para-viajar-y-registrarse-en-hoteles.webp",
+    "alt": "Laptop abierta mostrando los phrasal verbs mas utiles para viajar y registrarse en hoteles.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs para describir relaciones personales en ingles",
+    "slug": "phrasal-verbs-para-describir-relaciones-personales-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs para describir relaciones personales en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-para-describir-relaciones-personales-en-ingles.webp",
+    "alt": "Una estudiante aprende phrasal verbs para describir relaciones personales en ingles en una biblioteca.",
+    "categoria": "phrasal-verbs"
   }
 ]
