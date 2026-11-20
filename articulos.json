@@ -1198,5 +1198,37 @@
     "imagen": "../../assets/modismos-en-ingles-muy-usados-en-conversaciones-cotidianas.webp",
     "alt": "Estudiante tomando apuntes mientras aprende modismos en ingles muy usados en conversaciones cotidianas en un café.",
     "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Como expresar deseos en el presente con wish",
+    "slug": "como-expresar-deseos-en-el-presente-con-wish",
+    "descripcion": "Aprende todo sobre como expresar deseos en el presente con wish con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-expresar-deseos-en-el-presente-con-wish.webp",
+    "alt": "Aprende como expresar deseos en el presente con wish usando un portátil y apuntes.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar either or neither nor y not only but also",
+    "slug": "como-usar-either-or-neither-nor-y-not-only-but-also",
+    "descripcion": "Aprende todo sobre como usar either or neither nor y not only but also con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-either-or-neither-nor-y-not-only-but-also.webp",
+    "alt": "Una joven sonríe aprendiendo como usar either or, neither nor y not only but also en su portátil.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar los conectores de causa y efecto en ingles",
+    "slug": "como-usar-los-conectores-de-causa-y-efecto-en-ingles",
+    "descripcion": "Aprende todo sobre como usar los conectores de causa y efecto en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-conectores-de-causa-y-efecto-en-ingles.webp",
+    "alt": "Aprende como usar los conectores de causa y efecto en ingles estudiando frente al ordenador.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar reported questions en ingles",
+    "slug": "como-usar-reported-questions-en-ingles",
+    "descripcion": "Aprende todo sobre como usar reported questions en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-reported-questions-en-ingles.webp",
+    "alt": "Estudiante aprendiendo como usar reported questions en ingles mientras toma notas en su portátil.",
+    "categoria": "gramatica/b1-intermedio"
   }
 ]
