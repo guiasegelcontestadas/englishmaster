@@ -1398,5 +1398,37 @@
     "imagen": "../../assets/como-pronunciar-las-palabras-compuestas-en-ingles-correctamente.webp",
     "alt": "Aprende como pronunciar las palabras compuestas en ingles correctamente con este tutorial online.",
     "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Phrasal verbs esenciales para la educacion y el estudio en ingles",
+    "slug": "phrasal-verbs-esenciales-para-la-educacion-y-el-estudio-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs esenciales para la educacion y el estudio en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-esenciales-para-la-educacion-y-el-estudio-en-ingles.webp",
+    "alt": "Una laptop con phrasal verbs esenciales para la educación y el estudio en inglés.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs mas comunes relacionados con la tecnologia y dispositivos en ingles",
+    "slug": "phrasal-verbs-mas-comunes-relacionados-con-la-tecnologia-y-dispositivos-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs mas comunes relacionados con la tecnologia y dispositivos en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-mas-comunes-relacionados-con-la-tecnologia-y-dispositivos-en-ingles.webp",
+    "alt": "Estudiantes aprendiendo phrasal verbs mas comunes relacionados con la tecnologia y dispositivos en ingles en una cafeteria.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs mas usados relacionados con el transporte y viajar en ingles",
+    "slug": "phrasal-verbs-mas-usados-relacionados-con-el-transporte-y-viajar-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs mas usados relacionados con el transporte y viajar en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-mas-usados-relacionados-con-el-transporte-y-viajar-en-ingles.webp",
+    "alt": "Estudiante en biblioteca repasando phrasal verbs mas usados relacionados con el transporte y viajar en ingles.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs para describir la salud y recuperarse de una enfermedad en ingles",
+    "slug": "phrasal-verbs-para-describir-la-salud-y-recuperarse-de-una-enfermedad-en-ingles",
+    "descripcion": "Aprende todo sobre phrasal verbs para describir la salud y recuperarse de una enfermedad en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-para-describir-la-salud-y-recuperarse-de-una-enfermedad-en-ingles.webp",
+    "alt": "Portátil mostrando lecciones interactivas de phrasal verbs para describir la salud y recuperarse de una enfermedad en ingles en un escritorio.",
+    "categoria": "phrasal-verbs"
   }
 ]
