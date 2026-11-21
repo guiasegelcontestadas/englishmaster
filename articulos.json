@@ -1862,5 +1862,37 @@
     "imagen": "../../assets/modismos-en-ingles-relacionados-con-los-viajes-y-el-turismo.webp",
     "alt": "Estudiante sonriente en cafetería urbana repasando modismos en ingles relacionados con los viajes y el turismo.",
     "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Como expresar obligacion y prohibicion en ingles intermedio",
+    "slug": "como-expresar-obligacion-y-prohibicion-en-ingles-intermedio",
+    "descripcion": "Aprende todo sobre como expresar obligacion y prohibicion en ingles intermedio con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-expresar-obligacion-y-prohibicion-en-ingles-intermedio.webp",
+    "alt": "Estudiante aprende como expresar obligacion y prohibicion en ingles intermedio tomando apuntes en cafe.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar los adverbios de frecuencia en ingles intermedia",
+    "slug": "como-usar-los-adverbios-de-frecuencia-en-ingles-intermedia",
+    "descripcion": "Aprende todo sobre como usar los adverbios de frecuencia en ingles intermedia con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-adverbios-de-frecuencia-en-ingles-intermedia.webp",
+    "alt": "Laptop con leccion sobre como usar los adverbios de frecuencia en ingles intermedia en escritorio.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar los conectores de consecuencia en ingles",
+    "slug": "como-usar-los-conectores-de-consecuencia-en-ingles",
+    "descripcion": "Aprende todo sobre como usar los conectores de consecuencia en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-conectores-de-consecuencia-en-ingles.webp",
+    "alt": "Estudiante sonriente en una terraza aprende como usar los conectores de consecuencia en ingles.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar los verbos modales en pasado en ingles",
+    "slug": "como-usar-los-verbos-modales-en-pasado-en-ingles",
+    "descripcion": "Aprende todo sobre como usar los verbos modales en pasado en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-verbos-modales-en-pasado-en-ingles.webp",
+    "alt": "Una taza de café y portátil explicando como usar los verbos modales en pasado en ingles.",
+    "categoria": "gramatica/b1-intermedio"
   }
 ]
