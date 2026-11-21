@@ -1670,5 +1670,37 @@
     "imagen": "../../assets/como-dominar-los-diptongos-mas-comunes-en-ingles.webp",
     "alt": "Laptop en escritorio mostrando una lección sobre como dominar los diptongos mas comunes en ingles.",
     "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Como mejorar la acentuacion de las palabras en ingles",
+    "slug": "como-mejorar-la-acentuacion-de-las-palabras-en-ingles",
+    "descripcion": "Aprende todo sobre como mejorar la acentuacion de las palabras en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-mejorar-la-acentuacion-de-las-palabras-en-ingles.webp",
+    "alt": "Joven estudiando frente a su laptop descubre como mejorar la acentuacion de las palabras en ingles.",
+    "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Como pronunciar correctamente las contracciones en ingles fluido",
+    "slug": "como-pronunciar-correctamente-las-contracciones-en-ingles-fluido",
+    "descripcion": "Aprende todo sobre como pronunciar correctamente las contracciones en ingles fluido con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-pronunciar-correctamente-las-contracciones-en-ingles-fluido.webp",
+    "alt": "Aprende como pronunciar correctamente las contracciones en ingles fluido con lecciones prácticas frente al portátil.",
+    "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Como pronunciar las consonantes mudas en ingles comun",
+    "slug": "como-pronunciar-las-consonantes-mudas-en-ingles-comun",
+    "descripcion": "Aprende todo sobre como pronunciar las consonantes mudas en ingles comun con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-pronunciar-las-consonantes-mudas-en-ingles-comun.webp",
+    "alt": "Dos amigos estudian en una cafetería como pronunciar las consonantes mudas en ingles comun.",
+    "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Diferencia de pronunciacion entre vocales largas y cortas",
+    "slug": "diferencia-de-pronunciacion-entre-vocales-largas-y-cortas",
+    "descripcion": "Aprende todo sobre diferencia de pronunciacion entre vocales largas y cortas con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/diferencia-de-pronunciacion-entre-vocales-largas-y-cortas.webp",
+    "alt": "Jovenes sonrientes estudian juntos la diferencia de pronunciacion entre vocales largas y cortas.",
+    "categoria": "pronunciacion"
   }
 ]
