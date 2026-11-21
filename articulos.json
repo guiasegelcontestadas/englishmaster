@@ -1462,5 +1462,37 @@
     "imagen": "../../assets/expresiones-idiomaticas-en-ingles-sobre-la-musica-y-el-arte.webp",
     "alt": "Estudiante sonriente leyendo un libro mientras aprende expresiones idiomaticas en ingles sobre la musica y el arte.",
     "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Expresiones idiomaticas en ingles sobre las emociones de miedo y valentia",
+    "slug": "expresiones-idiomaticas-en-ingles-sobre-las-emociones-de-miedo-y-valentia",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas en ingles sobre las emociones de miedo y valentia con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-en-ingles-sobre-las-emociones-de-miedo-y-valentia.webp",
+    "alt": "Joven estudiando expresiones idiomaticas en ingles sobre las emociones de miedo y valentia en una cafeteria.",
+    "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Modismos en ingles relacionados con el tiempo meteorologico",
+    "slug": "modismos-en-ingles-relacionados-con-el-tiempo-meteorologico",
+    "descripcion": "Aprende todo sobre modismos en ingles relacionados con el tiempo meteorologico con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/modismos-en-ingles-relacionados-con-el-tiempo-meteorologico.webp",
+    "alt": "Portátil abierto en un escritorio mostrando aplicaciones de modismos en ingles relacionados con el tiempo meteorologico.",
+    "categoria": "idioms-y-expresiones"
+  },
+  {
+    "titulo": "Oraciones de relativo omitiendo el pronombre relativo en ingles",
+    "slug": "oraciones-de-relativo-omitiendo-el-pronombre-relativo-en-ingles",
+    "descripcion": "Aprende todo sobre oraciones de relativo omitiendo el pronombre relativo en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/oraciones-de-relativo-omitiendo-el-pronombre-relativo-en-ingles.webp",
+    "alt": "Estudiante practica oraciones de relativo omitiendo el pronombre relativo en ingles en un escritorio.",
+    "categoria": "gramatica/b2-intermedio-alto"
+  },
+  {
+    "titulo": "Como usar el estilo indirecto para dar rdenes e instrucciones en ingles",
+    "slug": "como-usar-el-estilo-indirecto-para-dar-rdenes-e-instrucciones-en-ingles",
+    "descripcion": "Aprende todo sobre como usar el estilo indirecto para dar rdenes e instrucciones en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-el-estilo-indirecto-para-dar-rdenes-e-instrucciones-en-ingles.webp",
+    "alt": "Estudiante aprende como usar el estilo indirecto para dar órdenes e instrucciones en ingles.",
+    "categoria": "gramatica/b1-intermedio"
   }
 ]
