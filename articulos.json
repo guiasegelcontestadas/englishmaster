@@ -1638,5 +1638,37 @@
     "imagen": "../../assets/vocabulario-para-hablar-de-musica-instrumentos-y-conciertos.webp",
     "alt": "Escritorio con cuaderno y notas de vocabulario para hablar de musica instrumentos y conciertos",
     "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de profesiones y oficios en ingles",
+    "slug": "vocabulario-para-hablar-de-profesiones-y-oficios-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de profesiones y oficios en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-profesiones-y-oficios-en-ingles.webp",
+    "alt": "Una mujer sonriente aprende vocabulario para hablar de profesiones y oficios en ingles en su portátil.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario sobre el universo y la exploracion espacial",
+    "slug": "vocabulario-sobre-el-universo-y-la-exploracion-espacial",
+    "descripcion": "Aprende todo sobre vocabulario sobre el universo y la exploracion espacial con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-sobre-el-universo-y-la-exploracion-espacial.webp",
+    "alt": "Estudiante leyendo un libro sobre vocabulario sobre el universo y la exploracion espacial en el campus.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario y frases utiles para ir de compras en ingles",
+    "slug": "vocabulario-y-frases-utiles-para-ir-de-compras-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario y frases utiles para ir de compras en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-y-frases-utiles-para-ir-de-compras-en-ingles.webp",
+    "alt": "Portátil abierto en un escritorio con vocabulario y frases útiles para ir de compras en inglés.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Como dominar los diptongos mas comunes en ingles",
+    "slug": "como-dominar-los-diptongos-mas-comunes-en-ingles",
+    "descripcion": "Aprende todo sobre como dominar los diptongos mas comunes en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-dominar-los-diptongos-mas-comunes-en-ingles.webp",
+    "alt": "Laptop en escritorio mostrando una lección sobre como dominar los diptongos mas comunes en ingles.",
+    "categoria": "pronunciacion"
   }
 ]
