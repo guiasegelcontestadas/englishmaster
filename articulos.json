@@ -1574,5 +1574,37 @@
     "imagen": "../../assets/como-usar-have-something-done-en-ingles.webp",
     "alt": "Estudiante sonriente en un banco aprende como usar have something done en ingles.",
     "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Estrategias practicas para ampliar el vocabulario en ingles",
+    "slug": "estrategias-practicas-para-ampliar-el-vocabulario-en-ingles",
+    "descripcion": "Aprende todo sobre estrategias practicas para ampliar el vocabulario en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/estrategias-practicas-para-ampliar-el-vocabulario-en-ingles.webp",
+    "alt": "Estudiante usando estrategias practicas para ampliar el vocabulario en ingles en una biblioteca.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para describir enfermedades comunes y sintomas",
+    "slug": "vocabulario-para-describir-enfermedades-comunes-y-sintomas",
+    "descripcion": "Aprende todo sobre vocabulario para describir enfermedades comunes y sintomas con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-describir-enfermedades-comunes-y-sintomas.webp",
+    "alt": "Cuaderno y portátil con vocabulario para describir enfermedades comunes y síntomas sobre una mesa de madera.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para describir la ciudad y los servicios urbanos",
+    "slug": "vocabulario-para-describir-la-ciudad-y-los-servicios-urbanos",
+    "descripcion": "Aprende todo sobre vocabulario para describir la ciudad y los servicios urbanos con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-describir-la-ciudad-y-los-servicios-urbanos.webp",
+    "alt": "Estudiante aprendiendo vocabulario para describir la ciudad y los servicios urbanos en biblioteca.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para describir la personalidad y los sentimientos",
+    "slug": "vocabulario-para-describir-la-personalidad-y-los-sentimientos",
+    "descripcion": "Aprende todo sobre vocabulario para describir la personalidad y los sentimientos con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-describir-la-personalidad-y-los-sentimientos.webp",
+    "alt": "Una estudiante aplicada demuestra vocabulario para describir la personalidad y los sentimientos concentrada estudiando.",
+    "categoria": "vocabulario"
   }
 ]
