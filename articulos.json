@@ -1366,5 +1366,37 @@
     "imagen": "../../assets/vocabulario-para-hablar-de-ciencia-ficcion-y-literatura-en-ingles.webp",
     "alt": "Una estudiante escribe vocabulario para hablar de ciencia ficcion y literatura en ingles mientras toma clases.",
     "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de politica y gobierno en ingles",
+    "slug": "vocabulario-para-hablar-de-politica-y-gobierno-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de politica y gobierno en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-politica-y-gobierno-en-ingles.webp",
+    "alt": "Una joven estudiando vocabulario para hablar de politica y gobierno en ingles al aire libre.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de redes sociales y internet en ingles",
+    "slug": "vocabulario-para-hablar-de-redes-sociales-y-internet-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de redes sociales y internet en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-redes-sociales-y-internet-en-ingles.webp",
+    "alt": "Una joven estudia inglés aprendiendo vocabulario para hablar de redes sociales y internet en ingles.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Como pronunciar correctamente los numeros ordinales en ingles",
+    "slug": "como-pronunciar-correctamente-los-numeros-ordinales-en-ingles",
+    "descripcion": "Aprende todo sobre como pronunciar correctamente los numeros ordinales en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-pronunciar-correctamente-los-numeros-ordinales-en-ingles.webp",
+    "alt": "Estudiante en biblioteca investiga cómo pronunciar correctamente los numeros ordinales en ingles.",
+    "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Como pronunciar las palabras compuestas en ingles correctamente",
+    "slug": "como-pronunciar-las-palabras-compuestas-en-ingles-correctamente",
+    "descripcion": "Aprende todo sobre como pronunciar las palabras compuestas en ingles correctamente con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-pronunciar-las-palabras-compuestas-en-ingles-correctamente.webp",
+    "alt": "Aprende como pronunciar las palabras compuestas en ingles correctamente con este tutorial online.",
+    "categoria": "pronunciacion"
   }
 ]
