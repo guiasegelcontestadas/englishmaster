@@ -1334,5 +1334,37 @@
     "imagen": "../../assets/habitos-diarios-para-mejorar-la-comprension-auditiva-en-ingles.webp",
     "alt": "Practicar habitos diarios para mejorar la comprension auditiva en ingles en una cafeteria.",
     "categoria": "blog"
+  },
+  {
+    "titulo": "Vocabulario avanzado para hablar de psicologia y salud mental en ingles",
+    "slug": "vocabulario-avanzado-para-hablar-de-psicologia-y-salud-mental-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario avanzado para hablar de psicologia y salud mental en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-avanzado-para-hablar-de-psicologia-y-salud-mental-en-ingles.webp",
+    "alt": "Una mujer sonriente aprende vocabulario avanzado para hablar de psicologia y salud mental en ingles.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para describir herramientas y bricolaje en ingles",
+    "slug": "vocabulario-para-describir-herramientas-y-bricolaje-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para describir herramientas y bricolaje en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-describir-herramientas-y-bricolaje-en-ingles.webp",
+    "alt": "Mujer estudiando con portátil e investigando vocabulario para describir herramientas y bricolaje en ingles.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para describir la geografia y accidentes geograficos en ingles",
+    "slug": "vocabulario-para-describir-la-geografia-y-accidentes-geograficos-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para describir la geografia y accidentes geograficos en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-describir-la-geografia-y-accidentes-geograficos-en-ingles.webp",
+    "alt": "Estudiantes revisan vocabulario para describir la geografia y accidentes geograficos en ingles junto a un portatil.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de ciencia ficcion y literatura en ingles",
+    "slug": "vocabulario-para-hablar-de-ciencia-ficcion-y-literatura-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de ciencia ficcion y literatura en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-ciencia-ficcion-y-literatura-en-ingles.webp",
+    "alt": "Una estudiante escribe vocabulario para hablar de ciencia ficcion y literatura en ingles mientras toma clases.",
+    "categoria": "vocabulario"
   }
 ]
