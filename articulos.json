@@ -1926,5 +1926,37 @@
     "imagen": "../../assets/como-usar-los-cuantificadores-little-a-little-few-y-a-few.webp",
     "alt": "Estudiante tomando una clase virtual para aprender como usar los cuantificadores little a little few y a few.",
     "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Como usar los pronombres reflexivos en ingles",
+    "slug": "como-usar-los-pronombres-reflexivos-en-ingles",
+    "descripcion": "Aprende todo sobre como usar los pronombres reflexivos en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-pronombres-reflexivos-en-ingles.webp",
+    "alt": "Mujer estudiando en la terraza como usar los pronombres reflexivos en ingles.",
+    "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Diferencia entre other others y another en ingles",
+    "slug": "diferencia-entre-other-others-y-another-en-ingles",
+    "descripcion": "Aprende todo sobre diferencia entre other others y another en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/diferencia-entre-other-others-y-another-en-ingles.webp",
+    "alt": "Practicar inglés en la terraza ayuda a comprender la diferencia entre other others y another en ingles.",
+    "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Diferencia entre still yet y already en ingles",
+    "slug": "diferencia-entre-still-yet-y-already-en-ingles",
+    "descripcion": "Aprende todo sobre diferencia entre still yet y already en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/diferencia-entre-still-yet-y-already-en-ingles.webp",
+    "alt": "Estudiante en la biblioteca aprende la diferencia entre still yet y already en ingles.",
+    "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Verbos reflexivos mas usados en la conversacion diaria",
+    "slug": "verbos-reflexivos-mas-usados-en-la-conversacion-diaria",
+    "descripcion": "Aprende todo sobre verbos reflexivos mas usados en la conversacion diaria con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/verbos-reflexivos-mas-usados-en-la-conversacion-diaria.webp",
+    "alt": "Mujer sonriente estudiando los verbos reflexivos mas usados en la conversacion diaria en una cafeteria.",
+    "categoria": "gramatica/a2-elemental"
   }
 ]
