@@ -1894,5 +1894,37 @@
     "imagen": "../../assets/como-usar-los-verbos-modales-en-pasado-en-ingles.webp",
     "alt": "Una taza de café y portátil explicando como usar los verbos modales en pasado en ingles.",
     "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Oraciones temporales con as soon as y by the time",
+    "slug": "oraciones-temporales-con-as-soon-as-y-by-the-time",
+    "descripcion": "Aprende todo sobre oraciones temporales con as soon as y by the time con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/oraciones-temporales-con-as-soon-as-y-by-the-time.webp",
+    "alt": "Estudiante sonriente practicando oraciones temporales con as soon as y by the time en videollamada.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Verbos de percepcion y su estructura gramatical",
+    "slug": "verbos-de-percepcion-y-su-estructura-gramatical",
+    "descripcion": "Aprende todo sobre verbos de percepcion y su estructura gramatical con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/verbos-de-percepcion-y-su-estructura-gramatical.webp",
+    "alt": "Una mujer estudiando gramática mientras observa plantas y utiliza verbos de percepción y su estructura gramatical.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar los adverbios de modo y manera en ingles",
+    "slug": "como-usar-los-adverbios-de-modo-y-manera-en-ingles",
+    "descripcion": "Aprende todo sobre como usar los adverbios de modo y manera en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-adverbios-de-modo-y-manera-en-ingles.webp",
+    "alt": "Una joven sonriente aprende como usar los adverbios de modo y manera en ingles en su terraza.",
+    "categoria": "gramatica/a2-elemental"
+  },
+  {
+    "titulo": "Como usar los cuantificadores little a little few y a few",
+    "slug": "como-usar-los-cuantificadores-little-a-little-few-y-a-few",
+    "descripcion": "Aprende todo sobre como usar los cuantificadores little a little few y a few con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-cuantificadores-little-a-little-few-y-a-few.webp",
+    "alt": "Estudiante tomando una clase virtual para aprender como usar los cuantificadores little a little few y a few.",
+    "categoria": "gramatica/a2-elemental"
   }
 ]
