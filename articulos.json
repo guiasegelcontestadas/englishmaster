@@ -1606,5 +1606,37 @@
     "imagen": "../../assets/vocabulario-para-describir-la-personalidad-y-los-sentimientos.webp",
     "alt": "Una estudiante aplicada demuestra vocabulario para describir la personalidad y los sentimientos concentrada estudiando.",
     "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de deportes extremos y aventura",
+    "slug": "vocabulario-para-hablar-de-deportes-extremos-y-aventura",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de deportes extremos y aventura con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-deportes-extremos-y-aventura.webp",
+    "alt": "Mujer en su balcón repasando su vocabulario para hablar de deportes extremos y aventura.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de ecologia y reciclaje en ingles",
+    "slug": "vocabulario-para-hablar-de-ecologia-y-reciclaje-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de ecologia y reciclaje en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-ecologia-y-reciclaje-en-ingles.webp",
+    "alt": "Una pareja sonriente estudia vocabulario para hablar de ecologia y reciclaje en ingles en una cafetería.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de literatura y generos literarios",
+    "slug": "vocabulario-para-hablar-de-literatura-y-generos-literarios",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de literatura y generos literarios con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-literatura-y-generos-literarios.webp",
+    "alt": "Joven sonriente usando vocabulario para hablar de literatura y generos literarios en laptop.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de musica instrumentos y conciertos",
+    "slug": "vocabulario-para-hablar-de-musica-instrumentos-y-conciertos",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de musica instrumentos y conciertos con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-musica-instrumentos-y-conciertos.webp",
+    "alt": "Escritorio con cuaderno y notas de vocabulario para hablar de musica instrumentos y conciertos",
+    "categoria": "vocabulario"
   }
 ]
