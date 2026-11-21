@@ -1702,5 +1702,37 @@
     "imagen": "../../assets/diferencia-de-pronunciacion-entre-vocales-largas-y-cortas.webp",
     "alt": "Jovenes sonrientes estudian juntos la diferencia de pronunciacion entre vocales largas y cortas.",
     "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Phrasal verbs comunes relacionados con el hogar y las tareas",
+    "slug": "phrasal-verbs-comunes-relacionados-con-el-hogar-y-las-tareas",
+    "descripcion": "Aprende todo sobre phrasal verbs comunes relacionados con el hogar y las tareas con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-comunes-relacionados-con-el-hogar-y-las-tareas.webp",
+    "alt": "Una joven sonriente aprende phrasal verbs comunes relacionados con el hogar y las tareas en un café.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs comunes relacionados con la tecnologia y dispositivos",
+    "slug": "phrasal-verbs-comunes-relacionados-con-la-tecnologia-y-dispositivos",
+    "descripcion": "Aprende todo sobre phrasal verbs comunes relacionados con la tecnologia y dispositivos con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-comunes-relacionados-con-la-tecnologia-y-dispositivos.webp",
+    "alt": "Una mujer aprende en su portátil phrasal verbs comunes relacionados con la tecnologia y dispositivos.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs esenciales para hablar de viajes y transporte",
+    "slug": "phrasal-verbs-esenciales-para-hablar-de-viajes-y-transporte",
+    "descripcion": "Aprende todo sobre phrasal verbs esenciales para hablar de viajes y transporte con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-esenciales-para-hablar-de-viajes-y-transporte.webp",
+    "alt": "Estudiante tomando notas sobre phrasal verbs esenciales para hablar de viajes y transporte.",
+    "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Phrasal verbs esenciales relacionados con la educacion y examenes",
+    "slug": "phrasal-verbs-esenciales-relacionados-con-la-educacion-y-examenes",
+    "descripcion": "Aprende todo sobre phrasal verbs esenciales relacionados con la educacion y examenes con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/phrasal-verbs-esenciales-relacionados-con-la-educacion-y-examenes.webp",
+    "alt": "Estudiante repasando phrasal verbs esenciales relacionados con la educacion y examenes en el balcón.",
+    "categoria": "phrasal-verbs"
   }
 ]
