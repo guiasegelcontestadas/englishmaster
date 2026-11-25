@@ -1974,5 +1974,37 @@
     "imagen": "../../assets/como-perder-el-miedo-a-cometer-errores-al-hablar-ingles.webp",
     "alt": "Estudiante sonriente en un campus universitario aplicando consejos sobre como perder el miedo a cometer errores al hablar ingles.",
     "categoria": "blog"
+  },
+  {
+    "titulo": "Comidas en ingles vocabulario",
+    "slug": "comidas-en-ingles-vocabulario",
+    "descripcion": "Aprende todo sobre comidas en ingles vocabulario con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/comidas-en-ingles-vocabulario.webp",
+    "alt": "Estudiante sonriente repasa comidas en ingles vocabulario en un libro mientras está sentada.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Lista de las plantas en ingles vocabulario",
+    "slug": "lista-de-las-plantas-en-ingles-vocabulario",
+    "descripcion": "Aprende todo sobre lista de las plantas en ingles vocabulario con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/lista-de-las-plantas-en-ingles-vocabulario.webp",
+    "alt": "Estudiante con libro titulado Lista de las plantas en ingles vocabulario en cafetería.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Lista de los animales en ingles vocabulario",
+    "slug": "lista-de-los-animales-en-ingles-vocabulario",
+    "descripcion": "Aprende todo sobre lista de los animales en ingles vocabulario con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/lista-de-los-animales-en-ingles-vocabulario.webp",
+    "alt": "Escritorio ordenado con laptop mostrando una Lista de los animales en ingles vocabulario en cuaderno.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Lugares en ingles vocabulario",
+    "slug": "lugares-en-ingles-vocabulario",
+    "descripcion": "Aprende todo sobre lugares en ingles vocabulario con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/lugares-en-ingles-vocabulario.webp",
+    "alt": "Una mujer estudia en una terraza luminosa repasando lugares en ingles vocabulario con libros.",
+    "categoria": "vocabulario"
   }
 ]
