@@ -2038,5 +2038,21 @@
     "imagen": "../../assets/vocabulario-de-los-animales-marinos-en-ingles.webp",
     "alt": "Portátil en un escritorio mostrando una lección interactiva de vocabulario de los animales marinos en ingles.",
     "categoria": "vocabulario"
+  },
+  {
+    "titulo": "El abecedario en ingles interactivo",
+    "slug": "el-abecedario-en-ingles-interactivo",
+    "descripcion": "Aprende todo sobre el abecedario en ingles interactivo con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/el-abecedario-en-ingles-interactivo.webp",
+    "alt": "Mujer sonriente aprendiendo con El abecedario en ingles interactivo en su balcón soleado.",
+    "categoria": "gramatica/a1-principiante"
+  },
+  {
+    "titulo": "Como aprender ingles facilmente",
+    "slug": "como-aprender-ingles-facilmente",
+    "descripcion": "Aprende todo sobre como aprender ingles facilmente con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-aprender-ingles-facilmente.webp",
+    "alt": "Mujer estudiando en una biblioteca digital para saber como aprender ingles facilmente.",
+    "categoria": "blog"
   }
 ]
