@@ -2006,5 +2006,37 @@
     "imagen": "../../assets/lugares-en-ingles-vocabulario.webp",
     "alt": "Una mujer estudia en una terraza luminosa repasando lugares en ingles vocabulario con libros.",
     "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario acerca de halloween en ingles",
+    "slug": "vocabulario-acerca-de-halloween-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario acerca de halloween en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-acerca-de-halloween-en-ingles.webp",
+    "alt": "Estudiante sonriente en un parque leyendo un libro sobre vocabulario acerca de halloween en ingles.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario acerca de la navidad en ingles",
+    "slug": "vocabulario-acerca-de-la-navidad-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario acerca de la navidad en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-acerca-de-la-navidad-en-ingles.webp",
+    "alt": "Pareja joven estudiando felizmente el vocabulario acerca de la navidad en ingles en una cafetería festiva.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario acerca de las estaciones del ao en ingles",
+    "slug": "vocabulario-acerca-de-las-estaciones-del-ao-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario acerca de las estaciones del ao en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-acerca-de-las-estaciones-del-ao-en-ingles.webp",
+    "alt": "Estudiante alegre repasando Vocabulario acerca de las estaciones del año en ingles con su portátil en una cafetería.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario de los animales marinos en ingles",
+    "slug": "vocabulario-de-los-animales-marinos-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario de los animales marinos en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-de-los-animales-marinos-en-ingles.webp",
+    "alt": "Portátil en un escritorio mostrando una lección interactiva de vocabulario de los animales marinos en ingles.",
+    "categoria": "vocabulario"
   }
 ]
