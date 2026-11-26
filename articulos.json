@@ -2054,5 +2054,29 @@
     "imagen": "../../assets/como-aprender-ingles-facilmente.webp",
     "alt": "Mujer estudiando en una biblioteca digital para saber como aprender ingles facilmente.",
     "categoria": "blog"
+  },
+  {
+    "titulo": "Vocabulario para describir accesorios de fotografia y camaras",
+    "slug": "vocabulario-para-describir-accesorios-de-fotografia-y-camaras",
+    "descripcion": "Aprende todo sobre vocabulario para describir accesorios de fotografia y camaras con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-describir-accesorios-de-fotografia-y-camaras.webp",
+    "alt": "Mujer sonriente estudia vocabulario para describir accesorios de fotografia y camaras en una laptop.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para describir componentes de automoviles y mecanica",
+    "slug": "vocabulario-para-describir-componentes-de-automoviles-y-mecanica",
+    "descripcion": "Aprende todo sobre vocabulario para describir componentes de automoviles y mecanica con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-describir-componentes-de-automoviles-y-mecanica.webp",
+    "alt": "Estudiante con auriculares aprende vocabulario para describir componentes de automoviles y mecanica en un café.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para describir herramientas de carpinteria en ingles",
+    "slug": "vocabulario-para-describir-herramientas-de-carpinteria-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para describir herramientas de carpinteria en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-describir-herramientas-de-carpinteria-en-ingles.webp",
+    "alt": "Estudiante toma notas sobre vocabulario para describir herramientas de carpinteria en ingles durante clase virtual.",
+    "categoria": "vocabulario"
   }
 ]
