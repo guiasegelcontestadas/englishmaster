@@ -2126,5 +2126,29 @@
     "imagen": "../../assets/vocabulario-para-hablar-de-la-industria-textil-y-costura.webp",
     "alt": "Estudiante en cafetería aprendiendo vocabulario para hablar de la industria textil y costura.",
     "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de nutricion y dietas en ingles",
+    "slug": "vocabulario-para-hablar-de-nutricion-y-dietas-en-ingles",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de nutricion y dietas en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-nutricion-y-dietas-en-ingles.webp",
+    "alt": "Estudiante tomando apuntes de vocabulario para hablar de nutricion y dietas en ingles.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Como mejorar la entonacion al expresar ironia y sarcasmo en ingles",
+    "slug": "como-mejorar-la-entonacion-al-expresar-ironia-y-sarcasmo-en-ingles",
+    "descripcion": "Aprende todo sobre como mejorar la entonacion al expresar ironia y sarcasmo en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-mejorar-la-entonacion-al-expresar-ironia-y-sarcasmo-en-ingles.webp",
+    "alt": "Aprende como mejorar la entonacion al expresar ironia y sarcasmo en ingles practicando con cursos online.",
+    "categoria": "pronunciacion"
+  },
+  {
+    "titulo": "Como pronunciar correctamente las palabras con la combinacion gh en ingles",
+    "slug": "como-pronunciar-correctamente-las-palabras-con-la-combinacion-gh-en-ingles",
+    "descripcion": "Aprende todo sobre como pronunciar correctamente las palabras con la combinacion gh en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-pronunciar-correctamente-las-palabras-con-la-combinacion-gh-en-ingles.webp",
+    "alt": "Escritorio con laptop abierta sobre como pronunciar correctamente las palabras con la combinacion gh en ingles.",
+    "categoria": "pronunciacion"
   }
 ]
