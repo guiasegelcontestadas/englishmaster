@@ -2078,5 +2078,29 @@
     "imagen": "../../assets/vocabulario-para-describir-herramientas-de-carpinteria-en-ingles.webp",
     "alt": "Estudiante toma notas sobre vocabulario para describir herramientas de carpinteria en ingles durante clase virtual.",
     "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para describir los sintomas de la gripe y resfriado",
+    "slug": "vocabulario-para-describir-los-sintomas-de-la-gripe-y-resfriado",
+    "descripcion": "Aprende todo sobre vocabulario para describir los sintomas de la gripe y resfriado con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-describir-los-sintomas-de-la-gripe-y-resfriado.webp",
+    "alt": "Un escritorio con ordenador y libreta mostrando el vocabulario para describir los sintomas de la gripe y resfriado.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de desastres ambientales y ecologia",
+    "slug": "vocabulario-para-hablar-de-desastres-ambientales-y-ecologia",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de desastres ambientales y ecologia con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-desastres-ambientales-y-ecologia.webp",
+    "alt": "Joven estudiante leyendo un libro con vocabulario para hablar de desastres ambientales y ecologia.",
+    "categoria": "vocabulario"
+  },
+  {
+    "titulo": "Vocabulario para hablar de jardinicultura y plantas de interior",
+    "slug": "vocabulario-para-hablar-de-jardinicultura-y-plantas-de-interior",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de jardinicultura y plantas de interior con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-jardinicultura-y-plantas-de-interior.webp",
+    "alt": "Escritorio iluminado ideal para estudiar vocabulario para hablar de jardinicultura y plantas de interior.",
+    "categoria": "vocabulario"
   }
 ]
