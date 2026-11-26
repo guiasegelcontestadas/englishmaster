@@ -2246,5 +2246,29 @@
     "imagen": "../../assets/phrasal-verbs-utiles-para-hablar-de-mascotas-y-animales-domesticos.webp",
     "alt": "Estudiante en biblioteca repasando phrasal verbs utiles para hablar de mascotas y animales domesticos.",
     "categoria": "phrasal-verbs"
+  },
+  {
+    "titulo": "Frases clave para redactar propuestas comerciales efectivas",
+    "slug": "frases-clave-para-redactar-propuestas-comerciales-efectivas",
+    "descripcion": "Aprende todo sobre frases clave para redactar propuestas comerciales efectivas con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/frases-clave-para-redactar-propuestas-comerciales-efectivas.webp",
+    "alt": "Escritorio ordenado con laptop para buscar frases clave para redactar propuestas comerciales efectivas.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Terminologia para hablar de fusiones y adquisiciones empresariales",
+    "slug": "terminologia-para-hablar-de-fusiones-y-adquisiciones-empresariales",
+    "descripcion": "Aprende todo sobre terminologia para hablar de fusiones y adquisiciones empresariales con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/terminologia-para-hablar-de-fusiones-y-adquisiciones-empresariales.webp",
+    "alt": "Mujer tomando notas sobre terminología para hablar de fusiones y adquisiciones empresariales.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Terminologia para la evaluacion de desempeno laboral de empleados",
+    "slug": "terminologia-para-la-evaluacion-de-desempeno-laboral-de-empleados",
+    "descripcion": "Aprende todo sobre terminologia para la evaluacion de desempeno laboral de empleados con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/terminologia-para-la-evaluacion-de-desempeno-laboral-de-empleados.webp",
+    "alt": "Mujer sonriente trabajando en un portátil repasando la terminologia para la evaluacion de desempeno laboral de empleados.",
+    "categoria": "ingles-de-negocios"
   }
 ]
