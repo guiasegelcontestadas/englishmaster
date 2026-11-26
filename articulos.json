@@ -2390,5 +2390,29 @@
     "imagen": "../../assets/como-usar-los-prefijos-de-cantidad-y-medida-en-ingles.webp",
     "alt": "Estudiante en un parque aprende como usar los prefijos de cantidad y medida en ingles",
     "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Como usar los sufijos para convertir sustantivos en adjetivos",
+    "slug": "como-usar-los-sufijos-para-convertir-sustantivos-en-adjetivos",
+    "descripcion": "Aprende todo sobre como usar los sufijos para convertir sustantivos en adjetivos con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/como-usar-los-sufijos-para-convertir-sustantivos-en-adjetivos.webp",
+    "alt": "Estudiante aprende en el parque como usar los sufijos para convertir sustantivos en adjetivos.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Diferencia entre affect y effect en ingles",
+    "slug": "diferencia-entre-affect-y-effect-en-ingles",
+    "descripcion": "Aprende todo sobre diferencia entre affect y effect en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/diferencia-entre-affect-y-effect-en-ingles.webp",
+    "alt": "Aprende la diferencia entre affect y effect en ingles con este bloc de notas en el escritorio.",
+    "categoria": "gramatica/b1-intermedio"
+  },
+  {
+    "titulo": "Diferencia entre worth y worthy en ingles",
+    "slug": "diferencia-entre-worth-y-worthy-en-ingles",
+    "descripcion": "Aprende todo sobre diferencia entre worth y worthy en ingles con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/diferencia-entre-worth-y-worthy-en-ingles.webp",
+    "alt": "Una mujer sonríe estudiando en un café la diferencia entre worth y worthy en ingles.",
+    "categoria": "gramatica/b1-intermedio"
   }
 ]
