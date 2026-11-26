@@ -43,14 +43,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b1-intermedio/oraciones-concessive-clauses-en-ingles-con-althoough-even-though-y-despite/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a1-principiante/como-usar-el-presente-continuo-en-ingles/</loc>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a1-principiante/como-usar-el-presente-continuo-en-ingles/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b1-intermedio/oraciones-concessive-clauses-en-ingles-con-althoough-even-though-y-despite/</loc>
+    <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -67,16 +67,16 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a1-principiante/</loc>
-    <lastmod>2026-11-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b1-intermedio/como-usar-las-clausulas-de-resultado-so-such-that-en-ingles/</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a1-principiante/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/pronunciacion/como-dominar-la-entonacion-ascendente-y-descendente-en-ingles/</loc>
@@ -115,20 +115,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-sobre-viajes-y-aventura-en-ingles/</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b1-intermedio/como-usar-used-to-en-ingles/</loc>
     <lastmod>2026-11-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/vocabulario-avanzado-sobre-psicologia-y-emociones-humanas-en-ingles/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-sobre-viajes-y-aventura-en-ingles/</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -137,6 +131,12 @@
     <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/vocabulario-avanzado-sobre-psicologia-y-emociones-humanas-en-ingles/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/pronunciacion/como-pronunciar-correctamente-las-contracciones-en-ingles-fluido/</loc>
@@ -175,14 +175,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-avanzados-con-break-y-fall-en-ingles/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-mas-usados-para-hablar-de-salud-y-bienestar/</loc>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-mas-usados-para-hablar-de-salud-y-bienestar/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-avanzados-con-break-y-fall-en-ingles/</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -433,6 +433,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/modismos-en-ingles-para-hablar-de-secretos-y-misterios/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a2-elemental/verbos-seguidos-de-preposicion-de-lugar-y-movimiento/</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -463,14 +469,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-esenciales-relacionados-con-la-educacion-y-examenes/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-sobre-la-comida-y-alimentacion-en-ingles/</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-sobre-la-comida-y-alimentacion-en-ingles/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-esenciales-relacionados-con-la-educacion-y-examenes/</loc>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -757,14 +763,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/vocabulario-para-hablar-de-musica-instrumentos-y-conciertos/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/ingles-de-negocios/vocabulario-y-frases-para-la-gestion-de-la-cadena-de-suministro-en-ingles/</loc>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/ingles-de-negocios/vocabulario-y-frases-para-la-gestion-de-la-cadena-de-suministro-en-ingles/</loc>
-    <lastmod>2026-11-19</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/vocabulario-para-hablar-de-musica-instrumentos-y-conciertos/</loc>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,6 +787,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a1-principiante/pronombres-posesivos-en-ingles-mine-yours-his/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-avanzados-con-put-y-turn/</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -789,12 +801,6 @@
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a1-principiante/el-abecedario-en-ingles-interactivo/</loc>
     <lastmod>2026-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a1-principiante/pronombres-posesivos-en-ingles-mine-yours-his/</loc>
-    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -813,6 +819,12 @@
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/vocabulario-acerca-de-las-estaciones-del-ao-en-ingles/</loc>
     <lastmod>2026-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-sobre-la-paciencia-y-el-tiempo-de-espera/</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -883,7 +895,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b1-intermedio/como-usar-los-conectores-de-causa-y-efecto-en-ingles/</loc>
+    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a1-principiante/diferencia-entre-make-y-do-en-ingles-facil/</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -895,13 +907,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a2-elemental/como-usar-los-prefijos-de-negacion-un-im-in-y-dis/</loc>
+    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b1-intermedio/como-usar-los-conectores-de-causa-y-efecto-en-ingles/</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a1-principiante/diferencia-entre-make-y-do-en-ingles-facil/</loc>
+    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a2-elemental/como-usar-los-prefijos-de-negacion-un-im-in-y-dis/</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1063,16 +1075,16 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/vocabulario-para-hablar-de-gastronomia-y-cocina-en-ingles/</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a2-elemental/como-usar-los-adverbios-de-modo-y-manera-en-ingles/</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/vocabulario-para-hablar-de-gastronomia-y-cocina-en-ingles/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/ingles-de-negocios/frases-utiles-para-redactar-cartas-y-correos-comerciales/</loc>
@@ -1117,16 +1129,16 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/pronunciacion/como-pronunciar-correctamente-las-palabras-con-la-combinacion-gh-en-ingles/</loc>
-    <lastmod>2026-11-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b2-intermedio-alto/oraciones-de-relativo-omitiendo-el-pronombre-relativo-en-ingles/</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/pronunciacion/como-pronunciar-correctamente-las-palabras-con-la-combinacion-gh-en-ingles/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-en-ingles-sobre-la-amistad-y-confianza/</loc>
@@ -1345,6 +1357,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-sobre-la-pereza-y-la-actividad-fisica/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b1-intermedio/estilo-indirecto-o-reported-speech-en-ingles/</loc>
     <lastmod>2026-11-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -1513,14 +1531,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/vocabulario-para-hablar-de-desastres-ambientales-y-ecologia/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/ingles-de-negocios/phrasal-verbs-utiles-para-hablar-de-dinero-y-finanzas-basicas/</loc>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/ingles-de-negocios/phrasal-verbs-utiles-para-hablar-de-dinero-y-finanzas-basicas/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/vocabulario-para-hablar-de-desastres-ambientales-y-ecologia/</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1609,16 +1627,16 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/lugares-en-ingles-vocabulario/</loc>
-    <lastmod>2026-11-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-para-describir-relaciones-familiares-y-de-pareja/</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a1-principiante/cuantificadores-basicos-some-y-any-en-ingles/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/gramatica/b1-intermedio/como-usar-reported-questions-en-ingles/</loc>
@@ -1627,8 +1645,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/ingles-de-negocios/vocabulario-y-frases-para-la-gestion-de-presupuestos-en-ingles/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/lugares-en-ingles-vocabulario/</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1639,10 +1657,10 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/gramatica/a1-principiante/cuantificadores-basicos-some-y-any-en-ingles/</loc>
-    <lastmod>2026-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://englishmaster.quantumaudiostudio.com/ingles-de-negocios/vocabulario-y-frases-para-la-gestion-de-presupuestos-en-ingles/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://englishmaster.quantumaudiostudio.com/phrasal-verbs/phrasal-verbs-avanzados-con-catch-y-drop-en-ingles/</loc>
@@ -1657,14 +1675,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/vocabulario-para-hablar-de-jardinicultura-y-plantas-de-interior/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-sobre-negocios-y-dinero-en-ingles/</loc>
+    <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://englishmaster.quantumaudiostudio.com/idioms-y-expresiones/expresiones-idiomaticas-sobre-negocios-y-dinero-en-ingles/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://englishmaster.quantumaudiostudio.com/vocabulario/vocabulario-para-hablar-de-jardinicultura-y-plantas-de-interior/</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
