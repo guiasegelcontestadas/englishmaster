@@ -2270,5 +2270,29 @@
     "imagen": "../../assets/terminologia-para-la-evaluacion-de-desempeno-laboral-de-empleados.webp",
     "alt": "Mujer sonriente trabajando en un portátil repasando la terminologia para la evaluacion de desempeno laboral de empleados.",
     "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Vocabulario para hablar de auditorias financieras y contables",
+    "slug": "vocabulario-para-hablar-de-auditorias-financieras-y-contables",
+    "descripcion": "Aprende todo sobre vocabulario para hablar de auditorias financieras y contables con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-para-hablar-de-auditorias-financieras-y-contables.webp",
+    "alt": "Estudiante repasando vocabulario para hablar de auditorias financieras y contables en un parque universitario.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Vocabulario y frases para la gestion de reclamaciones de clientes",
+    "slug": "vocabulario-y-frases-para-la-gestion-de-reclamaciones-de-clientes",
+    "descripcion": "Aprende todo sobre vocabulario y frases para la gestion de reclamaciones de clientes con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/vocabulario-y-frases-para-la-gestion-de-reclamaciones-de-clientes.webp",
+    "alt": "Una mujer estudiando vocabulario y frases para la gestion de reclamaciones de clientes en una terraza soleada.",
+    "categoria": "ingles-de-negocios"
+  },
+  {
+    "titulo": "Expresiones idiomaticas en ingles sobre colores y estados animicos",
+    "slug": "expresiones-idiomaticas-en-ingles-sobre-colores-y-estados-animicos",
+    "descripcion": "Aprende todo sobre expresiones idiomaticas en ingles sobre colores y estados animicos con ejemplos prácticos y explicaciones claras en EnglishMaster.",
+    "imagen": "../../assets/expresiones-idiomaticas-en-ingles-sobre-colores-y-estados-animicos.webp",
+    "alt": "Una estudiante aprende expresiones idiomaticas en ingles sobre colores y estados animicos frente al portatil.",
+    "categoria": "idioms-y-expresiones"
   }
 ]
